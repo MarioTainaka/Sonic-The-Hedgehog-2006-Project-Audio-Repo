@@ -1,0 +1,4 @@
+aqu_a:Speed_Highway_Generic1: 0
+aqu_b:Speed_Highway_Generic2: 1
+
+Ident:2000

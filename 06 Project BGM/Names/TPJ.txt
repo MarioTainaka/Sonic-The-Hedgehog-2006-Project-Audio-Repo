@@ -1,0 +1,7 @@
+tpj_a:Speed_Highway_Generic1: 0
+
+tpj_b:Speed_Highway_Generic2: 1
+
+tpj_c:Speed_Highway_Generic3: 2
+
+Ident:900

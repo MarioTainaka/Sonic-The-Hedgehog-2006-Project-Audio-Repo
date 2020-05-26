@@ -1,0 +1,4 @@
+rct_a:Speed_Highway_Generic1 : 0
+rct_b:Speed_Highway_Generic2 : 1
+
+Ident:800

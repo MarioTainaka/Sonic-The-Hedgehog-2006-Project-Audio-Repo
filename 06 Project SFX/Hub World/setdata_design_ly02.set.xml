@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<SetObject>
+    <LayerDefine>
+        <Center>
+            <w>0</w>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+        </Center>
+        <MergeFile />
+        <OffsetBoxA>
+            <w>0</w>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+        </OffsetBoxA>
+        <OffsetBoxB>
+            <w>0</w>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+        </OffsetBoxB>
+        <OffsetRadius>0</OffsetRadius>
+        <PositionOffset>
+            <w>0</w>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+        </PositionOffset>
+        <RotationOffsetY>0</RotationOffsetY>
+    </LayerDefine>
+    <SoundPoint>
+        <BaseVolume>1</BaseVolume>
+        <CueName>area_b_common_amb</CueName>
+        <FileName>stage_PAM</FileName>
+        <GroundOffset>0</GroundOffset>
+        <InsideRadius>10000</InsideRadius>
+        <IntervalTime>5</IntervalTime>
+        <IsCastShadow>true</IsCastShadow>
+        <IsRegularly>false</IsRegularly>
+        <Radius>10000</Radius>
+        <Range>100000</Range>
+        <SetObjectID>10507</SetObjectID>
+        <Position>
+            <x>58.6842</x>
+            <y>-5.76031</y>
+            <z>-317.573</z>
+        </Position>
+        <Rotation>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+            <w>1</w>
+        </Rotation>
+    </SoundPoint>
+</SetObject>

@@ -1,0 +1,10 @@
+csc_a:Speed_Highway_Generic1: 0
+
+
+csc_b:Speed_Highway_Generic2: 1
+
+csc_e:Speed_Highway_Generic3: 2 
+
+City_Escape_Generic1:         3
+
+Ident: 500

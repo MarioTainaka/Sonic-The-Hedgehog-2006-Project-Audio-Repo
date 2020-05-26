@@ -1,0 +1,5 @@
+Rage=XXXX 
+
+Radius=-4 of Range
+
+Inside Radius -13 of Radius

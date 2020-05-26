@@ -1,0 +1,4 @@
+wvo_a:Speed_Highway_Generic1: 0
+wvo_b:Speed_Highway_Generic2: 1
+
+Ident:100

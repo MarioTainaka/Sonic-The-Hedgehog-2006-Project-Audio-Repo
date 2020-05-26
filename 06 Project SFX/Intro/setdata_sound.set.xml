@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<SetObject>
+  <LayerDefine>
+    <Center>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </Center>
+    <MergeFile />
+    <OffsetBoxA>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </OffsetBoxA>
+    <OffsetBoxB>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </OffsetBoxB>
+    <OffsetRadius>0</OffsetRadius>
+    <PositionOffset>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+    </PositionOffset>
+    <RotationOffsetY>0</RotationOffsetY>
+  </LayerDefine>
+  <SoundPoint>
+    <BaseVolume>1</BaseVolume>
+    <CueName>car_noise</CueName>
+    <FileName>stage_int</FileName>
+    <GroundOffset>0</GroundOffset>
+    <InsideRadius>13</InsideRadius>
+    <IntervalTime>5</IntervalTime>
+    <IsCastShadow>true</IsCastShadow>
+    <IsRegularly>false</IsRegularly>
+    <Radius>100000</Radius>
+    <Range>100000</Range>
+    <SetObjectID>10026</SetObjectID>
+    <Position>
+      <x>231.115</x>
+      <y>41.1954</y>
+      <z>-149.573</z>
+    </Position>
+    <Rotation>
+      <x>0</x>
+      <y>0</y>
+      <z>0</z>
+      <w>1</w>
+    </Rotation>
+  </SoundPoint>
+</SetObject>

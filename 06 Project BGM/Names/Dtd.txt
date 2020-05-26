@@ -1,0 +1,5 @@
+dtd_a:Speed_Highway_Generic1: 0
+dtd_b:Speed_Highway_Generic2  1
+
+Ident:200
+
