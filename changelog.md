@@ -1,3 +1,10 @@
+## May 28th 2019
+
+- Added Surround version of battleship sound.
+- Removed Helicopter And Rocket Stuff.
+- Cleanup
+
+
 ## May 27th 2019
 
 - Added EGG Carrier Sound Replacing The Speedhighway Helicopter on all 3 bank (Polyphonic) 

@@ -87,11 +87,16 @@
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>4042_helicopter</Name>
-      <Identifier>4042003</Identifier>
-      <SynthReference>SFX_Gimmick/4000000_object/4042000_OBJ_WVO_GE/4042_003_helicopter</SynthReference>
-      <UserComment>Serves As Audio ForThe E G G Carrier In Wave Ocean</UserComment>
-      <Flags>1</Flags>
+      <Name>battleship</Name>
+      <Identifier>10012</Identifier>
+      <SynthReference>SFX/battleship</SynthReference>
+      <Flags>0</Flags>
+    </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>battleship_surround</Name>
+      <Identifier>10013</Identifier>
+      <SynthReference>SFX/battleship_surround</SynthReference>
+      <Flags>0</Flags>
     </BuilderCueNode>
   </CueNodes>
   <SynthNodes>
@@ -1728,16 +1733,14 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>SFX_Gimmick/4000000_object/4042000_OBJ_WVO_GE/4042_003_helicopter</Name>
+      <Name>SFX/battleship</Name>
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
-        <string>SFX_Gimmick/4000000_object/4042000_OBJ_WVO_GE/4042_003_helicopter/4042_003_helicopter</string>
-        <string>SFX_Gimmick/4000000_object/4042000_OBJ_WVO_GE/4042_003_helicopter/4042_003_helicopter0</string>
-        <string>SFX_Gimmick/4000000_object/4042000_OBJ_WVO_GE/4042_003_helicopter/4042_003_helicopter1</string>
-        <string>SFX_Gimmick/4000000_object/4042000_OBJ_WVO_GE/4042_003_helicopter/4042_003_helicopter2</string>
+        <string>SFX/battleship/battleship</string>
       </Children>
-      <Volume>1250</Volume>
+      <AisacReference>Globals/Aisac/rolloff_5</AisacReference>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1752,8 +1755,6 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -1762,7 +1763,6 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
-      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -1771,14 +1771,6 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -1813,21 +1805,101 @@
       <Filter2Type>0</Filter2Type>
       <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
       <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
-      <Filter2CutoffHigherOffset>0</Filter2CutoffHigherOffset>
+      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
       <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
       <PlaybackProbability>0</PlaybackProbability>
       <NLmtChildren>0</NLmtChildren>
-      <Repeat>1</Repeat>
+      <Repeat>0</Repeat>
       <ComboTime>0</ComboTime>
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>SFX_Gimmick/4000000_object/4042000_OBJ_WVO_GE/4042_003_helicopter/4042_003_helicopter</Name>
+      <Name>SFX/battleship/battleship</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/4000000_object/4042000_OBJ_SPH_GE/4042_003_helicopter_aif</SoundElementReference>
+      <SoundElementReference>Synth/battleship</SoundElementReference>
       <Children />
-      <AisacReference>Synth/4000000_object/4042000_OBJ_SPH_GE/4042_003_helicopter/4042_003_helicopter/heli_rolloff00</AisacReference>
+      <Volume>1000</Volume>
+      <Pitch>0</Pitch>
+      <DelayTime>0</DelayTime>
+      <SControl>0</SControl>
+      <EgDelay>0</EgDelay>
+      <EgAttack>0</EgAttack>
+      <EgHold>0</EgHold>
+      <EgDecay>0</EgDecay>
+      <EgRelease>480</EgRelease>
+      <EgSustain>1000</EgSustain>
+      <FilterType>0</FilterType>
+      <FilterCutoff1>0</FilterCutoff1>
+      <FilterCutoff2>0</FilterCutoff2>
+      <FilterReso>0</FilterReso>
+      <FilterReleaseOffset>0</FilterReleaseOffset>
+      <Dry0>158</Dry0>
+      <Dry1>158</Dry1>
+      <Dry2>38</Dry2>
+      <Dry3>38</Dry3>
+      <Dry4>0</Dry4>
+      <Dry5>0</Dry5>
+      <Dry6>0</Dry6>
+      <Dry7>0</Dry7>
+      <Wet0>0</Wet0>
+      <Wet1>0</Wet1>
+      <Wet2>0</Wet2>
+      <Wet3>0</Wet3>
+      <Wet4>0</Wet4>
+      <Wet5>0</Wet5>
+      <Wet6>0</Wet6>
+      <Wet7>0</Wet7>
+      <VoiceLimitType>0</VoiceLimitType>
+      <VoiceLimitPriority>0</VoiceLimitPriority>
+      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
+      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
+      <Pan3dVolumeOffset>0</Pan3dVolumeOffset>
+      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
+      <Pan3dAngleOffset>0</Pan3dAngleOffset>
+      <Pan3dAngleGain>1000</Pan3dAngleGain>
+      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
+      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
+      <Dry0g>255</Dry0g>
+      <Dry1g>255</Dry1g>
+      <Dry2g>255</Dry2g>
+      <Dry3g>255</Dry3g>
+      <Dry4g>255</Dry4g>
+      <Dry5g>255</Dry5g>
+      <Dry6g>255</Dry6g>
+      <Dry7g>255</Dry7g>
+      <Wet0g>255</Wet0g>
+      <Wet1g>255</Wet1g>
+      <Wet2g>255</Wet2g>
+      <Wet3g>255</Wet3g>
+      <Wet4g>255</Wet4g>
+      <Wet5g>255</Wet5g>
+      <Wet6g>255</Wet6g>
+      <Wet7g>255</Wet7g>
+      <Filter1Type>0</Filter1Type>
+      <Filter1CutoffOffset>0</Filter1CutoffOffset>
+      <Filter1CutoffGain>0</Filter1CutoffGain>
+      <Filter1ResoOffset>0</Filter1ResoOffset>
+      <Filter1ResoGain>0</Filter1ResoGain>
+      <Filter2Type>0</Filter2Type>
+      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
+      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
+      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
+      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
+      <PlaybackProbability>100</PlaybackProbability>
+      <NLmtChildren>0</NLmtChildren>
+      <Repeat>0</Repeat>
+      <ComboTime>0</ComboTime>
+      <ComboLoopBack>0</ComboLoopBack>
+    </BuilderSynthNode>
+    <BuilderSynthNode>
+      <Name>SFX/battleship_surround</Name>
+      <Type>WithChildren</Type>
+      <PlaybackType>Polyphonic</PlaybackType>
+      <Children>
+        <string>SFX/battleship_surround/battleship</string>
+      </Children>
+      <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
@@ -1843,8 +1915,6 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -1853,7 +1923,6 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
-      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -1862,14 +1931,6 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -1906,20 +1967,20 @@
       <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
       <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
       <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
-      <PlaybackProbability>100</PlaybackProbability>
+      <PlaybackProbability>0</PlaybackProbability>
       <NLmtChildren>0</NLmtChildren>
       <Repeat>0</Repeat>
       <ComboTime>0</ComboTime>
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>SFX_Gimmick/4000000_object/4042000_OBJ_WVO_GE/4042_003_helicopter/4042_003_helicopter0</Name>
+      <Name>SFX/battleship_surround/battleship</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/4000000_object/4042000_OBJ_SPH_GE/4042_003_helicopter0_aif</SoundElementReference>
+      <SoundElementReference>Synth/battleship</SoundElementReference>
       <Children />
-      <AisacReference>Globals/Aisac/rolloff_000</AisacReference>
-      <Volume>400</Volume>
+      <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1934,8 +1995,6 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -1944,7 +2003,6 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
-      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -1953,196 +2011,6 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
-      <VoiceLimitType>0</VoiceLimitType>
-      <VoiceLimitPriority>0</VoiceLimitPriority>
-      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
-      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
-      <Pan3dVolumeOffset>1000</Pan3dVolumeOffset>
-      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
-      <Pan3dAngleOffset>0</Pan3dAngleOffset>
-      <Pan3dAngleGain>1000</Pan3dAngleGain>
-      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
-      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
-      <Dry0g>255</Dry0g>
-      <Dry1g>255</Dry1g>
-      <Dry2g>255</Dry2g>
-      <Dry3g>255</Dry3g>
-      <Dry4g>255</Dry4g>
-      <Dry5g>255</Dry5g>
-      <Dry6g>255</Dry6g>
-      <Dry7g>255</Dry7g>
-      <Wet0g>255</Wet0g>
-      <Wet1g>255</Wet1g>
-      <Wet2g>255</Wet2g>
-      <Wet3g>255</Wet3g>
-      <Wet4g>255</Wet4g>
-      <Wet5g>255</Wet5g>
-      <Wet6g>255</Wet6g>
-      <Wet7g>255</Wet7g>
-      <Filter1Type>0</Filter1Type>
-      <Filter1CutoffOffset>0</Filter1CutoffOffset>
-      <Filter1CutoffGain>0</Filter1CutoffGain>
-      <Filter1ResoOffset>0</Filter1ResoOffset>
-      <Filter1ResoGain>0</Filter1ResoGain>
-      <Filter2Type>0</Filter2Type>
-      <Filter2CutoffLowerOffset>433</Filter2CutoffLowerOffset>
-      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
-      <Filter2CutoffHigherOffset>973</Filter2CutoffHigherOffset>
-      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
-      <PlaybackProbability>100</PlaybackProbability>
-      <NLmtChildren>0</NLmtChildren>
-      <Repeat>0</Repeat>
-      <ComboTime>0</ComboTime>
-      <ComboLoopBack>0</ComboLoopBack>
-    </BuilderSynthNode>
-    <BuilderSynthNode>
-      <Name>SFX_Gimmick/4000000_object/4042000_OBJ_WVO_GE/4042_003_helicopter/4042_003_helicopter1</Name>
-      <Type>Single</Type>
-      <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/4000000_object/4042000_OBJ_SPH_GE/4042_003_helicopter1_aif</SoundElementReference>
-      <Children />
-      <AisacReference>Synth/4000000_object/4042000_OBJ_SPH_GE/4042_003_helicopter/4042_003_helicopter1/heli_rolloff01</AisacReference>
-      <Volume>400</Volume>
-      <Pitch>0</Pitch>
-      <DelayTime>0</DelayTime>
-      <SControl>0</SControl>
-      <EgDelay>0</EgDelay>
-      <EgAttack>0</EgAttack>
-      <EgHold>0</EgHold>
-      <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
-      <EgSustain>1000</EgSustain>
-      <FilterType>0</FilterType>
-      <FilterCutoff1>0</FilterCutoff1>
-      <FilterCutoff2>0</FilterCutoff2>
-      <FilterReso>0</FilterReso>
-      <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
-      <Dry0>0</Dry0>
-      <Dry1>0</Dry1>
-      <Dry2>0</Dry2>
-      <Dry3>0</Dry3>
-      <Dry4>0</Dry4>
-      <Dry5>0</Dry5>
-      <Dry6>0</Dry6>
-      <Dry7>0</Dry7>
-      <WetOName />
-      <Wet0>0</Wet0>
-      <Wet1>0</Wet1>
-      <Wet2>0</Wet2>
-      <Wet3>0</Wet3>
-      <Wet4>0</Wet4>
-      <Wet5>0</Wet5>
-      <Wet6>0</Wet6>
-      <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
-      <VoiceLimitType>0</VoiceLimitType>
-      <VoiceLimitPriority>0</VoiceLimitPriority>
-      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
-      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
-      <Pan3dVolumeOffset>1000</Pan3dVolumeOffset>
-      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
-      <Pan3dAngleOffset>0</Pan3dAngleOffset>
-      <Pan3dAngleGain>1000</Pan3dAngleGain>
-      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
-      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
-      <Dry0g>255</Dry0g>
-      <Dry1g>255</Dry1g>
-      <Dry2g>255</Dry2g>
-      <Dry3g>255</Dry3g>
-      <Dry4g>255</Dry4g>
-      <Dry5g>255</Dry5g>
-      <Dry6g>255</Dry6g>
-      <Dry7g>255</Dry7g>
-      <Wet0g>255</Wet0g>
-      <Wet1g>255</Wet1g>
-      <Wet2g>255</Wet2g>
-      <Wet3g>255</Wet3g>
-      <Wet4g>255</Wet4g>
-      <Wet5g>255</Wet5g>
-      <Wet6g>255</Wet6g>
-      <Wet7g>255</Wet7g>
-      <Filter1Type>0</Filter1Type>
-      <Filter1CutoffOffset>0</Filter1CutoffOffset>
-      <Filter1CutoffGain>0</Filter1CutoffGain>
-      <Filter1ResoOffset>0</Filter1ResoOffset>
-      <Filter1ResoGain>0</Filter1ResoGain>
-      <Filter2Type>0</Filter2Type>
-      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
-      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
-      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
-      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
-      <PlaybackProbability>100</PlaybackProbability>
-      <NLmtChildren>0</NLmtChildren>
-      <Repeat>0</Repeat>
-      <ComboTime>0</ComboTime>
-      <ComboLoopBack>0</ComboLoopBack>
-    </BuilderSynthNode>
-    <BuilderSynthNode>
-      <Name>SFX_Gimmick/4000000_object/4042000_OBJ_WVO_GE/4042_003_helicopter/4042_003_helicopter2</Name>
-      <Type>Single</Type>
-      <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/4000000_object/4042000_OBJ_SPH_GE/4042_003_helicopter2_aif</SoundElementReference>
-      <Children />
-      <AisacReference>Synth/4000000_object/4042000_OBJ_SPH_GE/4042_003_helicopter/4042_003_helicopter2/heli_rolloff02</AisacReference>
-      <Volume>400</Volume>
-      <Pitch>0</Pitch>
-      <DelayTime>0</DelayTime>
-      <SControl>0</SControl>
-      <EgDelay>0</EgDelay>
-      <EgAttack>0</EgAttack>
-      <EgHold>0</EgHold>
-      <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
-      <EgSustain>1000</EgSustain>
-      <FilterType>0</FilterType>
-      <FilterCutoff1>0</FilterCutoff1>
-      <FilterCutoff2>0</FilterCutoff2>
-      <FilterReso>0</FilterReso>
-      <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
-      <Dry0>0</Dry0>
-      <Dry1>0</Dry1>
-      <Dry2>0</Dry2>
-      <Dry3>0</Dry3>
-      <Dry4>0</Dry4>
-      <Dry5>0</Dry5>
-      <Dry6>0</Dry6>
-      <Dry7>0</Dry7>
-      <WetOName />
-      <Wet0>0</Wet0>
-      <Wet1>0</Wet1>
-      <Wet2>0</Wet2>
-      <Wet3>0</Wet3>
-      <Wet4>0</Wet4>
-      <Wet5>0</Wet5>
-      <Wet6>0</Wet6>
-      <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -2197,24 +2065,6 @@
       <SampleCount>1108664</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth/4000000_object/4042000_OBJ_SPH_GE/4042_003_helicopter0_aif</Name>
-      <Intro />
-      <Loop>Synth_battleship_Loop_0.adx</Loop>
-      <ChannelCount>2</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>44100</SampleRate>
-      <SampleCount>533472</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
-      <Name>Synth/4000000_object/4042000_OBJ_SPH_GE/4042_003_helicopter1_aif</Name>
-      <Intro />
-      <Loop>Synth_battleship_Loop_1.adx</Loop>
-      <ChannelCount>2</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>44100</SampleRate>
-      <SampleCount>533472</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
       <Name>Synth/mew1</Name>
       <Intro />
       <Loop>Synth_mew1_Loop.adx</Loop>
@@ -2224,15 +2074,6 @@
       <SampleCount>145973</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth/4000000_object/4042000_OBJ_SPH_GE/4042_003_helicopter2_aif</Name>
-      <Intro />
-      <Loop>Synth_battleship_Loop_2.adx</Loop>
-      <ChannelCount>2</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>44100</SampleRate>
-      <SampleCount>533472</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
       <Name>Synth/mew2</Name>
       <Intro />
       <Loop>Synth_mew2_Loop.adx</Loop>
@@ -2240,15 +2081,6 @@
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
       <SampleCount>132104</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
-      <Name>Synth/4000000_object/4042000_OBJ_SPH_GE/4042_003_helicopter_aif</Name>
-      <Intro />
-      <Loop>Synth_battleship_Loop.adx</Loop>
-      <ChannelCount>2</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>44100</SampleRate>
-      <SampleCount>533472</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/mew3</Name>
@@ -2294,11 +2126,12 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/battleship</Name>
+      <Intro>battleship_phase_1.adx</Intro>
       <Loop>Synth_battleship_Loop.adx</Loop>
       <ChannelCount>2</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
-      <SampleCount>533472</SampleCount>
+      <SampleCount>1066942</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/mew_delay</Name>
@@ -2399,131 +2232,7 @@
       <RandomRange>0</RandomRange>
     </BuilderAisacNode>
     <BuilderAisacNode>
-      <Name>Synth/4000000_object/4042000_OBJ_SPH_GE/4042_003_helicopter/4042_003_helicopter/heli_rolloff00</Name>
-      <AisacName>distance</AisacName>
-      <Type>0</Type>
-      <Graphs>
-        <BuilderAisacGraphNode>
-          <Name>Graph0</Name>
-          <Type>0</Type>
-          <MaximumX>0.998</MaximumX>
-          <MinimumX>0</MinimumX>
-          <MaximumY>1</MaximumY>
-          <MinimumY>0</MinimumY>
-          <Points>
-            <BuilderAisacPointNode>
-              <Name>Point0</Name>
-              <X>0</X>
-              <Y>10000</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point1</Name>
-              <X>821</X>
-              <Y>8402</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point2</Name>
-              <X>1492</X>
-              <Y>5898</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point3</Name>
-              <X>2334</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point4</Name>
-              <X>10000</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-          </Points>
-        </BuilderAisacGraphNode>
-      </Graphs>
-      <RandomRange>0</RandomRange>
-    </BuilderAisacNode>
-    <BuilderAisacNode>
-      <Name>Synth/4000000_object/4042000_OBJ_SPH_GE/4042_003_helicopter/4042_003_helicopter1/heli_rolloff01</Name>
-      <AisacName>distance</AisacName>
-      <Type>0</Type>
-      <Graphs>
-        <BuilderAisacGraphNode>
-          <Name>Graph0</Name>
-          <Type>0</Type>
-          <MaximumX>1</MaximumX>
-          <MinimumX>0</MinimumX>
-          <MaximumY>0.6468496</MaximumY>
-          <MinimumY>0</MinimumY>
-          <Points>
-            <BuilderAisacPointNode>
-              <Name>Point0</Name>
-              <X>0</X>
-              <Y>2537</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point1</Name>
-              <X>1469</X>
-              <Y>10000</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point2</Name>
-              <X>3210</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point3</Name>
-              <X>10000</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-          </Points>
-        </BuilderAisacGraphNode>
-      </Graphs>
-      <RandomRange>0</RandomRange>
-    </BuilderAisacNode>
-    <BuilderAisacNode>
-      <Name>Synth/4000000_object/4042000_OBJ_SPH_GE/4042_003_helicopter/4042_003_helicopter2/heli_rolloff02</Name>
-      <AisacName>distance</AisacName>
-      <Type>0</Type>
-      <Graphs>
-        <BuilderAisacGraphNode>
-          <Name>Graph0</Name>
-          <Type>0</Type>
-          <MaximumX>1</MaximumX>
-          <MinimumX>0</MinimumX>
-          <MaximumY>0.6875</MaximumY>
-          <MinimumY>0</MinimumY>
-          <Points>
-            <BuilderAisacPointNode>
-              <Name>Point0</Name>
-              <X>0</X>
-              <Y>6569</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point1</Name>
-              <X>1500</X>
-              <Y>10000</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point2</Name>
-              <X>3529</X>
-              <Y>7541</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point3</Name>
-              <X>5460</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point4</Name>
-              <X>10000</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-          </Points>
-        </BuilderAisacGraphNode>
-      </Graphs>
-      <RandomRange>0</RandomRange>
-    </BuilderAisacNode>
-    <BuilderAisacNode>
-      <Name>Globals/Aisac/rolloff_000</Name>
+      <Name>Globals/Aisac/rolloff_5</Name>
       <AisacName>distance</AisacName>
       <Type>0</Type>
       <Graphs>
@@ -2534,321 +2243,6 @@
           <MinimumX>0</MinimumX>
           <MaximumY>1</MaximumY>
           <MinimumY>0</MinimumY>
-          <Points>
-            <BuilderAisacPointNode>
-              <Name>Point0</Name>
-              <X>0</X>
-              <Y>10000</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point1</Name>
-              <X>309</X>
-              <Y>9568</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point2</Name>
-              <X>900</X>
-              <Y>1550</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point3</Name>
-              <X>1669</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point4</Name>
-              <X>10000</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-          </Points>
-        </BuilderAisacGraphNode>
-        <BuilderAisacGraphNode>
-          <Name>Graph1</Name>
-          <Type>4</Type>
-          <MaximumX>1</MaximumX>
-          <MinimumX>0</MinimumX>
-          <MaximumY>1</MaximumY>
-          <MinimumY>0</MinimumY>
-          <Points>
-            <BuilderAisacPointNode>
-              <Name>Point0</Name>
-              <X>0</X>
-              <Y>10000</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point1</Name>
-              <X>379</X>
-              <Y>7484</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point2</Name>
-              <X>1609</X>
-              <Y>15</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point3</Name>
-              <X>10000</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-          </Points>
-        </BuilderAisacGraphNode>
-        <BuilderAisacGraphNode>
-          <Name>Graph2</Name>
-          <Type>3</Type>
-          <MaximumX>1</MaximumX>
-          <MinimumX>0</MinimumX>
-          <MaximumY>0</MaximumY>
-          <MinimumY>0</MinimumY>
-          <Points>
-            <BuilderAisacPointNode>
-              <Name>Point0</Name>
-              <X>0</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point1</Name>
-              <X>10000</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-          </Points>
-        </BuilderAisacGraphNode>
-      </Graphs>
-      <RandomRange>0</RandomRange>
-    </BuilderAisacNode>
-    <BuilderAisacNode>
-      <Name>Globals/Aisac/rolloff_002</Name>
-      <AisacName>distance</AisacName>
-      <Type>0</Type>
-      <Graphs>
-        <BuilderAisacGraphNode>
-          <Name>Graph0</Name>
-          <Type>0</Type>
-          <MaximumX>1</MaximumX>
-          <MinimumX>0</MinimumX>
-          <MaximumY>1</MaximumY>
-          <MinimumY>0</MinimumY>
-          <Points>
-            <BuilderAisacPointNode>
-              <Name>Point0</Name>
-              <X>0</X>
-              <Y>10000</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point1</Name>
-              <X>480</X>
-              <Y>9061</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point2</Name>
-              <X>1030</X>
-              <Y>2176</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point3</Name>
-              <X>1650</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point4</Name>
-              <X>10000</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-          </Points>
-        </BuilderAisacGraphNode>
-      </Graphs>
-      <RandomRange>0</RandomRange>
-    </BuilderAisacNode>
-    <BuilderAisacNode>
-      <Name>Globals/Aisac/rolloff_003</Name>
-      <AisacName>distance</AisacName>
-      <Type>0</Type>
-      <Graphs>
-        <BuilderAisacGraphNode>
-          <Name>Graph0</Name>
-          <Type>0</Type>
-          <MaximumX>1</MaximumX>
-          <MinimumX>0</MinimumX>
-          <MaximumY>1</MaximumY>
-          <MinimumY>0</MinimumY>
-          <Points>
-            <BuilderAisacPointNode>
-              <Name>Point0</Name>
-              <X>0</X>
-              <Y>10000</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point1</Name>
-              <X>5049</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point2</Name>
-              <X>10000</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-          </Points>
-        </BuilderAisacGraphNode>
-        <BuilderAisacGraphNode>
-          <Name>Graph1</Name>
-          <Type>4</Type>
-          <MaximumX>0.223</MaximumX>
-          <MinimumX>0</MinimumX>
-          <MaximumY>1</MaximumY>
-          <MinimumY>0.8653455</MinimumY>
-          <Points>
-            <BuilderAisacPointNode>
-              <Name>Point0</Name>
-              <X>0</X>
-              <Y>10000</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point1</Name>
-              <X>1569</X>
-              <Y>10000</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point2</Name>
-              <X>10000</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-          </Points>
-        </BuilderAisacGraphNode>
-        <BuilderAisacGraphNode>
-          <Name>Graph2</Name>
-          <Type>3</Type>
-          <MaximumX>1</MaximumX>
-          <MinimumX>0</MinimumX>
-          <MaximumY>0</MaximumY>
-          <MinimumY>0</MinimumY>
-          <Points>
-            <BuilderAisacPointNode>
-              <Name>Point0</Name>
-              <X>0</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point1</Name>
-              <X>10000</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-          </Points>
-        </BuilderAisacGraphNode>
-      </Graphs>
-      <RandomRange>0</RandomRange>
-    </BuilderAisacNode>
-    <BuilderAisacNode>
-      <Name>Globals/Aisac/rolloff_005</Name>
-      <AisacName>distance</AisacName>
-      <Type>0</Type>
-      <Graphs>
-        <BuilderAisacGraphNode>
-          <Name>Graph0</Name>
-          <Type>0</Type>
-          <MaximumX>1</MaximumX>
-          <MinimumX>0</MinimumX>
-          <MaximumY>1</MaximumY>
-          <MinimumY>0</MinimumY>
-          <Points>
-            <BuilderAisacPointNode>
-              <Name>Point0</Name>
-              <X>0</X>
-              <Y>10000</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point1</Name>
-              <X>10000</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-          </Points>
-        </BuilderAisacGraphNode>
-      </Graphs>
-      <RandomRange>0</RandomRange>
-    </BuilderAisacNode>
-    <BuilderAisacNode>
-      <Name>Globals/Aisac/rolloff_car</Name>
-      <AisacName>distance</AisacName>
-      <Type>0</Type>
-      <Graphs>
-        <BuilderAisacGraphNode>
-          <Name>Graph0</Name>
-          <Type>0</Type>
-          <MaximumX>1</MaximumX>
-          <MinimumX>0</MinimumX>
-          <MaximumY>1</MaximumY>
-          <MinimumY>0</MinimumY>
-          <Points>
-            <BuilderAisacPointNode>
-              <Name>Point0</Name>
-              <X>0</X>
-              <Y>10000</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point1</Name>
-              <X>350</X>
-              <Y>9552</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point2</Name>
-              <X>960</X>
-              <Y>1931</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point3</Name>
-              <X>1679</X>
-              <Y>738</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point4</Name>
-              <X>4129</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point5</Name>
-              <X>10000</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-          </Points>
-        </BuilderAisacGraphNode>
-        <BuilderAisacGraphNode>
-          <Name>Graph1</Name>
-          <Type>1</Type>
-          <MaximumX>1</MaximumX>
-          <MinimumX>0</MinimumX>
-          <MaximumY>489.86</MaximumY>
-          <MinimumY>0</MinimumY>
-          <Points>
-            <BuilderAisacPointNode>
-              <Name>Point0</Name>
-              <X>0</X>
-              <Y>10000</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point1</Name>
-              <X>3889</X>
-              <Y>909</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point2</Name>
-              <X>10000</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-          </Points>
-        </BuilderAisacGraphNode>
-      </Graphs>
-      <RandomRange>0</RandomRange>
-    </BuilderAisacNode>
-    <BuilderAisacNode>
-      <Name>Globals/Aisac/rolloff_dummy</Name>
-      <AisacName>distance</AisacName>
-      <Type>0</Type>
-      <Graphs>
-        <BuilderAisacGraphNode>
-          <Name>Graph0</Name>
-          <Type>0</Type>
-          <MaximumX>1</MaximumX>
-          <MinimumX>0</MinimumX>
-          <MaximumY>1</MaximumY>
-          <MinimumY>0.913973</MinimumY>
           <Points>
             <BuilderAisacPointNode>
               <Name>Point0</Name>
