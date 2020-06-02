@@ -1,3 +1,8 @@
+## May 29th 2019
+- Added enemy_wall cue to csb over step_fall cue for Robot "Crash" sound.
+- Cleaned up setdata sound.
+
+
 ## May 28th 2019
 
 - Added Surround version of battleship sound.
