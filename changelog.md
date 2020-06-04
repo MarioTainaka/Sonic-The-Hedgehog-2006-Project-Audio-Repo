@@ -1,3 +1,8 @@
+## June 4th 2019
+
+-Fixed two air cues their ranges. They were to big before and would play where they shouldn't
+
+
 ## May 29th 2019
 - Added enemy_wall cue to csb over step_fall cue for Robot "Crash" sound.
 - Cleaned up setdata sound.
