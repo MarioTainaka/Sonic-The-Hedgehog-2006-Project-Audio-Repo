@@ -1,4 +1,8 @@
-## Junw 9th 2020
+## July 11th 2020
+
+- Ported Warpgate SFX over.
+
+## June 9th 2020
 
 -Ported Big Snowball for White Acropolis to 4012_attack cue for future use.
 
