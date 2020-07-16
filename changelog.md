@@ -1,3 +1,10 @@
+
+## July 16th 2020
+
+- Added An Alternate Amb Sound For Future Use. 
+
+- Ported Warpgate_In to goalring touch cue.
+
 ## July 11th 2020
 
 - Ported Warpgate SFX over.
