@@ -1,3 +1,6 @@
+## September 5th 2020
+
+- Added Accordion Song To Stage_PAM (BGM_NO_STREAMING CSB Was To Big)
 
 ## July 16th 2020
 
