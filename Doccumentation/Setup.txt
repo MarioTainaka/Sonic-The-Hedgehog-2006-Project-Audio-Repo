@@ -31,5 +31,6 @@ Folder Strucutre
 06 Project SFX: This folder contains stage specefic audio data (Ambient and Object sounds) All csbs have been reported to work correctly within Generations. some alterations had to be made for some gimmicks but everything works.
 
 Sonic The Hedgehog CSB: This folder contains the stage, system and player csbs straight from the sound.arc file. These csbs will not work correctly in Generations due to missing csb features and 06 relying on STBK files for audio. These should only be used for refrence.
+Sonic The Hedgehog BGM: This folder contains all background music used in the game in XMA Format, untouched for future use.
 
 Doccumentation: Contains guidlines and tools used along with descriptions.
