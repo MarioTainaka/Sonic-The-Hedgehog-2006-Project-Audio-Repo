@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <SetObject>
     <LayerDefine>
         <Center>
@@ -26,8 +26,56 @@
         <RotationOffsetY>0</RotationOffsetY>
     </LayerDefine>
     <SoundPoint>
-        <BaseVolume>1</BaseVolume>
-        <CueName>fountain</CueName>
+        <BaseVolume>0.5</BaseVolume>
+        <CueName>gondola_comb</CueName>
+        <FileName>stage_PAM</FileName>
+        <GroundOffset>0</GroundOffset>
+        <InsideRadius>120</InsideRadius>
+        <IntervalTime>5</IntervalTime>
+        <IsCastShadow>true</IsCastShadow>
+        <IsRegularly>false</IsRegularly>
+        <Radius>150</Radius>
+        <Range>20</Range>
+        <SetObjectID>10019</SetObjectID>
+        <Position>
+            <x>-36.7108</x>
+            <y>-4.70811</y>
+            <z>-23.744</z>
+        </Position>
+        <Rotation>
+            <x>0</x>
+            <y>-0.690075</y>
+            <z>0</z>
+            <w>-0.723738</w>
+        </Rotation>
+    </SoundPoint>
+    <SoundPoint>
+        <BaseVolume>0.5</BaseVolume>
+        <CueName>gondola_comb</CueName>
+        <FileName>stage_PAM</FileName>
+        <GroundOffset>0</GroundOffset>
+        <InsideRadius>120</InsideRadius>
+        <IntervalTime>5</IntervalTime>
+        <IsCastShadow>true</IsCastShadow>
+        <IsRegularly>false</IsRegularly>
+        <Radius>150</Radius>
+        <Range>20</Range>
+        <SetObjectID>11637</SetObjectID>
+        <Position>
+            <x>-11.6521</x>
+            <y>-11.6387</y>
+            <z>-115.062</z>
+        </Position>
+        <Rotation>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+            <w>1</w>
+        </Rotation>
+    </SoundPoint>
+    <SoundPoint>
+        <BaseVolume>0.5</BaseVolume>
+        <CueName>gondola_comb</CueName>
         <FileName>stage_PAM</FileName>
         <GroundOffset>0</GroundOffset>
         <InsideRadius>13</InsideRadius>
@@ -36,11 +84,251 @@
         <IsRegularly>false</IsRegularly>
         <Radius>26</Radius>
         <Range>30</Range>
-        <SetObjectID>10752</SetObjectID>
+        <SetObjectID>11638</SetObjectID>
         <Position>
-            <x>22.2398</x>
-            <y>-6.41605</y>
-            <z>-55.4594</z>
+            <x>-53.8971</x>
+            <y>-19.7305</y>
+            <z>-148.151</z>
+        </Position>
+        <Rotation>
+            <x>0</x>
+            <y>0.688922</y>
+            <z>0</z>
+            <w>0.724836</w>
+        </Rotation>
+    </SoundPoint>
+    <SoundPoint>
+        <BaseVolume>0.5</BaseVolume>
+        <CueName>gondola_comb</CueName>
+        <FileName>stage_PAM</FileName>
+        <GroundOffset>0</GroundOffset>
+        <InsideRadius>13</InsideRadius>
+        <IntervalTime>5</IntervalTime>
+        <IsCastShadow>true</IsCastShadow>
+        <IsRegularly>false</IsRegularly>
+        <Radius>26</Radius>
+        <Range>30</Range>
+        <SetObjectID>11639</SetObjectID>
+        <Position>
+            <x>-71.8311</x>
+            <y>1.29191</y>
+            <z>-126.388</z>
+        </Position>
+        <Rotation>
+            <x>0</x>
+            <y>0.688921</y>
+            <z>0</z>
+            <w>0.724836</w>
+        </Rotation>
+    </SoundPoint>
+    <SoundPoint>
+        <BaseVolume>0.5</BaseVolume>
+        <CueName>gondola_comb</CueName>
+        <FileName>stage_PAM</FileName>
+        <GroundOffset>0</GroundOffset>
+        <InsideRadius>13</InsideRadius>
+        <IntervalTime>5</IntervalTime>
+        <IsCastShadow>true</IsCastShadow>
+        <IsRegularly>false</IsRegularly>
+        <Radius>26</Radius>
+        <Range>30</Range>
+        <SetObjectID>11640</SetObjectID>
+        <Position>
+            <x>29.4292</x>
+            <y>-8.76928</y>
+            <z>-111.283</z>
+        </Position>
+        <Rotation>
+            <x>0</x>
+            <y>-0.0199987</y>
+            <z>0</z>
+            <w>0.9998</w>
+        </Rotation>
+    </SoundPoint>
+    <SoundPoint>
+        <BaseVolume>0.5</BaseVolume>
+        <CueName>gondola_comb</CueName>
+        <FileName>stage_PAM</FileName>
+        <GroundOffset>0</GroundOffset>
+        <InsideRadius>13</InsideRadius>
+        <IntervalTime>5</IntervalTime>
+        <IsCastShadow>true</IsCastShadow>
+        <IsRegularly>false</IsRegularly>
+        <Radius>26</Radius>
+        <Range>30</Range>
+        <SetObjectID>11641</SetObjectID>
+        <Position>
+            <x>-74.3226</x>
+            <y>-3.33018</y>
+            <z>-261.883</z>
+        </Position>
+        <Rotation>
+            <x>0</x>
+            <y>-0.0799147</y>
+            <z>0</z>
+            <w>0.996802</w>
+        </Rotation>
+    </SoundPoint>
+    <SoundPoint>
+        <BaseVolume>0.5</BaseVolume>
+        <CueName>gondola_comb</CueName>
+        <FileName>stage_PAM</FileName>
+        <GroundOffset>0</GroundOffset>
+        <InsideRadius>120</InsideRadius>
+        <IntervalTime>5</IntervalTime>
+        <IsCastShadow>true</IsCastShadow>
+        <IsRegularly>false</IsRegularly>
+        <Radius>150</Radius>
+        <Range>20</Range>
+        <SetObjectID>11642</SetObjectID>
+        <Position>
+            <x>-34.1425</x>
+            <y>-9.64964</y>
+            <z>-231.143</z>
+        </Position>
+        <Rotation>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+            <w>1</w>
+        </Rotation>
+    </SoundPoint>
+    <SoundPoint>
+        <BaseVolume>0.5</BaseVolume>
+        <CueName>gondola_comb</CueName>
+        <FileName>stage_PAM</FileName>
+        <GroundOffset>0</GroundOffset>
+        <InsideRadius>120</InsideRadius>
+        <IntervalTime>5</IntervalTime>
+        <IsCastShadow>true</IsCastShadow>
+        <IsRegularly>false</IsRegularly>
+        <Radius>150</Radius>
+        <Range>20</Range>
+        <SetObjectID>11643</SetObjectID>
+        <Position>
+            <x>-2.95764</x>
+            <y>-8.31429</y>
+            <z>-187.4</z>
+        </Position>
+        <Rotation>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+            <w>1</w>
+        </Rotation>
+    </SoundPoint>
+    <SoundPoint>
+        <BaseVolume>0.5</BaseVolume>
+        <CueName>gondola_comb</CueName>
+        <FileName>stage_PAM</FileName>
+        <GroundOffset>0</GroundOffset>
+        <InsideRadius>120</InsideRadius>
+        <IntervalTime>5</IntervalTime>
+        <IsCastShadow>true</IsCastShadow>
+        <IsRegularly>false</IsRegularly>
+        <Radius>150</Radius>
+        <Range>20</Range>
+        <SetObjectID>11644</SetObjectID>
+        <Position>
+            <x>74.731</x>
+            <y>-3.14536</y>
+            <z>-258.791</z>
+        </Position>
+        <Rotation>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+            <w>1</w>
+        </Rotation>
+    </SoundPoint>
+    <SoundPoint>
+        <BaseVolume>0.5</BaseVolume>
+        <CueName>gondola_comb</CueName>
+        <FileName>stage_PAM</FileName>
+        <GroundOffset>0</GroundOffset>
+        <InsideRadius>120</InsideRadius>
+        <IntervalTime>5</IntervalTime>
+        <IsCastShadow>true</IsCastShadow>
+        <IsRegularly>false</IsRegularly>
+        <Radius>150</Radius>
+        <Range>39</Range>
+        <SetObjectID>11645</SetObjectID>
+        <Position>
+            <x>54.9345</x>
+            <y>-9.48235</y>
+            <z>-180.26</z>
+        </Position>
+        <Rotation>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+            <w>1</w>
+        </Rotation>
+    </SoundPoint>
+    <SoundPoint>
+        <BaseVolume>0.5</BaseVolume>
+        <CueName>gondola_comb</CueName>
+        <FileName>stage_PAM</FileName>
+        <GroundOffset>0</GroundOffset>
+        <InsideRadius>13</InsideRadius>
+        <IntervalTime>5</IntervalTime>
+        <IsCastShadow>true</IsCastShadow>
+        <IsRegularly>false</IsRegularly>
+        <Radius>26</Radius>
+        <Range>30</Range>
+        <SetObjectID>11646</SetObjectID>
+        <Position>
+            <x>-28.3251</x>
+            <y>-9.7829</y>
+            <z>-39.3549</z>
+        </Position>
+        <Rotation>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+            <w>1</w>
+        </Rotation>
+    </SoundPoint>
+    <SoundPoint>
+        <BaseVolume>0.5</BaseVolume>
+        <CueName>gondola_comb</CueName>
+        <FileName>stage_PAM</FileName>
+        <GroundOffset>0</GroundOffset>
+        <InsideRadius>120</InsideRadius>
+        <IntervalTime>5</IntervalTime>
+        <IsCastShadow>true</IsCastShadow>
+        <IsRegularly>false</IsRegularly>
+        <Radius>150</Radius>
+        <Range>20</Range>
+        <SetObjectID>11647</SetObjectID>
+        <Position>
+            <x>24.9132</x>
+            <y>-6.34433</y>
+            <z>32.8488</z>
+        </Position>
+        <Rotation>
+            <x>0</x>
+            <y>0</y>
+            <z>0</z>
+            <w>1</w>
+        </Rotation>
+    </SoundPoint>
+    <SoundPoint>
+        <BaseVolume>0.5</BaseVolume>
+        <CueName>gondola_comb</CueName>
+        <FileName>stage_PAM</FileName>
+        <GroundOffset>0</GroundOffset>
+        <InsideRadius>13</InsideRadius>
+        <IntervalTime>5</IntervalTime>
+        <IsCastShadow>true</IsCastShadow>
+        <IsRegularly>false</IsRegularly>
+        <Radius>26</Radius>
+        <Range>30</Range>
+        <SetObjectID>11648</SetObjectID>
+        <Position>
+            <x>31.4523</x>
+            <y>-8.82619</y>
+            <z>-149.068</z>
         </Position>
         <Rotation>
             <x>0</x>
@@ -50,51 +338,75 @@
         </Rotation>
     </SoundPoint>
     <SoundPoint>
-        <BaseVolume>1</BaseVolume>
-        <CueName>fountain</CueName>
+        <BaseVolume>0.5</BaseVolume>
+        <CueName>gondola_comb</CueName>
         <FileName>stage_PAM</FileName>
         <GroundOffset>0</GroundOffset>
-        <InsideRadius>13</InsideRadius>
+        <InsideRadius>120</InsideRadius>
         <IntervalTime>5</IntervalTime>
         <IsCastShadow>true</IsCastShadow>
         <IsRegularly>false</IsRegularly>
-        <Radius>26</Radius>
-        <Range>30</Range>
-        <SetObjectID>10753</SetObjectID>
+        <Radius>150</Radius>
+        <Range>20</Range>
+        <SetObjectID>11649</SetObjectID>
         <Position>
-            <x>-85.7388</x>
-            <y>-6.1867</y>
-            <z>-1.04831</z>
+            <x>-21.7226</x>
+            <y>-9.86605</y>
+            <z>-115.059</z>
         </Position>
         <Rotation>
             <x>0</x>
-            <y>0.968715</y>
+            <y>0</y>
             <z>0</z>
-            <w>0.248176</w>
+            <w>1</w>
         </Rotation>
     </SoundPoint>
     <SoundPoint>
-        <BaseVolume>1</BaseVolume>
-        <CueName>fountain</CueName>
+        <BaseVolume>0.5</BaseVolume>
+        <CueName>gondola_comb</CueName>
         <FileName>stage_PAM</FileName>
         <GroundOffset>0</GroundOffset>
-        <InsideRadius>13</InsideRadius>
+        <InsideRadius>53</InsideRadius>
         <IntervalTime>5</IntervalTime>
         <IsCastShadow>true</IsCastShadow>
         <IsRegularly>false</IsRegularly>
-        <Radius>26</Radius>
-        <Range>30</Range>
-        <SetObjectID>10751</SetObjectID>
+        <Radius>66</Radius>
+        <Range>70</Range>
+        <SetObjectID>11650</SetObjectID>
         <Position>
-            <x>-125.613</x>
-            <y>-6.3224</y>
-            <z>-292.428</z>
+            <x>-105.64</x>
+            <y>-9.76518</y>
+            <z>-233.495</z>
         </Position>
         <Rotation>
             <x>0</x>
-            <y>0.674288</y>
+            <y>0.548024</y>
             <z>0</z>
-            <w>0.738469</w>
+            <w>0.836463</w>
+        </Rotation>
+    </SoundPoint>
+    <SoundPoint>
+        <BaseVolume>0.5</BaseVolume>
+        <CueName>gondola_comb</CueName>
+        <FileName>stage_PAM</FileName>
+        <GroundOffset>0</GroundOffset>
+        <InsideRadius>23</InsideRadius>
+        <IntervalTime>5</IntervalTime>
+        <IsCastShadow>true</IsCastShadow>
+        <IsRegularly>false</IsRegularly>
+        <Radius>36</Radius>
+        <Range>40</Range>
+        <SetObjectID>11651</SetObjectID>
+        <Position>
+            <x>0.81085</x>
+            <y>-8.72845</y>
+            <z>-288.216</z>
+        </Position>
+        <Rotation>
+            <x>0</x>
+            <y>-0.999526</y>
+            <z>0</z>
+            <w>0.0307915</w>
         </Rotation>
     </SoundPoint>
 </SetObject>

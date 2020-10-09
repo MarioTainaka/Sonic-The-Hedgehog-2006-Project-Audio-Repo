@@ -1,3 +1,13 @@
+## October 9th 2020
+
+-Finalized Hub Audio With Gondola Sounds
+
+-Redid Hub CSB With Gondola Audio
+
+-Redid Silver Boss And Perfect Chaos Boss BGM From Scratch
+
+-Added a delay to the Silver and Perfect Chaos Boss Fight to avoid issues with Ultimate Darkman's Metal Sonic Mod.
+
 ## Septemberr 14th 2020
 
 -Added Warpgate sound to the hub,csb Stage_PAM.CSB
