@@ -1,3 +1,7 @@
+## October 10th 2020
+
+Increased delay for Perfect Chaos and Silver
+
 ## October 9th 2020
 
 -Finalized Hub Audio With Gondola Sounds
