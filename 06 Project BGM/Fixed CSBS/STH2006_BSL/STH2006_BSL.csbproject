@@ -31,7 +31,7 @@
       </Children>
       <Volume>900</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>227</DelayTime>
+      <DelayTime>240</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
@@ -110,7 +110,7 @@
       <Children />
       <Volume>900</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>227</DelayTime>
+      <DelayTime>240</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
