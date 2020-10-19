@@ -1,3 +1,7 @@
+## October 18th 2020
+
+- Added Hatsun/Pigenion to Stage_PAM
+
 ## October 13th 2020
 - Added Warogate to Hub_EX
 
