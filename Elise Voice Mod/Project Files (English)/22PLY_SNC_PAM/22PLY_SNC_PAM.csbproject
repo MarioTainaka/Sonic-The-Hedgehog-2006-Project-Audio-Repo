@@ -167,14 +167,14 @@
       <Name>2002_boost</Name>
       <Identifier>2002030</Identifier>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_030_boost</SynthReference>
-      <UserComment />
+      <UserComment>Volume 1200</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_boost_lp</Name>
       <Identifier>2002031</Identifier>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_031_boost_lp</SynthReference>
-      <UserComment />
+      <UserComment>Synth:930 Vol:1000,800</UserComment>
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
@@ -9076,11 +9076,11 @@
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
-        <string>Synth/2000000_player/2002000_PLY_SNC_GE/2002_030_boost/2002_030_boost_1</string>
-        <string>Synth/2000000_player/2002000_PLY_SNC_GE/2002_030_boost/2002_030_boost_2</string>
+        <string>Synth/2000000_player/2002000_PLY_SNC_GE/2002_030_boost/2002_030_boost_1_aif</string>
+        <string>Synth/2000000_player/2002000_PLY_SNC_GE/2002_030_boost/2002_030_boost_2_aif</string>
       </Children>
       <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
-      <Volume>1200</Volume>
+      <Volume>1250</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -9165,12 +9165,12 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_030_boost/2002_030_boost_1</Name>
+      <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_030_boost/2002_030_boost_1_aif</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_030_boost_1_aif</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>0</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -9178,15 +9178,13 @@
       <EgAttack>0</EgAttack>
       <EgHold>0</EgHold>
       <EgDecay>0</EgDecay>
-      <EgRelease>700</EgRelease>
+      <EgRelease>0</EgRelease>
       <EgSustain>1000</EgSustain>
       <FilterType>0</FilterType>
       <FilterCutoff1>0</FilterCutoff1>
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -9195,7 +9193,6 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
-      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -9204,14 +9201,6 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -9255,28 +9244,26 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_030_boost/2002_030_boost_2</Name>
+      <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_030_boost/2002_030_boost_2_aif</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_030_boost_2_aif</SoundElementReference>
+      <SoundElementReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_030_boost_1_aif</SoundElementReference>
       <Children />
-      <Volume>649</Volume>
-      <Pitch>350</Pitch>
+      <Volume>1250</Volume>
+      <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
       <EgHold>0</EgHold>
       <EgDecay>0</EgDecay>
-      <EgRelease>700</EgRelease>
+      <EgRelease>0</EgRelease>
       <EgSustain>1000</EgSustain>
       <FilterType>0</FilterType>
       <FilterCutoff1>0</FilterCutoff1>
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -9285,7 +9272,6 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
-      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -9294,14 +9280,6 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -9533,7 +9511,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_031_boost_lp_2_aif</SoundElementReference>
       <Children />
-      <Volume>800</Volume>
+      <Volume>0</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -12629,28 +12607,30 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_030_boost_1_aif</Name>
-      <Intro>Synth_2000000_player_2002000_PLY_SNC_GE_2002_030_boost_1_aif_Intro.adx</Intro>
+      <Intro>00_barrier_on.aif_final_Intro.adx</Intro>
+      <Loop />
       <ChannelCount>2</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>32000</SampleRate>
-      <SampleCount>118131</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>183794</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_030_boost_2_aif</Name>
-      <Intro>Synth_2000000_player_2002000_PLY_SNC_GE_2002_030_boost_2_aif_Intro.adx</Intro>
+      <Intro />
+      <Loop>00_barrier_on.aif_Loop_2.adx</Loop>
       <ChannelCount>2</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>32000</SampleRate>
-      <SampleCount>90349</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>121932</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_031_boost_lp_1_wav</Name>
-      <Intro>Synth_2000000_player_2002000_PLY_SNC_GE_2002_031_boost_lp_1_wav_Intro.adx</Intro>
-      <Loop>Synth_2000000_player_2002000_PLY_SNC_GE_2002_031_boost_lp_1_wav_Loop.adx</Loop>
+      <Intro>00_barrier_on.aif_Intro.adx</Intro>
+      <Loop>00_barrier_on.aif_Loop.adx</Loop>
       <ChannelCount>2</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>22050</SampleRate>
-      <SampleCount>47264</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>121936</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_031_boost_lp_2_aif</Name>
