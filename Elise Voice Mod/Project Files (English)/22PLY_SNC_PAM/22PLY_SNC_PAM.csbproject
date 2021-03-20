@@ -153,7 +153,7 @@
       <Name>2002_spin_ge</Name>
       <Identifier>2002028</Identifier>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_028_spin_ge</SynthReference>
-      <UserComment />
+      <UserComment>Vol: 500</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
@@ -8259,7 +8259,7 @@
         <string>Synth/2000000_player/2002000_PLY_SNC_GE/2002_028_spin_ge/2002_028_spin_ge</string>
       </Children>
       <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
-      <Volume>500</Volume>
+      <Volume>0</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
