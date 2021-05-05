@@ -4065,7 +4065,7 @@
       <Children>
         <string>Synth/3000000_voice/3000000_voice_Rank/all01_v12_sn_jp/all01_v12_sn_jp_0/all01_v12_sn_jp</string>
       </Children>
-      <Volume>600</Volume>
+      <Volume>700</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4144,7 +4144,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/3000000_voice/3000000_voice_Rank/all01_v12_sn_jp</SoundElementReference>
       <Children />
-      <Volume>600</Volume>
+      <Volume>700</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4384,7 +4384,7 @@
       <Children>
         <string>Synth/3000000_voice/3000000_voice_Rank/all01_v13_sn_jp/all01_v13_sn_jp_0/all01_v13_sn_jp</string>
       </Children>
-      <Volume>600</Volume>
+      <Volume>700</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4463,7 +4463,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/3000000_voice/3000000_voice_Rank/all01_v13_sn_jp</SoundElementReference>
       <Children />
-      <Volume>600</Volume>
+      <Volume>700</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4703,7 +4703,7 @@
       <Children>
         <string>Synth/3000000_voice/3000000_voice_Rank/all01_v14_sn_jp/all01_v14_sn_jp_0/all01_v14_sn_jp</string>
       </Children>
-      <Volume>600</Volume>
+      <Volume>700</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4782,7 +4782,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/3000000_voice/3000000_voice_Rank/all01_v14_sn_jp</SoundElementReference>
       <Children />
-      <Volume>600</Volume>
+      <Volume>700</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -5022,7 +5022,7 @@
       <Children>
         <string>Synth/3000000_voice/3000000_voice_Rank/all01_v15_sn_jp/all01_v15_sn_jp_0/all01_v15_sn_jp</string>
       </Children>
-      <Volume>600</Volume>
+      <Volume>700</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -5101,7 +5101,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/3000000_voice/3000000_voice_Rank/all01_v15_sn_jp</SoundElementReference>
       <Children />
-      <Volume>600</Volume>
+      <Volume>700</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -5341,7 +5341,7 @@
       <Children>
         <string>Synth/3000000_voice/3000000_voice_Rank/all01_v16_sn_jp/all01_v16_sn_jp_0/all01_v16_sn_jp</string>
       </Children>
-      <Volume>600</Volume>
+      <Volume>700</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -5420,7 +5420,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/3000000_voice/3000000_voice_Rank/all01_v16_sn_jp</SoundElementReference>
       <Children />
-      <Volume>600</Volume>
+      <Volume>700</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
