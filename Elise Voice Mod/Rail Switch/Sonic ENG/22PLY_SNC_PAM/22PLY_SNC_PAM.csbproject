@@ -12360,7 +12360,7 @@
       <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
       <Volume>800</Volume>
       <Pitch>0</Pitch>
-      <DelayTime>0</DelayTime>
+      <DelayTime>100</DelayTime>
       <SControl>0</SControl>
       <EgDelay>0</EgDelay>
       <EgAttack>0</EgAttack>
