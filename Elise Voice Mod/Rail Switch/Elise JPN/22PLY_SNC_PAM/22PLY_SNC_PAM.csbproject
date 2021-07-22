@@ -12290,7 +12290,8 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_089_rail_wind</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
+      <Volume>1250</Volume>
       <Pitch>0</Pitch>
       <DelayTime>100</DelayTime>
       <SControl>0</SControl>
