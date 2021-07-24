@@ -9668,7 +9668,7 @@
         <string>Synth/2000000_player/2002000_PLY_SNC_GE/2002_042_stomping/2002_042_stomping</string>
       </Children>
       <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
-      <Volume>750</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -9766,7 +9766,7 @@
       <EgAttack>0</EgAttack>
       <EgHold>0</EgHold>
       <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
+      <EgRelease>1000</EgRelease>
       <EgSustain>1000</EgSustain>
       <FilterType>0</FilterType>
       <FilterCutoff1>0</FilterCutoff1>
@@ -12754,7 +12754,7 @@
       <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
       <PlaybackProbability>0</PlaybackProbability>
       <NLmtChildren>0</NLmtChildren>
-      <Repeat>0</Repeat>
+      <Repeat>1</Repeat>
       <ComboTime>0</ComboTime>
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
@@ -12772,7 +12772,7 @@
       <EgAttack>0</EgAttack>
       <EgHold>0</EgHold>
       <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
+      <EgRelease>1000</EgRelease>
       <EgSustain>1000</EgSustain>
       <FilterType>0</FilterType>
       <FilterCutoff1>0</FilterCutoff1>
@@ -13242,8 +13242,8 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_042_stomping_aif</Name>
-      <Intro>08_spin_charge.aif.aif_Intro_0.adx</Intro>
-      <Loop>08_spin_charge.aif.aif_Loop_0.adx</Loop>
+      <Intro>08_spin_charge.aif.aif_Intro_1.adx</Intro>
+      <Loop>08_spin_charge.aif.aif_Loop_1.adx</Loop>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
