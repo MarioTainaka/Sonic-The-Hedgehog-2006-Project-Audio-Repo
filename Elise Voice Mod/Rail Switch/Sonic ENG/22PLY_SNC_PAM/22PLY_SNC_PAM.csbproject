@@ -280,12 +280,6 @@
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>2002_092_spindash_charge</Name>
-      <Identifier>80041023</Identifier>
-      <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_092_spindash_charge</SynthReference>
-      <Flags>0</Flags>
-    </BuilderCueNode>
-    <BuilderCueNode>
       <Name>2002_093_spindash_shoot</Name>
       <Identifier>80041024</Identifier>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_093_spindash_shoot</SynthReference>
@@ -13248,12 +13242,12 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_042_stomping_aif</Name>
-      <Intro>Synth_2000000_player_2002000_PLY_SNC_GE_2002_042_stomping_aif_Intro.adx</Intro>
-      <Loop>Synth_2000000_player_2002000_PLY_SNC_GE_2002_042_stomping_aif_Loop.adx</Loop>
+      <Intro>08_spin_charge.aif.aif_Intro_0.adx</Intro>
+      <Loop>08_spin_charge.aif.aif_Loop_0.adx</Loop>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>32000</SampleRate>
-      <SampleCount>90212</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>82405</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_043_stomping_lnd_aif</Name>
