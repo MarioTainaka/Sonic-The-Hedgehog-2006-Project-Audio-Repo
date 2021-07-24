@@ -279,6 +279,12 @@
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_090_bounce_attack</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>2002_093_spindash_shoot</Name>
+      <Identifier>80041024</Identifier>
+      <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_093_spindash_shoot</SynthReference>
+      <Flags>0</Flags>
+    </BuilderCueNode>
   </CueNodes>
   <SynthNodes>
     <BuilderSynthNode>
@@ -9116,7 +9122,7 @@
         <string>Synth/2000000_player/2002000_PLY_SNC_GE/2002_042_stomping/2002_042_stomping</string>
       </Children>
       <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
-      <Volume>750</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -9214,7 +9220,7 @@
       <EgAttack>0</EgAttack>
       <EgHold>0</EgHold>
       <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
+      <EgRelease>1000</EgRelease>
       <EgSustain>1000</EgSustain>
       <FilterType>0</FilterType>
       <FilterCutoff1>0</FilterCutoff1>
@@ -11965,6 +11971,326 @@
       <ComboTime>0</ComboTime>
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
+    <BuilderSynthNode>
+      <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_092_spindash_charge</Name>
+      <Type>WithChildren</Type>
+      <PlaybackType>Polyphonic</PlaybackType>
+      <Children>
+        <string>Synth/2000000_player/2002000_PLY_SNC_GE/2002_092_spindash_charge/2002_092_spindash_charge</string>
+      </Children>
+      <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
+      <Volume>1000</Volume>
+      <Pitch>0</Pitch>
+      <DelayTime>0</DelayTime>
+      <SControl>0</SControl>
+      <EgDelay>0</EgDelay>
+      <EgAttack>0</EgAttack>
+      <EgHold>0</EgHold>
+      <EgDecay>0</EgDecay>
+      <EgRelease>0</EgRelease>
+      <EgSustain>1000</EgSustain>
+      <FilterType>0</FilterType>
+      <FilterCutoff1>0</FilterCutoff1>
+      <FilterCutoff2>0</FilterCutoff2>
+      <FilterReso>0</FilterReso>
+      <FilterReleaseOffset>0</FilterReleaseOffset>
+      <Dry0>0</Dry0>
+      <Dry1>0</Dry1>
+      <Dry2>0</Dry2>
+      <Dry3>0</Dry3>
+      <Dry4>0</Dry4>
+      <Dry5>0</Dry5>
+      <Dry6>0</Dry6>
+      <Dry7>0</Dry7>
+      <Wet0>0</Wet0>
+      <Wet1>0</Wet1>
+      <Wet2>0</Wet2>
+      <Wet3>0</Wet3>
+      <Wet4>0</Wet4>
+      <Wet5>0</Wet5>
+      <Wet6>0</Wet6>
+      <Wet7>0</Wet7>
+      <VoiceLimitType>0</VoiceLimitType>
+      <VoiceLimitPriority>0</VoiceLimitPriority>
+      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
+      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
+      <Pan3dVolumeOffset>1000</Pan3dVolumeOffset>
+      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
+      <Pan3dAngleOffset>0</Pan3dAngleOffset>
+      <Pan3dAngleGain>1000</Pan3dAngleGain>
+      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
+      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
+      <Dry0g>255</Dry0g>
+      <Dry1g>255</Dry1g>
+      <Dry2g>255</Dry2g>
+      <Dry3g>255</Dry3g>
+      <Dry4g>255</Dry4g>
+      <Dry5g>255</Dry5g>
+      <Dry6g>255</Dry6g>
+      <Dry7g>255</Dry7g>
+      <Wet0g>255</Wet0g>
+      <Wet1g>255</Wet1g>
+      <Wet2g>255</Wet2g>
+      <Wet3g>255</Wet3g>
+      <Wet4g>255</Wet4g>
+      <Wet5g>255</Wet5g>
+      <Wet6g>255</Wet6g>
+      <Wet7g>255</Wet7g>
+      <Filter1Type>0</Filter1Type>
+      <Filter1CutoffOffset>0</Filter1CutoffOffset>
+      <Filter1CutoffGain>0</Filter1CutoffGain>
+      <Filter1ResoOffset>0</Filter1ResoOffset>
+      <Filter1ResoGain>0</Filter1ResoGain>
+      <Filter2Type>0</Filter2Type>
+      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
+      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
+      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
+      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
+      <PlaybackProbability>0</PlaybackProbability>
+      <NLmtChildren>0</NLmtChildren>
+      <Repeat>0</Repeat>
+      <ComboTime>0</ComboTime>
+      <ComboLoopBack>0</ComboLoopBack>
+    </BuilderSynthNode>
+    <BuilderSynthNode>
+      <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_092_spindash_charge/2002_092_spindash_charge</Name>
+      <Type>Single</Type>
+      <PlaybackType>Normal</PlaybackType>
+      <SoundElementReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_092_spindash_charge</SoundElementReference>
+      <Children />
+      <Volume>1000</Volume>
+      <Pitch>0</Pitch>
+      <DelayTime>0</DelayTime>
+      <SControl>0</SControl>
+      <EgDelay>0</EgDelay>
+      <EgAttack>0</EgAttack>
+      <EgHold>0</EgHold>
+      <EgDecay>0</EgDecay>
+      <EgRelease>0</EgRelease>
+      <EgSustain>1000</EgSustain>
+      <FilterType>0</FilterType>
+      <FilterCutoff1>0</FilterCutoff1>
+      <FilterCutoff2>0</FilterCutoff2>
+      <FilterReso>0</FilterReso>
+      <FilterReleaseOffset>0</FilterReleaseOffset>
+      <Dry0>0</Dry0>
+      <Dry1>0</Dry1>
+      <Dry2>0</Dry2>
+      <Dry3>0</Dry3>
+      <Dry4>0</Dry4>
+      <Dry5>0</Dry5>
+      <Dry6>0</Dry6>
+      <Dry7>0</Dry7>
+      <Wet0>0</Wet0>
+      <Wet1>0</Wet1>
+      <Wet2>0</Wet2>
+      <Wet3>0</Wet3>
+      <Wet4>0</Wet4>
+      <Wet5>0</Wet5>
+      <Wet6>0</Wet6>
+      <Wet7>0</Wet7>
+      <VoiceLimitType>0</VoiceLimitType>
+      <VoiceLimitPriority>0</VoiceLimitPriority>
+      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
+      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
+      <Pan3dVolumeOffset>1000</Pan3dVolumeOffset>
+      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
+      <Pan3dAngleOffset>0</Pan3dAngleOffset>
+      <Pan3dAngleGain>1000</Pan3dAngleGain>
+      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
+      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
+      <Dry0g>255</Dry0g>
+      <Dry1g>255</Dry1g>
+      <Dry2g>255</Dry2g>
+      <Dry3g>255</Dry3g>
+      <Dry4g>255</Dry4g>
+      <Dry5g>255</Dry5g>
+      <Dry6g>255</Dry6g>
+      <Dry7g>255</Dry7g>
+      <Wet0g>255</Wet0g>
+      <Wet1g>255</Wet1g>
+      <Wet2g>255</Wet2g>
+      <Wet3g>255</Wet3g>
+      <Wet4g>255</Wet4g>
+      <Wet5g>255</Wet5g>
+      <Wet6g>255</Wet6g>
+      <Wet7g>255</Wet7g>
+      <Filter1Type>0</Filter1Type>
+      <Filter1CutoffOffset>0</Filter1CutoffOffset>
+      <Filter1CutoffGain>0</Filter1CutoffGain>
+      <Filter1ResoOffset>0</Filter1ResoOffset>
+      <Filter1ResoGain>0</Filter1ResoGain>
+      <Filter2Type>0</Filter2Type>
+      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
+      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
+      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
+      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
+      <PlaybackProbability>100</PlaybackProbability>
+      <NLmtChildren>0</NLmtChildren>
+      <Repeat>0</Repeat>
+      <ComboTime>0</ComboTime>
+      <ComboLoopBack>0</ComboLoopBack>
+    </BuilderSynthNode>
+    <BuilderSynthNode>
+      <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_093_spindash_shoot</Name>
+      <Type>WithChildren</Type>
+      <PlaybackType>Polyphonic</PlaybackType>
+      <Children>
+        <string>Synth/2000000_player/2002000_PLY_SNC_GE/2002_093_spindash_shoot/2002_093_spindash_shoot</string>
+      </Children>
+      <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
+      <Volume>1000</Volume>
+      <Pitch>0</Pitch>
+      <DelayTime>0</DelayTime>
+      <SControl>0</SControl>
+      <EgDelay>0</EgDelay>
+      <EgAttack>0</EgAttack>
+      <EgHold>0</EgHold>
+      <EgDecay>0</EgDecay>
+      <EgRelease>0</EgRelease>
+      <EgSustain>1000</EgSustain>
+      <FilterType>0</FilterType>
+      <FilterCutoff1>0</FilterCutoff1>
+      <FilterCutoff2>0</FilterCutoff2>
+      <FilterReso>0</FilterReso>
+      <FilterReleaseOffset>0</FilterReleaseOffset>
+      <Dry0>0</Dry0>
+      <Dry1>0</Dry1>
+      <Dry2>0</Dry2>
+      <Dry3>0</Dry3>
+      <Dry4>0</Dry4>
+      <Dry5>0</Dry5>
+      <Dry6>0</Dry6>
+      <Dry7>0</Dry7>
+      <Wet0>0</Wet0>
+      <Wet1>0</Wet1>
+      <Wet2>0</Wet2>
+      <Wet3>0</Wet3>
+      <Wet4>0</Wet4>
+      <Wet5>0</Wet5>
+      <Wet6>0</Wet6>
+      <Wet7>0</Wet7>
+      <VoiceLimitType>0</VoiceLimitType>
+      <VoiceLimitPriority>0</VoiceLimitPriority>
+      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
+      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
+      <Pan3dVolumeOffset>1000</Pan3dVolumeOffset>
+      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
+      <Pan3dAngleOffset>0</Pan3dAngleOffset>
+      <Pan3dAngleGain>1000</Pan3dAngleGain>
+      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
+      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
+      <Dry0g>255</Dry0g>
+      <Dry1g>255</Dry1g>
+      <Dry2g>255</Dry2g>
+      <Dry3g>255</Dry3g>
+      <Dry4g>255</Dry4g>
+      <Dry5g>255</Dry5g>
+      <Dry6g>255</Dry6g>
+      <Dry7g>255</Dry7g>
+      <Wet0g>255</Wet0g>
+      <Wet1g>255</Wet1g>
+      <Wet2g>255</Wet2g>
+      <Wet3g>255</Wet3g>
+      <Wet4g>255</Wet4g>
+      <Wet5g>255</Wet5g>
+      <Wet6g>255</Wet6g>
+      <Wet7g>255</Wet7g>
+      <Filter1Type>0</Filter1Type>
+      <Filter1CutoffOffset>0</Filter1CutoffOffset>
+      <Filter1CutoffGain>0</Filter1CutoffGain>
+      <Filter1ResoOffset>0</Filter1ResoOffset>
+      <Filter1ResoGain>0</Filter1ResoGain>
+      <Filter2Type>0</Filter2Type>
+      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
+      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
+      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
+      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
+      <PlaybackProbability>0</PlaybackProbability>
+      <NLmtChildren>0</NLmtChildren>
+      <Repeat>0</Repeat>
+      <ComboTime>0</ComboTime>
+      <ComboLoopBack>0</ComboLoopBack>
+    </BuilderSynthNode>
+    <BuilderSynthNode>
+      <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_093_spindash_shoot/2002_093_spindash_shoot</Name>
+      <Type>Single</Type>
+      <PlaybackType>Normal</PlaybackType>
+      <SoundElementReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_093_spindash_shoot</SoundElementReference>
+      <Children />
+      <Volume>1000</Volume>
+      <Pitch>0</Pitch>
+      <DelayTime>0</DelayTime>
+      <SControl>0</SControl>
+      <EgDelay>0</EgDelay>
+      <EgAttack>0</EgAttack>
+      <EgHold>0</EgHold>
+      <EgDecay>0</EgDecay>
+      <EgRelease>0</EgRelease>
+      <EgSustain>1000</EgSustain>
+      <FilterType>0</FilterType>
+      <FilterCutoff1>0</FilterCutoff1>
+      <FilterCutoff2>0</FilterCutoff2>
+      <FilterReso>0</FilterReso>
+      <FilterReleaseOffset>0</FilterReleaseOffset>
+      <Dry0>0</Dry0>
+      <Dry1>0</Dry1>
+      <Dry2>0</Dry2>
+      <Dry3>0</Dry3>
+      <Dry4>0</Dry4>
+      <Dry5>0</Dry5>
+      <Dry6>0</Dry6>
+      <Dry7>0</Dry7>
+      <Wet0>0</Wet0>
+      <Wet1>0</Wet1>
+      <Wet2>0</Wet2>
+      <Wet3>0</Wet3>
+      <Wet4>0</Wet4>
+      <Wet5>0</Wet5>
+      <Wet6>0</Wet6>
+      <Wet7>0</Wet7>
+      <VoiceLimitType>0</VoiceLimitType>
+      <VoiceLimitPriority>0</VoiceLimitPriority>
+      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
+      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
+      <Pan3dVolumeOffset>1000</Pan3dVolumeOffset>
+      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
+      <Pan3dAngleOffset>0</Pan3dAngleOffset>
+      <Pan3dAngleGain>1000</Pan3dAngleGain>
+      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
+      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
+      <Dry0g>255</Dry0g>
+      <Dry1g>255</Dry1g>
+      <Dry2g>255</Dry2g>
+      <Dry3g>255</Dry3g>
+      <Dry4g>255</Dry4g>
+      <Dry5g>255</Dry5g>
+      <Dry6g>255</Dry6g>
+      <Dry7g>255</Dry7g>
+      <Wet0g>255</Wet0g>
+      <Wet1g>255</Wet1g>
+      <Wet2g>255</Wet2g>
+      <Wet3g>255</Wet3g>
+      <Wet4g>255</Wet4g>
+      <Wet5g>255</Wet5g>
+      <Wet6g>255</Wet6g>
+      <Wet7g>255</Wet7g>
+      <Filter1Type>0</Filter1Type>
+      <Filter1CutoffOffset>0</Filter1CutoffOffset>
+      <Filter1CutoffGain>0</Filter1CutoffGain>
+      <Filter1ResoOffset>0</Filter1ResoOffset>
+      <Filter1ResoGain>0</Filter1ResoGain>
+      <Filter2Type>0</Filter2Type>
+      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
+      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
+      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
+      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
+      <PlaybackProbability>100</PlaybackProbability>
+      <NLmtChildren>0</NLmtChildren>
+      <Repeat>0</Repeat>
+      <ComboTime>0</ComboTime>
+      <ComboLoopBack>0</ComboLoopBack>
+    </BuilderSynthNode>
   </SynthNodes>
   <SoundElementNodes>
     <BuilderSoundElementNode>
@@ -12330,12 +12656,12 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_042_stomping_aif</Name>
-      <Intro>Synth_2000000_player_2002000_PLY_SNC_GE_2002_042_stomping_aif_Intro.adx</Intro>
-      <Loop>Synth_2000000_player_2002000_PLY_SNC_GE_2002_042_stomping_aif_Loop.adx</Loop>
+      <Intro>08_spin_charge.aif.aif_Intro_0.adx</Intro>
+      <Loop>08_spin_charge.aif.aif_Loop_0.adx</Loop>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>32000</SampleRate>
-      <SampleCount>90212</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>82405</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_043_stomping_lnd_aif</Name>
@@ -12459,6 +12785,24 @@
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
       <SampleCount>26428</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_092_spindash_charge</Name>
+      <Intro>08_spin_charge.aif.aif_Intro.adx</Intro>
+      <Loop>08_spin_charge.aif.aif_Loop.adx</Loop>
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>82405</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_093_spindash_shoot</Name>
+      <Intro>09_spin_shoot.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>2</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>107978</SampleCount>
     </BuilderSoundElementNode>
   </SoundElementNodes>
   <AisacNodes>
