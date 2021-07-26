@@ -16635,12 +16635,12 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_032_sliding_aif</Name>
-      <Intro>Synth_2000000_player_2002000_PLY_SNC_GE_2002_032_sliding_aif_Intro.adx</Intro>
-      <Loop>Synth_2000000_player_2002000_PLY_SNC_GE_2002_032_sliding_aif_Loop.adx</Loop>
+      <Intro>07_sliding.aif.aif_Intro.adx</Intro>
+      <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>32000</SampleRate>
-      <SampleCount>83033</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>42654</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_033_slidedown_aif</Name>
