@@ -1,0 +1,13 @@
+Grind/Slide SFX Fix: This fixes the pich of the grind SFX when going at top speed and ports the Sonic 06 slide SFX which does NOT loop.
+
+
+Common Objects: This replaces the iteim and rainbowring and Jumpboard SFX back to the 06 default.
+
+
+Project Files(English) (OLD): Old project files for the Elise Voice Mod DO NOT USE
+
+Project Files(Japanese) (OLD): Old project files for the Elise Voice Mod DO NOT USE
+
+06 Moveset Gameplay Sounds: Ports 06 spindash sound to 2002_stomping with release preset, as well as the kick attack sound and spindash shoot sound
+
+Sonic 06 Defenitive Edition Voice Mod: Ports Sonic 06 Voice To The Generations format Via Custom Code.
