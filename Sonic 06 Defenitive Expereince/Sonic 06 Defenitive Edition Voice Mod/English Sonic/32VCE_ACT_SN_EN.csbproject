@@ -1384,7 +1384,7 @@
     <BuilderSynthNode>
       <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_005_damage03</Name>
       <Type>WithChildren</Type>
-      <PlaybackType>Polyphonic</PlaybackType>
+      <PlaybackType>RandomNoRepeat</PlaybackType>
       <Children>
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_005_damage03/all01_v04_sn2_en</string>
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_005_damage03/all01_v09_sn_en_0</string>
