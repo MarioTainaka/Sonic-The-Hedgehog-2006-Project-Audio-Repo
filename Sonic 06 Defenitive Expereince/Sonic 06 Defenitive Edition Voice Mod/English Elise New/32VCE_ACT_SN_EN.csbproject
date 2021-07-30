@@ -1800,7 +1800,8 @@
       <Children>
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_005_damage03/3002_005_damage03_0/all01_v09_pr_en</string>
       </Children>
-      <Volume>800</Volume>
+      <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
+      <Volume>700</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1879,7 +1880,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/3000000_voice/3000000_voice_Add/all01_v09_pr_en</SoundElementReference>
       <Children />
-      <Volume>800</Volume>
+      <Volume>700</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2325,7 +2326,7 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_007_dead/3002_007_dead_PR/all01_v00_pr_en</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>1000</Volume>
+      <Volume>680</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2404,7 +2405,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/3000000_voice/3000000_voice_Add/all01_v00_pr_en</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>680</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -8155,14 +8156,6 @@
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
       <SampleCount>91325</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
-      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/SN_Act037_wav</Name>
-      <Intro>Synth_3000000_voice_3002001_VCE_ACT_SN_JP_SN_Act037_wav_Intro.adx</Intro>
-      <ChannelCount>1</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>32000</SampleRate>
-      <SampleCount>6547</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v00_2_sn_en</Name>
