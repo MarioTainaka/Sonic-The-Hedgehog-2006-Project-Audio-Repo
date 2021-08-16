@@ -451,9 +451,9 @@
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>4002_090_chaodrive_get</Name>
+      <Name>4002_090_lightcore_get</Name>
       <Identifier>4002086</Identifier>
-      <SynthReference>Synth/4000000_object/4002000_OBJ_CMN_GE/4002_090_chaodrive_get</SynthReference>
+      <SynthReference>Synth/4000000_object/4002000_OBJ_CMN_GE/4002_090_lightcore_get</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
   </CueNodes>
@@ -11029,7 +11029,7 @@
       <Children>
         <string>Synth/4000000_object/4002000_OBJ_CMN_GE/4002_073_bsteng_get/4002_073_bsteng_get</string>
       </Children>
-      <Volume>800</Volume>
+      <Volume>1250</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -11119,7 +11119,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/4000000_object/4002000_OBJ_CMN_GE/4002_073_bsteng_get_aif</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1250</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -13661,13 +13661,13 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/4000000_object/4002000_OBJ_CMN_GE/4002_090_chaodrive_get</Name>
+      <Name>Synth/4000000_object/4002000_OBJ_CMN_GE/4002_090_lightcore_get</Name>
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
-        <string>Synth/4000000_object/4002000_OBJ_CMN_GE/4002_090_chaodrive_get/4002_090_chaodrive_get_aif</string>
+        <string>Synth/4000000_object/4002000_OBJ_CMN_GE/4002_090_lightcore_get/4002_090_lightcore_get_aif</string>
       </Children>
-      <Volume>800</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -13741,12 +13741,12 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/4000000_object/4002000_OBJ_CMN_GE/4002_090_chaodrive_get/4002_090_chaodrive_get_aif</Name>
+      <Name>Synth/4000000_object/4002000_OBJ_CMN_GE/4002_090_lightcore_get/4002_090_lightcore_get_aif</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/4000000_object/4002000_OBJ_CMN_GE/4002_090_chaodrive_get_aif</SoundElementReference>
+      <SoundElementReference>Synth/4000000_object/4002000_OBJ_CMN_GE/4002_090_lightcore_get_aif</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -14650,13 +14650,13 @@
       <SampleCount>27774</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth/4000000_object/4002000_OBJ_CMN_GE/4002_090_chaodrive_get_aif</Name>
-      <Intro>13_chaosdrive_1.aif_Intro.adx</Intro>
+      <Name>Synth/4000000_object/4002000_OBJ_CMN_GE/4002_090_lightcore_get_aif</Name>
+      <Intro>34_lightcore_get.aif_Intro.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
-      <SampleCount>103067</SampleCount>
+      <SampleCount>60561</SampleCount>
     </BuilderSoundElementNode>
   </SoundElementNodes>
   <AisacNodes>
