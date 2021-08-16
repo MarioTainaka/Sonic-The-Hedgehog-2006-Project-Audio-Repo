@@ -13832,7 +13832,7 @@
       <Children>
         <string>Synth/4000000_object/4002000_OBJ_CMN_GE/4002_091_chaosdrive_get/4002_091_chaosdrive_get_aif</string>
       </Children>
-      <Volume>750</Volume>
+      <Volume>700</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -13911,7 +13911,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/4000000_object/4002000_OBJ_CMN_GE/4002_091_chaosdrive_get_aif</SoundElementReference>
       <Children />
-      <Volume>750</Volume>
+      <Volume>700</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
