@@ -3626,7 +3626,7 @@
         <string>Synth/2000000_player/2002000_PLY_SNC_GE/2002_035_gswing/2002_035_gswing</string>
       </Children>
       <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
-      <Volume>500</Volume>
+      <Volume>550</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -16063,11 +16063,12 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_035_gswing_aif</Name>
-      <Intro>Synth_2000000_player_2002000_PLY_SNC_GE_2002_035_gswing_aif_Intro.adx</Intro>
+      <Intro>08_pole.aif_Intro.adx</Intro>
+      <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>32000</SampleRate>
-      <SampleCount>23666</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>15889</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_036_shootout_aif</Name>
