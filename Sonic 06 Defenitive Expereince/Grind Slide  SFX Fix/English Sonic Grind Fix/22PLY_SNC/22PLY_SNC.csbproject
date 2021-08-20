@@ -456,7 +456,7 @@
         <string>Synth/2000000_player/2002000_PLY_SNC_GE/2002_020_fst_wlk_wtr/2002_020_fst_wlk_wtr_5</string>
       </Children>
       <AisacReference>Globals/Aisac/rolloff_footstep</AisacReference>
-      <Volume>800</Volume>
+      <Volume>400</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1002,7 +1002,7 @@
         <string>Synth/2000000_player/2002000_PLY_SNC_GE/2002_021_fst_run_wtr/2002_020_fst_wlk_wtr_5</string>
       </Children>
       <AisacReference>Globals/Aisac/rolloff_footstep</AisacReference>
-      <Volume>800</Volume>
+      <Volume>400</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2276,7 +2276,7 @@
         <string>Synth/2000000_player/2002000_PLY_SNC_GE/2002_025_fst_wlk_dwt/2002_025_fst_wlk_dwt_5</string>
       </Children>
       <AisacReference>Globals/Aisac/rolloff_footstep</AisacReference>
-      <Volume>699</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
