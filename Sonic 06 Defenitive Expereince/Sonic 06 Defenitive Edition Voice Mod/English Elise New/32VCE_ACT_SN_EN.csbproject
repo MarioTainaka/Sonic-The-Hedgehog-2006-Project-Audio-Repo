@@ -3391,7 +3391,7 @@
     <BuilderSynthNode>
       <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_013_success01</Name>
       <Type>WithChildren</Type>
-      <PlaybackType>Random</PlaybackType>
+      <PlaybackType>RandomNoRepeat</PlaybackType>
       <Children>
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_013_success01/all01_v11_sn_en</string>
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_013_success01/all01_v03_sn_en_add</string>
@@ -3477,7 +3477,7 @@
       <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
       <PlaybackProbability>0</PlaybackProbability>
       <NLmtChildren>0</NLmtChildren>
-      <Repeat>1</Repeat>
+      <Repeat>0</Repeat>
       <ComboTime>0</ComboTime>
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
@@ -3485,7 +3485,7 @@
       <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_013_success01/all01_v11_sn_en</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v11_sn_en</SoundElementReference>
+      <SoundElementReference>Synth/3000000_voice/3000000_voice_Rank/all01_v11_sn_en</SoundElementReference>
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
