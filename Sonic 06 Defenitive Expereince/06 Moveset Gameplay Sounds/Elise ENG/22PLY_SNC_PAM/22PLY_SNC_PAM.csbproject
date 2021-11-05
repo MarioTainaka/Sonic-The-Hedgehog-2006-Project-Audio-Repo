@@ -172,7 +172,7 @@
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_boost_off</Name>
-      <Identifier>2002089</Identifier>
+      <Identifier>3002089</Identifier>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_089_boost_off</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
@@ -13683,7 +13683,7 @@
         <string>Synth/2000000_player/2002000_PLY_SNC_GE/2002_089_boost_off/2002_089_boost_off</string>
       </Children>
       <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
-      <Volume>800</Volume>
+      <Volume>700</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -13762,7 +13762,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_089_boost_off</SoundElementReference>
       <Children />
-      <Volume>800</Volume>
+      <Volume>700</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
