@@ -1726,7 +1726,7 @@
         <string>Synth/2000000_player/2002000_PLY_SNC_GE/2002_023_fst_lnd_wtr/2002_023_fst_lnd_wtr</string>
       </Children>
       <AisacReference>Globals/Aisac/rolloff_footstep</AisacReference>
-      <Volume>0</Volume>
+      <Volume>300</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1816,7 +1816,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_023_fst_lnd_wtr_aif</SoundElementReference>
       <Children />
-      <Volume>0</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
