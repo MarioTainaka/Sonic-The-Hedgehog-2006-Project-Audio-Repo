@@ -714,7 +714,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/1000000_system/1010000_SYS_ACT/1010_003_guage_aif</SoundElementReference>
       <Children />
-      <Volume>449</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
