@@ -1710,7 +1710,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/1000000_system/1010000_SYS_ACT/1010_000_result_aif</SoundElementReference>
       <Children />
-      <Volume>699</Volume>
+      <Volume>899</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1802,7 +1802,7 @@
         <string>Synth/1000000_system/1010000_SYS_ACT/1010_009_30sec_2/1010_009_30sec_2</string>
       </Children>
       <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
-      <Volume>649</Volume>
+      <Volume>0</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1892,7 +1892,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/1000000_system/1010000_SYS_ACT/1010_009_30sec_2_aif</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>0</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1996,11 +1996,12 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/1000000_system/1010000_SYS_ACT/1010_002_rank_aif</Name>
-      <Intro>Synth_1000000_system_1010000_SYS_ACT_1010_002_rank_aif_Intro.adx</Intro>
+      <Intro>07_rank.aif_Intro.adx</Intro>
+      <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>32000</SampleRate>
-      <SampleCount>14959</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>38048</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/1000000_system/1010000_SYS_ACT/1010_003_guage_aif</Name>

@@ -7866,12 +7866,12 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/SFX/rank</Name>
-      <Intro>Synth_1000000_system_1010000_SYS_ACT_1010_002_rank_aif_Intro.adx</Intro>
+      <Intro>07_rank.aif_Intro.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>32000</SampleRate>
-      <SampleCount>14959</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>38048</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Add/all01_v06_sn_en</Name>
