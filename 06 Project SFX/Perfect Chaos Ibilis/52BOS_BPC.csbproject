@@ -368,7 +368,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/5500000_boss/5552000_BOS_BPC_GE/5552_001_breath_shot_aif</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1100</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -460,7 +460,7 @@
         <string>Synth/5500000_boss/5552000_BOS_BPC_GE/5552_002_beam_shot/5552_002_beam_shot</string>
       </Children>
       <AisacReference>Globals/Aisac/tornade_ge</AisacReference>
-      <Volume>699</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2638,19 +2638,21 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/5500000_boss/5552000_BOS_BPC_GE/5552_001_breath_shot_aif</Name>
-      <Intro>Synth_5500000_boss_5552000_BOS_BPC_GE_5552_001_breath_shot_aif_Intro.adx</Intro>
-      <ChannelCount>1</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>22050</SampleRate>
-      <SampleCount>38784</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
-      <Name>Synth/5500000_boss/5552000_BOS_BPC_GE/5552_002_beam_shot_aif</Name>
-      <Intro>Synth_5500000_boss_5552000_BOS_BPC_GE_5552_002_beam_shot_aif_Intro.adx</Intro>
+      <Intro>16_darkLaser_beam.final_2.adx</Intro>
+      <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
-      <SampleCount>137283</SampleCount>
+      <SampleCount>102409</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth/5500000_boss/5552000_BOS_BPC_GE/5552_002_beam_shot_aif</Name>
+      <Intro>13_bomb_burst.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>2</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>526906</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/5500000_boss/5552000_BOS_BPC_GE/5552_003_feeler_swish_aif</Name>
