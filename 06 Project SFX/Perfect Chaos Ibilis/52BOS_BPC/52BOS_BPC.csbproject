@@ -13,7 +13,7 @@
       <Name>5552_breath_shot</Name>
       <Identifier>5552001</Identifier>
       <SynthReference>Synth/5500000_boss/5552000_BOS_BPC_GE/5552_001_breath_shot</SynthReference>
-      <UserComment />
+      <UserComment>Mario Tainaka @2021 uses STH 2006 Iblis dark laser beam sound</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
@@ -55,14 +55,14 @@
       <Name>5552_chaos_dmg</Name>
       <Identifier>5552007</Identifier>
       <SynthReference>Synth/5500000_boss/5552000_BOS_BPC_GE/5552_007_chaos_dmg</SynthReference>
-      <UserComment />
+      <UserComment>Mario Tainaka @2021 uses STH 2006 Iblis damage sound. Custom added damage SFX over roar</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>5552_chaos_roar</Name>
       <Identifier>5552008</Identifier>
       <SynthReference>Synth/5500000_boss/5552000_BOS_BPC_GE/5552_008_chaos_roar</SynthReference>
-      <UserComment />
+      <UserComment>Mario Tainaka @2021 uses Iblis roar sound</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
