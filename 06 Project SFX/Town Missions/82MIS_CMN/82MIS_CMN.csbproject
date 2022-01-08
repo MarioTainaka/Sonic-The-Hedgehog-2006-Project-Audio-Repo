@@ -97,12 +97,14 @@
       <Name>8003_passring_pass</Name>
       <Identifier>8002040</Identifier>
       <SynthReference>Synth/8000000_mission/8003000_MIS_CMN_STH_2006/8003_030_passring_pass</SynthReference>
+      <UserComment>STH 2006 Town Mission Ring passthrough SFX. Only used during town missions</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>8003_passring_appear</Name>
       <Identifier>8002041</Identifier>
       <SynthReference>Synth/8000000_mission/8003000_MIS_CMN_STH_2006/8003_029_passring_appear</SynthReference>
+      <UserComment>STH 2006 Town Mission Ring appear SFX. Only used during town missions</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
   </CueNodes>
