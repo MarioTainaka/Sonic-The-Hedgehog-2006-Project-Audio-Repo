@@ -2659,7 +2659,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/8000000_mission/8003000_MIS_CMN_STH_2006/8003_030_passring_pass</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>900</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2739,8 +2739,8 @@
       <Children>
         <string>Synth/8000000_mission/8003000_MIS_CMN_STH_2006/8003_029_passring_appear/8003_029_passring_appear</string>
       </Children>
-      <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
-      <Volume>800</Volume>
+      <AisacReference>Globals/Aisac/rolloff_goalring_3</AisacReference>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2819,7 +2819,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/8000000_mission/8003000_MIS_CMN_STH_2006/8003_029_passring_appear</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3461,6 +3461,44 @@
             </BuilderAisacPointNode>
             <BuilderAisacPointNode>
               <Name>Point2</Name>
+              <X>10000</X>
+              <Y>0</Y>
+            </BuilderAisacPointNode>
+          </Points>
+        </BuilderAisacGraphNode>
+      </Graphs>
+      <RandomRange>0</RandomRange>
+    </BuilderAisacNode>
+    <BuilderAisacNode>
+      <Name>Globals/Aisac/rolloff_goalring_3</Name>
+      <AisacName>distance</AisacName>
+      <Type>0</Type>
+      <Graphs>
+        <BuilderAisacGraphNode>
+          <Name>Graph0</Name>
+          <Type>0</Type>
+          <MaximumX>1</MaximumX>
+          <MinimumX>0</MinimumX>
+          <MaximumY>1</MaximumY>
+          <MinimumY>0</MinimumY>
+          <Points>
+            <BuilderAisacPointNode>
+              <Name>Point0</Name>
+              <X>0</X>
+              <Y>10000</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point1</Name>
+              <X>1599</X>
+              <Y>3497</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point2</Name>
+              <X>5009</X>
+              <Y>0</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point3</Name>
               <X>10000</X>
               <Y>0</Y>
             </BuilderAisacPointNode>
