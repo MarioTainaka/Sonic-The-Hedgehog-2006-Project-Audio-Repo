@@ -107,6 +107,55 @@
       <UserComment>STH 2006 Town Mission Ring appear SFX. Only used during town missions</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>8003_car_noise</Name>
+      <Identifier>8002042</Identifier>
+      <SynthReference>Synth/8000000_mission/8003000_MIS_CMN_STH_2006/8003_004_car_noise</SynthReference>
+      <UserComment>STH2006 Car Ambient Noise used during missions</UserComment>
+      <Flags>0</Flags>
+    </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>8003_car_normal_axel</Name>
+      <Identifier>8002043</Identifier>
+      <SynthReference>Synth/8000000_mission/8003000_MIS_CMN_STH_2006/8003_010_car_normal_axel</SynthReference>
+      <UserComment>STH2006 Car normal acceleration speed sound. You can use the speedhighway csb. This is just here just in case</UserComment>
+      <Flags>0</Flags>
+    </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>8003_car_big_axel</Name>
+      <Identifier>8002044</Identifier>
+      <SynthReference>Synth/8000000_mission/8003000_MIS_CMN_STH_2006/8003_012_car_big_axel</SynthReference>
+      <UserComment>STH2006 Car fast acceleration speed sound. You can use the speedhighway csb. This is just here just in case</UserComment>
+      <Flags>0</Flags>
+    </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>8003_car_normal_horn</Name>
+      <Identifier>8002045</Identifier>
+      <SynthReference>Synth/8000000_mission/8003000_MIS_CMN_STH_2006/8003_014_car_normal_horn</SynthReference>
+      <UserComment>STH2006 Car short horn honk sound. You can use the speedhighway csb. This is just here just in case</UserComment>
+      <Flags>0</Flags>
+    </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>8003_car_big_horn</Name>
+      <Identifier>8002046</Identifier>
+      <SynthReference>Synth/8000000_mission/8003000_MIS_CMN_STH_2006/8003_015_car_big_horn</SynthReference>
+      <UserComment>STH2006 Car long horn honk sound. You can use the speedhighway csb. This is just here just in case</UserComment>
+      <Flags>0</Flags>
+    </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>8003_car_normal_brake</Name>
+      <Identifier>8002047</Identifier>
+      <SynthReference>Synth/8000000_mission/8003000_MIS_CMN_STH_2006/8003_011_car_normal_brake</SynthReference>
+      <UserComment>STH2006 Car normal brake sound. You can use the speedhighway csb. This is just here just in case</UserComment>
+      <Flags>0</Flags>
+    </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>8003_car_big_brake</Name>
+      <Identifier>8002048</Identifier>
+      <SynthReference>Synth/8000000_mission/8003000_MIS_CMN_STH_2006/8003_013_car_big_brake</SynthReference>
+      <UserComment>STH2006 Car screech brake sound. You can use the speedhighway csb. This is just here just in case</UserComment>
+      <Flags>0</Flags>
+    </BuilderCueNode>
   </CueNodes>
   <SynthNodes>
     <BuilderSynthNode>
@@ -2739,7 +2788,7 @@
       <Children>
         <string>Synth/8000000_mission/8003000_MIS_CMN_STH_2006/8003_029_passring_appear/8003_029_passring_appear</string>
       </Children>
-      <AisacReference>Globals/Aisac/rolloff_goalring_3</AisacReference>
+      <AisacReference>Globals/Aisac/rolloff_passing_appear</AisacReference>
       <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
@@ -3059,6 +3108,7 @@
       <Children>
         <string>Synth/8000000_mission/8003000_MIS_CMN_STH_2006/8003_010_car_normal_axel/8003_010_car_normal_axel</string>
       </Children>
+      <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
       <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
@@ -3218,6 +3268,7 @@
       <Children>
         <string>Synth/8000000_mission/8003000_MIS_CMN_STH_2006/8003_012_car_big_axel/8003_012_car_big_axel</string>
       </Children>
+      <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
       <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
@@ -3376,7 +3427,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/8000000_mission/8003000_MIS_CMN_STH_2006/8003_014_car_normal_horn</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3455,7 +3506,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/8000000_mission/8003000_MIS_CMN_STH_2006/8003_015_car_big_horn</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3534,7 +3585,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/8000000_mission/8003000_MIS_CMN_STH_2006/8003_011_car_normal_brake</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3613,7 +3664,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/8000000_mission/8003000_MIS_CMN_STH_2006/8003_013_car_big_brake</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4327,7 +4378,7 @@
       <RandomRange>0</RandomRange>
     </BuilderAisacNode>
     <BuilderAisacNode>
-      <Name>Globals/Aisac/rolloff_goalring_3</Name>
+      <Name>Globals/Aisac/rolloff_passing_appear</Name>
       <AisacName>distance</AisacName>
       <Type>0</Type>
       <Graphs>
