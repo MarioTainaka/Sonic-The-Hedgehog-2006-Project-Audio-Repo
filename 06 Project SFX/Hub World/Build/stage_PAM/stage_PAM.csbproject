@@ -2289,7 +2289,7 @@
       <SampleCount>56017</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth_Town_Voice/girl_sad</Name>
+      <Name>Synth_Town_Voice/31_girl_sad</Name>
       <Intro>31_girl_sad.aif_Intro.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
@@ -2298,7 +2298,7 @@
       <SampleCount>48121</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth_Town_Voice/youngwoman_sad</Name>
+      <Name>Synth_Town_Voice/32_youngwoman_sad</Name>
       <Intro>32_youngwoman_sad.aif_Intro.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
@@ -2307,7 +2307,7 @@
       <SampleCount>40546</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth_Town_Voice/middlewoman_sad</Name>
+      <Name>Synth_Town_Voice/33_middlewoman_sad</Name>
       <Intro>33_middlewoman_sad.aif_Intro.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
@@ -2316,7 +2316,7 @@
       <SampleCount>72103</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth_Town_Voice/oldwoman_sad</Name>
+      <Name>Synth_Town_Voice/34_oldwoman_sad</Name>
       <Intro>34_oldwoman_sad.aif_Intro.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
@@ -2325,7 +2325,7 @@
       <SampleCount>67147</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth_Town_Voice/child_sad</Name>
+      <Name>Synth_Town_Voice/35_child_sad</Name>
       <Intro>35_child_sad.aif_Intro.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
@@ -2334,7 +2334,7 @@
       <SampleCount>49300</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth_Town_Voice/boy_surprize</Name>
+      <Name>Synth_Town_Voice/36_boy_surprize</Name>
       <Intro>36_boy_surprize.aif_Intro.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
@@ -2343,7 +2343,7 @@
       <SampleCount>6376</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth_Town_Voice/youngman_surprize</Name>
+      <Name>Synth_Town_Voice/37_youngman_surprize</Name>
       <Intro>37_youngman_surprize.aif_Intro.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
@@ -2352,7 +2352,7 @@
       <SampleCount>22730</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth_Town_Voice/Synth_Town_Voice_38</Name>
+      <Name>Synth_Town_Voice/38_middleman_surprize</Name>
       <Intro>38_middleman_surprize.aif_Intro.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
@@ -2361,7 +2361,7 @@
       <SampleCount>34685</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth_Town_Voice/Synth_Town_Voice_39</Name>
+      <Name>Synth_Town_Voice/39_oldman_surprize</Name>
       <Intro>39_oldman_surprize.aif_Intro.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
@@ -2370,7 +2370,7 @@
       <SampleCount>41238</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth_Town_Voice/Synth_Town_Voice_40</Name>
+      <Name>Synth_Town_Voice/40_girl_surprize</Name>
       <Intro>40_girl_surprize.aif_Intro.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
