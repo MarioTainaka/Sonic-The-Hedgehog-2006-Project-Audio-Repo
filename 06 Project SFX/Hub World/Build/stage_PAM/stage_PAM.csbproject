@@ -240,61 +240,61 @@
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_21</Name>
+      <Name>oldman_angry</Name>
       <Identifier>845019921</Identifier>
       <SynthReference>Town_Voice/21_oldman_angry</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_22</Name>
+      <Name>girl_angry</Name>
       <Identifier>845019922</Identifier>
       <SynthReference>Town_Voice/22_girl_angry</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_23</Name>
+      <Name>youngwoman_angry</Name>
       <Identifier>845019923</Identifier>
       <SynthReference>Town_Voice/23_youngwoman_angry</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_24</Name>
+      <Name>middlewoman_angry</Name>
       <Identifier>845019924</Identifier>
       <SynthReference>Town_Voice/24_middlewoman_angry</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_25</Name>
+      <Name>oldwoman_angry</Name>
       <Identifier>845019925</Identifier>
       <SynthReference>Town_Voice/25_oldwoman_angry</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_26</Name>
+      <Name>child_angry</Name>
       <Identifier>845019926</Identifier>
       <SynthReference>Town_Voice/26_child_angry</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_27</Name>
+      <Name>boy_sad</Name>
       <Identifier>845019927</Identifier>
       <SynthReference>Town_Voice/27_boy_sad</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_28</Name>
+      <Name>youngman_sad</Name>
       <Identifier>845019928</Identifier>
       <SynthReference>Town_Voice/28_youngman_sad</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_29</Name>
+      <Name>middleman_sad</Name>
       <Identifier>845019929</Identifier>
       <SynthReference>Town_Voice/29_middleman_sad</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_30</Name>
+      <Name>oldman_sad</Name>
       <Identifier>845019930</Identifier>
       <SynthReference>Town_Voice/30_oldman_sad</SynthReference>
       <Flags>0</Flags>
