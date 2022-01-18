@@ -1894,12 +1894,30 @@
       <SampleCount>429450</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_0</Name>
+      <Intro>00_boy_normal.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>10043</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
       <Name>Synth/area_b_amb</Name>
       <Loop>Synth_area_b_amb_Loop.adx</Loop>
       <ChannelCount>2</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
       <SampleCount>646128</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_1</Name>
+      <Intro>01_youngman_normal.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>15693</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/area_c_amb</Name>
@@ -1911,12 +1929,30 @@
       <SampleCount>511660</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_2</Name>
+      <Intro>02_middleman_normal.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>33055</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
       <Name>Synth/people_noise</Name>
       <Loop>Synth_people_noise_Loop.adx</Loop>
       <ChannelCount>2</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
       <SampleCount>602010</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_3</Name>
+      <Intro>03_oldman_normal.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>22500</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/area_b_common_amb</Name>
@@ -1927,12 +1963,30 @@
       <SampleCount>164318</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_4</Name>
+      <Intro>04_girl_normal.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>10240</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
       <Name>Synth/fountain</Name>
       <Loop>Synth_fountain_Loop.adx</Loop>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
       <SampleCount>177653</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_5</Name>
+      <Intro>05_youngwoman_normal.aif_Intro_0.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>9563</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/bell</Name>
@@ -1943,12 +1997,30 @@
       <SampleCount>491214</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_6</Name>
+      <Intro>06_middlewoman_normal.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>25552</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
       <Name>Synth/yami</Name>
       <Loop>Synth_yami_Loop.adx</Loop>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
       <SampleCount>241766</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_7</Name>
+      <Intro>07_oldwoman_normal.aif_Intro_0.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>27808</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/twn_accordion</Name>
@@ -1960,12 +2032,30 @@
       <SampleCount>7441408</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_8</Name>
+      <Intro>08_child_normal.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>13112</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
       <Name>Synth/warpgate</Name>
       <Loop>Synth_warpgate_Loop.adx</Loop>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
       <SampleCount>84110</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_9</Name>
+      <Intro>09_boy_joy.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>37255</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/warpgate_in</Name>
@@ -1976,6 +2066,15 @@
       <SampleCount>289398</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_10</Name>
+      <Intro>10_youngman_joy.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>22751</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
       <Name>Synth/gondola_stay</Name>
       <Loop>Synth_gondola_stay_Loop.adx</Loop>
       <ChannelCount>1</ChannelCount>
@@ -1984,12 +2083,30 @@
       <SampleCount>220565</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_11</Name>
+      <Intro>11_middleman_joy.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>27269</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
       <Name>Synth/gondola_go</Name>
       <Intro>Synth_gondola_go_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
       <SampleCount>191203</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_12</Name>
+      <Intro>12_oldman_joy.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>35530</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/gondola</Name>
@@ -2001,6 +2118,15 @@
       <SampleCount>206186</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_13</Name>
+      <Intro>13_girl_joy.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>19206</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
       <Name>Synth/hatsun</Name>
       <Intro />
       <Loop>hatsun.adx</Loop>
@@ -2008,6 +2134,348 @@
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
       <SampleCount>220720</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_14</Name>
+      <Intro>14_youngwoman_joy.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>18592</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_15</Name>
+      <Intro>15_middlewoman_joy.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>33361</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_16</Name>
+      <Intro>16_oldwoman_joy.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>31310</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_17</Name>
+      <Intro>17_child_joy.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>24183</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_18</Name>
+      <Intro>18_boy_angry.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>38445</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_19</Name>
+      <Intro>19_youngman_angry.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>24192</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_20</Name>
+      <Intro>20_middleman_angry.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>29500</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_21</Name>
+      <Intro>21_oldman_angry.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>33640</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_22</Name>
+      <Intro>22_girl_angry.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>25965</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_23</Name>
+      <Intro>23_youngwoman_angry.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>32632</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_24</Name>
+      <Intro>24_middlewoman_angry.aif_Intro_0.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>35785</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_25</Name>
+      <Intro>25_oldwoman_angry.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>42012</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_26</Name>
+      <Intro>26_child_angry.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>40151</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_27</Name>
+      <Intro>27_boy_sad.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>46357</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_28</Name>
+      <Intro>28_youngman_sad.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>30920</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_29</Name>
+      <Intro>29_middleman_sad.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>42657</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_30</Name>
+      <Intro>30_oldman_sad.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>56017</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_31</Name>
+      <Intro>31_girl_sad.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>48121</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_32</Name>
+      <Intro>32_youngwoman_sad.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>40546</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_33</Name>
+      <Intro>33_middlewoman_sad.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>72103</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_34</Name>
+      <Intro>34_oldwoman_sad.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>67147</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_35</Name>
+      <Intro>35_child_sad.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>49300</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_36</Name>
+      <Intro>36_boy_surprize.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>6376</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_37</Name>
+      <Intro>37_youngman_surprize.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>22730</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_38</Name>
+      <Intro>38_middleman_surprize.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>34685</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_39</Name>
+      <Intro>39_oldman_surprize.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>41238</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_40</Name>
+      <Intro>40_girl_surprize.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>8804</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_41</Name>
+      <Intro>41_youngwoman_surprize.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>13324</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_42</Name>
+      <Intro>42_middlewoman_surprize.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>18026</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_43</Name>
+      <Intro>43_oldwoman_surprize.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>30548</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_44</Name>
+      <Intro>44_child_surprize.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>20648</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_45</Name>
+      <Intro>45_boy_dodge.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>7327</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_46</Name>
+      <Intro>46_youngman_dodge.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>5862</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_47</Name>
+      <Intro>47_middleman_dodge.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>15337</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_48</Name>
+      <Intro>48_oldman_dodge.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>14673</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_49</Name>
+      <Intro>49_girl_dodge.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>10350</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_50</Name>
+      <Intro>50_youngwoman_dodge.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>10353</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth_Town_Voice/Synth_Town_Voice_51</Name>
+      <Intro>51_middlewoman_dodge.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>15339</SampleCount>
     </BuilderSoundElementNode>
   </SoundElementNodes>
   <AisacNodes>
