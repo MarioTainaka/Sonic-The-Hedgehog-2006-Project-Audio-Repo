@@ -126,55 +126,55 @@
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_2</Name>
+      <Name>middleman_normal</Name>
       <Identifier>845019902</Identifier>
       <SynthReference>Town_Voice/02_middleman_normal</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_3</Name>
+      <Name>oldman_normal</Name>
       <Identifier>845019903</Identifier>
       <SynthReference>Town_Voice/03_oldman_normal</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_4</Name>
+      <Name>girl_normal</Name>
       <Identifier>845019904</Identifier>
       <SynthReference>Town_Voice/04_girl_normal</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_5</Name>
+      <Name>youngwoman_normal</Name>
       <Identifier>845019905</Identifier>
       <SynthReference>Town_Voice/05_youngwoman_normal</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_6</Name>
+      <Name>middlewoman_normal</Name>
       <Identifier>845019906</Identifier>
       <SynthReference>Town_Voice/06_middlewoman_normal</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_7</Name>
+      <Name>oldwoman_normal</Name>
       <Identifier>845019907</Identifier>
       <SynthReference>Town_Voice/07_oldwoman_normal</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_8</Name>
+      <Name>child_normal</Name>
       <Identifier>845019908</Identifier>
       <SynthReference>Town_Voice/08_child_normal</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_9</Name>
+      <Name>boy_joy</Name>
       <Identifier>845019909</Identifier>
       <SynthReference>Town_Voice/09_boy_joy</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_10</Name>
+      <Name>youngman_joy</Name>
       <Identifier>845019910</Identifier>
       <SynthReference>Town_Voice/10_youngman_joy</SynthReference>
       <Flags>0</Flags>
