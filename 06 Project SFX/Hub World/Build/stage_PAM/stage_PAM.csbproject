@@ -360,61 +360,61 @@
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_41</Name>
+      <Name>youngwoman_surprize</Name>
       <Identifier>845019941</Identifier>
       <SynthReference>Town_Voice/41_youngwoman_surprize</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_42</Name>
+      <Name>middlewoman_surprize</Name>
       <Identifier>845019942</Identifier>
       <SynthReference>Town_Voice/42_middlewoman_surprize</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_43</Name>
+      <Name>oldwoman_surprize</Name>
       <Identifier>845019943</Identifier>
       <SynthReference>Town_Voice/43_oldwoman_surprize</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_44</Name>
+      <Name>child_surprize</Name>
       <Identifier>845019944</Identifier>
       <SynthReference>Town_Voice/44_child_surprize</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_45</Name>
+      <Name>boy_dodge</Name>
       <Identifier>845019945</Identifier>
       <SynthReference>Town_Voice/45_boy_dodge</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_46</Name>
+      <Name>youngman_dodge</Name>
       <Identifier>845019946</Identifier>
       <SynthReference>Town_Voice/46_youngman_dodge</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_47</Name>
+      <Name>middleman_dodge</Name>
       <Identifier>845019947</Identifier>
       <SynthReference>Town_Voice/47_middleman_dodge</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_48</Name>
+      <Name>oldman_dodge</Name>
       <Identifier>845019948</Identifier>
       <SynthReference>Town_Voice/48_oldman_dodge</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_49</Name>
+      <Name>girl_dodge</Name>
       <Identifier>845019949</Identifier>
       <SynthReference>Town_Voice/49_girl_dodge</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_50</Name>
+      <Name>youngwoman_dodge</Name>
       <Identifier>845019950</Identifier>
       <SynthReference>Town_Voice/50_youngwoman_dodge</SynthReference>
       <Flags>0</Flags>
