@@ -420,163 +420,164 @@
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_51</Name>
+      <Name>middlewoman_dodge</Name>
       <Identifier>845019951</Identifier>
       <SynthReference>Town_Voice/51_middlewoman_dodge</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_52</Name>
+      <Name>oldwoman_dodge</Name>
       <Identifier>845019952</Identifier>
       <SynthReference>Town_Voice/52_oldwoman_dodge</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_53</Name>
+      <Name>child_dodge</Name>
       <Identifier>845019953</Identifier>
       <SynthReference>Town_Voice/53_child_dodge</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_54</Name>
+      <Name>boy_call</Name>
       <Identifier>845019954</Identifier>
       <SynthReference>Town_Voice/54_boy_call</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_55</Name>
+      <Name>youngwoman_call</Name>
       <Identifier>845019955</Identifier>
       <SynthReference>Town_Voice/55_youngwoman_call</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_56</Name>
-      <Identifier>845019956</Identifier>
-      <SynthReference>Town_Voice/56_middleman_call</SynthReference>
-      <Flags>0</Flags>
-    </BuilderCueNode>
-    <BuilderCueNode>
-      <Name>Cue_57</Name>
-      <Identifier>845019957</Identifier>
-      <SynthReference>Town_Voice/57_oldman_call</SynthReference>
-      <Flags>0</Flags>
-    </BuilderCueNode>
-    <BuilderCueNode>
-      <Name>Cue_58</Name>
-      <Identifier>845019958</Identifier>
-      <SynthReference>Town_Voice/58_girl_call</SynthReference>
-      <Flags>0</Flags>
-    </BuilderCueNode>
-    <BuilderCueNode>
-      <Name>Cue_59</Name>
+      <Name>youngwoman_call</Name>
       <Identifier>845019959</Identifier>
       <SynthReference>Town_Voice/59_youngwoman_call</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_60</Name>
+      <Name>middleman_call</Name>
+      <Identifier>845019956</Identifier>
+      <SynthReference>Town_Voice/56_middleman_call</SynthReference>
+      <Flags>0</Flags>
+    </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>oldman_call</Name>
+      <Identifier>845019957</Identifier>
+      <SynthReference>Town_Voice/57_oldman_call</SynthReference>
+      <Flags>0</Flags>
+    </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>girl_call</Name>
+      <Identifier>845019958</Identifier>
+      <SynthReference>Town_Voice/58_girl_call</SynthReference>
+      <Flags>0</Flags>
+    </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>middlewoman_call</Name>
       <Identifier>845019960</Identifier>
       <SynthReference>Town_Voice/60_middlewoman_call</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_61</Name>
+      <Name>oldwoman_call</Name>
       <Identifier>845019961</Identifier>
       <SynthReference>Town_Voice/61_oldwoman_call</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_62</Name>
+      <Name>child_call</Name>
       <Identifier>845019962</Identifier>
       <SynthReference>Town_Voice/62_child_call</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_63</Name>
+      <Name>gondola_whistle</Name>
       <Identifier>845019963</Identifier>
       <SynthReference>Town_Voice/63_gondola_whistle</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_64</Name>
+      <Name>gondola_hum</Name>
       <Identifier>845019964</Identifier>
       <SynthReference>Town_Voice/64_gondola_hum</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_65</Name>
+      <Name>dog_walk</Name>
       <Identifier>845019965</Identifier>
       <SynthReference>Town_Voice/65_dog_walk</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_66</Name>
+      <Name>dog_bark</Name>
       <Identifier>845019966</Identifier>
       <SynthReference>Town_Voice/66_dog_bark</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_67</Name>
+      <Name>pigeon_wait</Name>
       <Identifier>845019967</Identifier>
       <SynthReference>Town_Voice/67_pigeon_wait</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_68</Name>
+      <Name>pigeon_flap</Name>
       <Identifier>845019968</Identifier>
       <SynthReference>Town_Voice/68_pigeon_flap</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_69</Name>
+      <Name>dummy</Name>
       <Identifier>845019969</Identifier>
       <SynthReference>Town_Voice/69_dummy</SynthReference>
+      <UserComment>Sonic Team made duplicates of this sound everywhere. Probably for spots where NPC's don't say anything. Why not just not play a sound then? Got rid of all duplicates.</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_77</Name>
+      <Name>child_cry</Name>
       <Identifier>845019977</Identifier>
       <SynthReference>Town_Voice/77_child_cry</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_78</Name>
+      <Name>clap</Name>
       <Identifier>845019978</Identifier>
       <SynthReference>Town_Voice/78_clap</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_79</Name>
+      <Name>townsman_chat_1</Name>
       <Identifier>845019979</Identifier>
       <SynthReference>Town_Voice/79_townsman_chat_1</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_80</Name>
+      <Name>townsman_chat_2</Name>
       <Identifier>845019980</Identifier>
       <SynthReference>Town_Voice/80_townsman_chat_2</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_81</Name>
+      <Name>thief_damage</Name>
       <Identifier>845019981</Identifier>
       <SynthReference>Town_Voice/81_thief_damage</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_82</Name>
+      <Name>sonicman_01</Name>
       <Identifier>845019982</Identifier>
       <SynthReference>Town_Voice/82_sonicman_01</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_83</Name>
+      <Name>sonicman_02</Name>
       <Identifier>845019983</Identifier>
       <SynthReference>Town_Voice/83_sonicman_02</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_84</Name>
+      <Name>sonicman_03</Name>
       <Identifier>845019984</Identifier>
       <SynthReference>Town_Voice/84_sonicman_03</SynthReference>
       <Flags>0</Flags>
