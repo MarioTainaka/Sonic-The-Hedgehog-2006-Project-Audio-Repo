@@ -878,7 +878,7 @@
       <Intro>69_dummy.aif_Intro.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
-      <Streaming>false</Streaming>
+      <Streaming>true</Streaming>
       <SampleRate>44100</SampleRate>
       <SampleCount>527</SampleCount>
     </BuilderSoundElementNode>
