@@ -875,7 +875,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>BGM/hub_dummy</Name>
-      <Intro>69_dummy.aif_Intro.adx</Intro>
+      <Intro>BGM_hub_dummy.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>true</Streaming>
