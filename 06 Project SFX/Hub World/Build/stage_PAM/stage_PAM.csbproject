@@ -2358,7 +2358,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/00_boy_normal</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2437,7 +2437,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/01_youngman_normal</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2516,7 +2516,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/02_middleman_normal</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2595,7 +2595,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/03_oldman_normal</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2674,7 +2674,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/04_girl_normal</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2753,7 +2753,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/05_youngwoman_normal</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2832,7 +2832,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/06_middlewoman_normal</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2911,7 +2911,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/07_oldwoman_normal</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2990,7 +2990,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/08_child_normal</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3069,7 +3069,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/09_boy_joy</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3148,7 +3148,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/10_youngman_joy</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3227,7 +3227,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/11_middleman_joy</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3306,7 +3306,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/12_oldman_joy</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3385,7 +3385,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/13_girl_joy</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3464,7 +3464,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/14_youngwoman_joy</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3543,7 +3543,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/15_middlewoman_joy</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3622,7 +3622,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/16_oldwoman_joy</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3701,7 +3701,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/17_child_joy</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3780,7 +3780,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/18_boy_angry</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3859,7 +3859,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/19_youngman_angry</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3938,7 +3938,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/20_middleman_angry</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4017,7 +4017,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/21_oldman_angry</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4096,7 +4096,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/22_girl_angry</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4175,7 +4175,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/23_youngwoman_angry</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4254,7 +4254,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/24_middlewoman_angry</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4333,7 +4333,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/25_oldwoman_angry</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4412,7 +4412,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/26_child_angry</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4491,7 +4491,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/27_boy_sad</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4570,7 +4570,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/28_youngman_sad</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4649,7 +4649,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/29_middleman_sad</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4728,7 +4728,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/30_oldman_sad</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4807,7 +4807,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/31_girl_sad</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4886,7 +4886,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/32_youngwoman_sad</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4965,7 +4965,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/33_middlewoman_sad</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -5044,7 +5044,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/34_oldwoman_sad</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -5123,7 +5123,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/35_child_sad</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -5202,7 +5202,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/36_boy_surprize</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -5281,7 +5281,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/37_youngman_surprize</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -5360,7 +5360,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/38_middleman_surprize</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -5439,7 +5439,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/39_oldman_surprize</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -5518,7 +5518,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/40_girl_surprize</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -5597,7 +5597,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/41_youngwoman_surprize</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -5676,7 +5676,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/42_middlewoman_surprize</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -5755,7 +5755,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/43_oldwoman_surprize</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -5834,7 +5834,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/44_child_surprize</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -5913,7 +5913,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/45_boy_dodge</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -5992,7 +5992,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/46_youngman_dodge</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -6071,7 +6071,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/47_middleman_dodge</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -6150,7 +6150,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/48_oldman_dodge</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -6229,7 +6229,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/49_girl_dodge</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -6308,7 +6308,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/50_youngwoman_dodge</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -6387,7 +6387,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/51_middlewoman_dodge</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -6466,7 +6466,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/52_oldwoman_dodge</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -6545,7 +6545,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/53_child_dodge</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -6624,7 +6624,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/54_boy_call</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -6703,7 +6703,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/55_youngwoman_call</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -6782,7 +6782,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/56_middleman_call</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -6861,7 +6861,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/57_oldman_call</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -6940,7 +6940,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/58_girl_call</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -7019,7 +7019,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/59_youngwoman_call</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -7098,7 +7098,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/60_middlewoman_call</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -7177,7 +7177,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/61_oldwoman_call</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -7256,7 +7256,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/62_child_call</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -7335,7 +7335,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/63_gondola_whistle</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -7414,7 +7414,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/64_gondola_hum</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -7493,7 +7493,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/65_dog_walk</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -7572,7 +7572,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/66_dog_bark</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -7651,7 +7651,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/67_pigeon_wait</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -7730,7 +7730,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/68_pigeon_flap</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -7888,7 +7888,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/77_child_cry</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -8204,7 +8204,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/81_thief_damage</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -8283,7 +8283,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/82_sonicman_01</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -8362,7 +8362,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/83_sonicman_02</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -8441,7 +8441,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth_Town_Voice/84_sonicman_03</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -9369,6 +9369,34 @@
             </BuilderAisacPointNode>
             <BuilderAisacPointNode>
               <Name>Point2</Name>
+              <X>10000</X>
+              <Y>0</Y>
+            </BuilderAisacPointNode>
+          </Points>
+        </BuilderAisacGraphNode>
+      </Graphs>
+      <RandomRange>0</RandomRange>
+    </BuilderAisacNode>
+    <BuilderAisacNode>
+      <Name>Globals/Aisac/rolloff_dummy</Name>
+      <AisacName>distance</AisacName>
+      <Type>0</Type>
+      <Graphs>
+        <BuilderAisacGraphNode>
+          <Name>Graph0</Name>
+          <Type>0</Type>
+          <MaximumX>1</MaximumX>
+          <MinimumX>0</MinimumX>
+          <MaximumY>1</MaximumY>
+          <MinimumY>0.913973</MinimumY>
+          <Points>
+            <BuilderAisacPointNode>
+              <Name>Point0</Name>
+              <X>0</X>
+              <Y>10000</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point1</Name>
               <X>10000</X>
               <Y>0</Y>
             </BuilderAisacPointNode>
