@@ -3,30 +3,30 @@
   <Name>STH2006_PAM_BGM_Streaming</Name>
   <CueNodes>
     <BuilderCueNode>
-      <Name>hub_a</Name>
+      <Name>Speed_Highway_Generic1</Name>
       <Identifier>70</Identifier>
-      <SynthReference />
+      <SynthReference>Synth/hub_a</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>hub_b</Name>
+      <Name>Speed_Highway_Generic2</Name>
       <Identifier>71</Identifier>
-      <SynthReference />
+      <SynthReference>Synth/hub_b</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>hub_c</Name>
+      <Name>Speed_Highway_Generic3</Name>
       <Identifier>72</Identifier>
-      <SynthReference />
+      <SynthReference>Synth/hub_c</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>hub_d</Name>
+      <Name>City_Escape_Generic1</Name>
       <Identifier>73</Identifier>
-      <SynthReference />
+      <SynthReference>Synth/hub_d</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
@@ -39,6 +39,7 @@
       <Children>
         <string>Synth/hub_a/hub_a</string>
       </Children>
+      <AisacReference>Globals/Aisac/Filter</AisacReference>
       <Volume>900</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
@@ -198,6 +199,7 @@
       <Children>
         <string>Synth/hub_b/hub_b</string>
       </Children>
+      <AisacReference>Globals/Aisac/Filter</AisacReference>
       <Volume>900</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
@@ -357,6 +359,7 @@
       <Children>
         <string>Synth/hub_c/hub_c</string>
       </Children>
+      <AisacReference>Globals/Aisac/Filter</AisacReference>
       <Volume>900</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
@@ -706,6 +709,75 @@
       <SampleCount>3798992</SampleCount>
     </BuilderSoundElementNode>
   </SoundElementNodes>
-  <AisacNodes />
+  <AisacNodes>
+    <BuilderAisacNode>
+      <Name>Globals/Aisac/Filter</Name>
+      <AisacName>filter</AisacName>
+      <Type>0</Type>
+      <Graphs>
+        <BuilderAisacGraphNode>
+          <Name>Graph0</Name>
+          <Type>0</Type>
+          <MaximumX>1</MaximumX>
+          <MinimumX>0</MinimumX>
+          <MaximumY>1</MaximumY>
+          <MinimumY>0.9</MinimumY>
+          <Points>
+            <BuilderAisacPointNode>
+              <Name>Point0</Name>
+              <X>0</X>
+              <Y>10000</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point1</Name>
+              <X>10000</X>
+              <Y>0</Y>
+            </BuilderAisacPointNode>
+          </Points>
+        </BuilderAisacGraphNode>
+        <BuilderAisacGraphNode>
+          <Name>Graph1</Name>
+          <Type>4</Type>
+          <MaximumX>1</MaximumX>
+          <MinimumX>0</MinimumX>
+          <MaximumY>1</MaximumY>
+          <MinimumY>0.3</MinimumY>
+          <Points>
+            <BuilderAisacPointNode>
+              <Name>Point0</Name>
+              <X>0</X>
+              <Y>10000</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point1</Name>
+              <X>10000</X>
+              <Y>0</Y>
+            </BuilderAisacPointNode>
+          </Points>
+        </BuilderAisacGraphNode>
+        <BuilderAisacGraphNode>
+          <Name>Graph2</Name>
+          <Type>3</Type>
+          <MaximumX>1</MaximumX>
+          <MinimumX>0</MinimumX>
+          <MaximumY>0</MaximumY>
+          <MinimumY>0</MinimumY>
+          <Points>
+            <BuilderAisacPointNode>
+              <Name>Point0</Name>
+              <X>0</X>
+              <Y>0</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point1</Name>
+              <X>10000</X>
+              <Y>0</Y>
+            </BuilderAisacPointNode>
+          </Points>
+        </BuilderAisacGraphNode>
+      </Graphs>
+      <RandomRange>0</RandomRange>
+    </BuilderAisacNode>
+  </AisacNodes>
   <VoiceLimitGroupNodes />
 </CsbProject>
