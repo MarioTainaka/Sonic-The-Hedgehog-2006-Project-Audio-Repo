@@ -3,18 +3,12 @@ BGM
 -----------------------
 All Aisacs required for  music tracks used on the project.
 
-
-
 Filter: Underwater Generations Filter
 
 Audio Panning Cancel: Only to be used with tracks that won't be streamed but need to be used. This Aisac cnacels 3D Audio by using some special settings that disable the curve
-
-
-
 ----------------------------------
 SFX
 ---------------------------------
-
 All Aisacs used for Sound Effects In The Project
 
 Audio Panning Cancel: Only to be used with tracks that won't be streamed but need to be used. This Aisac cnacels 3D Audio by using some special settings that disable the curve
@@ -27,24 +21,8 @@ Eagle: Used to control the distance and audio panning for the Eagle In Kingdom V
 
 Global: Repurposed Sonic Colors Aisac used for 3D Audio panning for All 06 Sounds. NewAissac Method Aisacs from the original 06 do NOT work in Generations. The Aisacs are incomplete and don't function in-game as they should. 
 
-
 Passing_Appear:Repurposed Goalring Aisac with modified X and Y Curves Used for Passing_Appear object\SFX during Town missions.
-
-
-
-
-
-
-
-
-
-
 -------------------------
 Voice
 -------------------------
-
 Reverb & Audio Panning: Generations Uw-Switch Controls Reverb for VO when Echo Collisison is used as well as 3D Audio based on the Camera.
-
-
-
-
