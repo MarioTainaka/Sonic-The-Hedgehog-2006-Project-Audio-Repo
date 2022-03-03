@@ -6846,7 +6846,7 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
-      <VoiceLimitGroupReference>Player_SN</VoiceLimitGroupReference>
+      <VoiceLimitGroupReference>Player_SN_2</VoiceLimitGroupReference>
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -6926,7 +6926,7 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
-      <VoiceLimitGroupReference>Player_SN</VoiceLimitGroupReference>
+      <VoiceLimitGroupReference>Player_SN_2</VoiceLimitGroupReference>
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -8326,6 +8326,10 @@
   <VoiceLimitGroupNodes>
     <BuilderVoiceLimitGroupNode>
       <Name>Player_SN</Name>
+      <MaxAmountOfInstances>1</MaxAmountOfInstances>
+    </BuilderVoiceLimitGroupNode>
+    <BuilderVoiceLimitGroupNode>
+      <Name>Player_SN_2</Name>
       <MaxAmountOfInstances>1</MaxAmountOfInstances>
     </BuilderVoiceLimitGroupNode>
   </VoiceLimitGroupNodes>
