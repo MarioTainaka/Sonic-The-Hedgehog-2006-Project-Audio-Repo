@@ -1466,7 +1466,7 @@
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
-        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_006_damage04/all01_v04_sn1_en</string>
+        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_006_damage04/all01_v04_bz_en</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
       <Volume>1000</Volume>
@@ -1554,7 +1554,7 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_006_damage04/all01_v04_sn1_en</Name>
+      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_006_damage04/all01_v04_bz_en</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v04_bz_en</SoundElementReference>
