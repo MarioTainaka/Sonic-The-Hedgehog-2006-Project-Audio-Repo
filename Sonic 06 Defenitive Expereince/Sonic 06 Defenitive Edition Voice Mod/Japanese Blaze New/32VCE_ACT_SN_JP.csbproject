@@ -190,9 +190,9 @@
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>all01_v13_action_suc_sn_en</Name>
+      <Name>bos01_a07_action_suc_bz_en</Name>
       <Identifier>3002025</Identifier>
-      <SynthReference>Synth/3000000_voice/3000000_voice_Add/all01_v13_action_suc_sn_en</SynthReference>
+      <SynthReference>Synth/3000000_voice/3000000_voice_Add/bos01_a07_action_suc_bz_en</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
@@ -6116,11 +6116,11 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3000000_voice_Add/all01_v13_action_suc_sn_en</Name>
+      <Name>Synth/3000000_voice/3000000_voice_Add/bos01_a07_action_suc_bz_en</Name>
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
-        <string>Synth/3000000_voice/3000000_voice_Add/all01_v13_action_suc_sn_en/all01_v13_action_suc_sn_en</string>
+        <string>Synth/3000000_voice/3000000_voice_Add/bos01_a07_action_suc_bz_en/bos01_a07_action_suc_bz_en</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
       <Volume>800</Volume>
@@ -6197,10 +6197,10 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3000000_voice_Add/all01_v13_action_suc_sn_en/all01_v13_action_suc_sn_en</Name>
+      <Name>Synth/3000000_voice/3000000_voice_Add/bos01_a07_action_suc_bz_en/bos01_a07_action_suc_bz_en</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/3000000_voice/3000000_voice_Add/all01_v13_action_suc_sn_en</SoundElementReference>
+      <SoundElementReference>Synth/3000000_voice/3000000_voice_Add/bos01_a07_action_suc_bz_en</SoundElementReference>
       <Children />
       <Volume>800</Volume>
       <Pitch>0</Pitch>
@@ -6606,13 +6606,13 @@
       <SampleCount>84064</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth/3000000_voice/3000000_voice_Add/all01_v13_action_suc_sn_en</Name>
-      <Intro>all01_v13_action_suc_sn_jp.adx</Intro>
+      <Name>Synth/3000000_voice/3000000_voice_Add/bos01_a07_action_suc_bz_en</Name>
+      <Intro>bos01_a07_bz.aif_Intro.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
-      <SampleCount>110877</SampleCount>
+      <SampleCount>96993</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v06_bz_en</Name>
