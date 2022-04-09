@@ -6447,12 +6447,12 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v11_bz_en</Name>
-      <Intro>ALL01_V11_BZ.aif_Intro_0.adx</Intro>
+      <Intro>all01_v11_bz_jp.aif_Intro_0.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
-      <SampleCount>21704</SampleCount>
+      <SampleCount>17974</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/SFX/rank</Name>
@@ -6465,12 +6465,12 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Add/all01_v01_bz_en</Name>
-      <Intro>ALL01_V01_BZ.aif_Intro.adx</Intro>
+      <Intro>ALL01_V01_BZ_JP.aif_Intro.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
-      <SampleCount>12407</SampleCount>
+      <SampleCount>8237</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_017_ready_aif</Name>
@@ -6482,21 +6482,21 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v12_bz_en</Name>
-      <Intro>all01_v12_bz.adx</Intro>
+      <Intro>all01_v12_bz_jp.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
-      <SampleCount>71660</SampleCount>
+      <SampleCount>74930</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Add/all01_v02_bz_en</Name>
-      <Intro>ALL01_V02_BZ.aif_Intro.adx</Intro>
+      <Intro>ALL01_V02_BZ_JP.aif_Intro.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
-      <SampleCount>19980</SampleCount>
+      <SampleCount>13255</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_018_go_aif</Name>
@@ -6508,21 +6508,21 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v13_bz_en</Name>
-      <Intro>all01_v13_bz_0.adx</Intro>
+      <Intro>all01_v13_bz_jp.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
-      <SampleCount>86468</SampleCount>
+      <SampleCount>110877</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Add/all01_v03_bz_en</Name>
-      <Intro>ALL01_V03_BZ.aif_Intro.adx</Intro>
+      <Intro>ALL01_V03_BZ_JP.aif_Intro.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
-      <SampleCount>20526</SampleCount>
+      <SampleCount>28820</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v00_bz_en</Name>
@@ -6535,30 +6535,30 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v14_bz_en</Name>
-      <Intro>all01_v14_bz.adx</Intro>
+      <Intro>all01_v14_bz_jp.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
-      <SampleCount>71660</SampleCount>
+      <SampleCount>75916</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Add/bos01_a06_bz</Name>
-      <Intro>BOS01_A06_BZ.aif_Intro.adx</Intro>
+      <Intro>bos01_a06_bz_jp.aif_Intro.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
-      <SampleCount>44485</SampleCount>
+      <SampleCount>50054</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Add/all01_v07_bz_en</Name>
-      <Intro>ALL01_V07_BZ.aif_Intro.adx</Intro>
+      <Intro>ALL01_V07_BZ_JP.aif_Intro.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
-      <SampleCount>29754</SampleCount>
+      <SampleCount>37040</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v04_bz_en</Name>
@@ -6571,21 +6571,21 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v15_bz_en</Name>
-      <Intro>all01_v15_bz.adx</Intro>
+      <Intro>all01_v15_bz_jp.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
-      <SampleCount>77510</SampleCount>
+      <SampleCount>80911</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Add/all01_v10_bz_en</Name>
-      <Intro>ALL01_V10_BZ.aif_Intro.adx</Intro>
+      <Intro>all01_v10_bz_jp.aif_Intro.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
-      <SampleCount>29385</SampleCount>
+      <SampleCount>17956</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v05_bz_en</Name>
@@ -6598,21 +6598,21 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v16_bz_en</Name>
-      <Intro>all01_v16_bz.adx</Intro>
+      <Intro>all01_v16_bz_jp.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
-      <SampleCount>68004</SampleCount>
+      <SampleCount>84064</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Add/all01_v13_action_suc_sn_en</Name>
-      <Intro>all01_v13_action_suc_sn_en.adx</Intro>
+      <Intro>all01_v13_action_suc_sn_jp.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
-      <SampleCount>71660</SampleCount>
+      <SampleCount>110877</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v06_bz_en</Name>
