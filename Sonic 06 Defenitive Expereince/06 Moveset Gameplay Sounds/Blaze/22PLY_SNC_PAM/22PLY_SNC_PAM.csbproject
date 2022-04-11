@@ -10517,7 +10517,7 @@
         <string>Synth/2000000_player/2002000_PLY_SNC_GE/2002_030_boost/2002_030_boost_2</string>
       </Children>
       <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
-      <Volume>1200</Volume>
+      <Volume>1250</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -10697,7 +10697,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_030_boost_2_aif</SoundElementReference>
       <Children />
-      <Volume>649</Volume>
+      <Volume>0</Volume>
       <Pitch>350</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -10880,7 +10880,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_031_boost_lp_1_wav</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>0</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -14652,11 +14652,12 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_030_boost_1_aif</Name>
-      <Intro>Synth_2000000_player_2002000_PLY_SNC_GE_2002_030_boost_1_aif_Intro.adx</Intro>
+      <Intro>00_axel_tornado.aif_Intro_0.adx</Intro>
+      <Loop />
       <ChannelCount>2</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>32000</SampleRate>
-      <SampleCount>118131</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>309390</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_030_boost_2_aif</Name>
@@ -14677,11 +14678,12 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_031_boost_lp_2_aif</Name>
-      <Intro>Synth_2000000_player_2002000_PLY_SNC_GE_2002_031_boost_lp_2_aif_Intro.adx</Intro>
+      <Intro>02_spiningclaw_charge.aif_Intro_0.adx</Intro>
+      <Loop>02_spiningclaw_charge.aif_Loop.adx</Loop>
       <ChannelCount>2</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>26000</SampleRate>
-      <SampleCount>226126</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>735490</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_041_lightdash_aif</Name>
