@@ -11244,7 +11244,7 @@
         <string>Synth/2000000_player/2002000_PLY_SNC_GE/2002_042_stomping/2002_042_stomping</string>
       </Children>
       <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
-      <Volume>1000</Volume>
+      <Volume>1250</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -13861,7 +13861,7 @@
         <string>Synth/2000000_player/2002000_PLY_SNC_GE/2002_094_springclaw_stop/2002_094_springclaw_stop</string>
       </Children>
       <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -13940,7 +13940,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_094_springclaw_stop</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
