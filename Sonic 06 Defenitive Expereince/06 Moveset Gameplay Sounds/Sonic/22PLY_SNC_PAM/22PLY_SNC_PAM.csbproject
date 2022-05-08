@@ -16866,12 +16866,12 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_099_gundive_charge</Name>
-      <Intro>25_gundrive_charge.aif_Intro.adx</Intro>
-      <Loop>25_gundrive_charge.aif_Loop.adx</Loop>
+      <Intro>25_gundrive_charge.aif_Intro_0.adx</Intro>
+      <Loop>25_gundrive_charge.aif_Loop_0.adx</Loop>
       <ChannelCount>2</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
-      <SampleCount>85748</SampleCount>
+      <SampleCount>374044</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_100_gundive_throw</Name>
