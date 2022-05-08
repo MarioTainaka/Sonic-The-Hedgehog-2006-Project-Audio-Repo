@@ -282,6 +282,72 @@
       <UserComment>Mario Tainaka @2021 STH 2006 Spindash Release Sound.</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>2002_094_homing_charge</Name>
+      <Identifier>80041025</Identifier>
+      <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_094_homing_charge</SynthReference>
+      <Flags>0</Flags>
+    </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>2002_095_homing_shoot</Name>
+      <Identifier>80041026</Identifier>
+      <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_095_homing_shoot</SynthReference>
+      <Flags>0</Flags>
+    </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>2002_096_tornado_move</Name>
+      <Identifier>80041027</Identifier>
+      <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_096_tornado_move</SynthReference>
+      <Flags>0</Flags>
+    </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>2002_097_change</Name>
+      <Identifier>80041028</Identifier>
+      <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_097_change</SynthReference>
+      <Flags>0</Flags>
+    </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>2002_098_mini</Name>
+      <Identifier>80041029</Identifier>
+      <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_098_mini</SynthReference>
+      <Flags>0</Flags>
+    </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>2002_099_gundive_charge</Name>
+      <Identifier>80041030</Identifier>
+      <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_099_gundive_charge</SynthReference>
+      <Flags>0</Flags>
+    </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>2002_100_gundive_throw</Name>
+      <Identifier>80041031</Identifier>
+      <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_100_gundive_throw</SynthReference>
+      <Flags>0</Flags>
+    </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>2002_101_gundive_move</Name>
+      <Identifier>80041032</Identifier>
+      <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_101_gundive_move</SynthReference>
+      <Flags>0</Flags>
+    </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>2002_102_guard</Name>
+      <Identifier>80041033</Identifier>
+      <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_102_guard</SynthReference>
+      <Flags>0</Flags>
+    </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>2002_103_guard_on</Name>
+      <Identifier>80041034</Identifier>
+      <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_103_guard_on</SynthReference>
+      <Flags>0</Flags>
+    </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>2002_104_gravity</Name>
+      <Identifier>80041035</Identifier>
+      <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_104_gravity</SynthReference>
+      <Flags>0</Flags>
+    </BuilderCueNode>
   </CueNodes>
   <SynthNodes>
     <BuilderSynthNode>
