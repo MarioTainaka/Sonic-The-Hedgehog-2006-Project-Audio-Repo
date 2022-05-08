@@ -14996,6 +14996,105 @@
       <SampleRate>44100</SampleRate>
       <SampleCount>107978</SampleCount>
     </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_094_homing_charge</Name>
+      <Intro>04_homing_charge.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>2</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>150692</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_095_homing_shoot</Name>
+      <Intro>05_homing_shoot.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>2</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>194784</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_096_tornado_move</Name>
+      <Intro>19_tornado.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>2</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>262262</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_097_change</Name>
+      <Intro>22_change.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>2</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>34072</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_098_mini</Name>
+      <Intro>24_mini.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>2</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>97948</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_099_gundive_charge</Name>
+      <Intro>25_gundrive_charge.aif_Intro.adx</Intro>
+      <Loop>25_gundrive_charge.aif_Loop.adx</Loop>
+      <ChannelCount>2</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>85748</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_100_gundive_throw</Name>
+      <Intro>26_gundrive_throw.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>2</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>132042</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_101_gundive_move</Name>
+      <Intro>27_gundrive_move.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>57265</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_102_guard</Name>
+      <Intro>30_guard.aif_Intro.adx</Intro>
+      <Loop>30_guard.aif_Loop.adx</Loop>
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>100524</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_103_guard_on</Name>
+      <Intro>29_guard_on.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>46015</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_104_gravity</Name>
+      <Intro>28_gravity.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>2</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>2</SampleCount>
+    </BuilderSoundElementNode>
   </SoundElementNodes>
   <AisacNodes>
     <BuilderAisacNode>
