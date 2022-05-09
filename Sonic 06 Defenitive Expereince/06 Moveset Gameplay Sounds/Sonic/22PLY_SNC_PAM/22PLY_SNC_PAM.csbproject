@@ -316,7 +316,7 @@
       <Name>2002_099_gundive_charge</Name>
       <Identifier>80041030</Identifier>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_099_gundive_charge</SynthReference>
-      <Flags>0</Flags>
+      <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_100_gundive_throw</Name>
@@ -334,7 +334,7 @@
       <Name>2002_102_guard</Name>
       <Identifier>80041033</Identifier>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_102_guard</SynthReference>
-      <Flags>0</Flags>
+      <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_103_guard_on</Name>
@@ -11410,7 +11410,7 @@
       <EgAttack>0</EgAttack>
       <EgHold>0</EgHold>
       <EgDecay>0</EgDecay>
-      <EgRelease>1000</EgRelease>
+      <EgRelease>480</EgRelease>
       <EgSustain>1000</EgSustain>
       <FilterType>0</FilterType>
       <FilterCutoff1>0</FilterCutoff1>
@@ -15295,7 +15295,7 @@
       <EgAttack>0</EgAttack>
       <EgHold>0</EgHold>
       <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
+      <EgRelease>480</EgRelease>
       <EgSustain>1000</EgSustain>
       <FilterType>0</FilterType>
       <FilterCutoff1>0</FilterCutoff1>
@@ -15774,7 +15774,7 @@
       <EgAttack>0</EgAttack>
       <EgHold>0</EgHold>
       <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
+      <EgRelease>480</EgRelease>
       <EgSustain>1000</EgSustain>
       <FilterType>0</FilterType>
       <FilterCutoff1>0</FilterCutoff1>
