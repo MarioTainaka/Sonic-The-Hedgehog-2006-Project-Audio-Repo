@@ -3208,7 +3208,7 @@
       <Children>
         <string>Synth/1000000_system/1000000_SYS_CMN/1000_008_pressstart/1000_008_pressstart_aif</string>
       </Children>
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3287,7 +3287,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/1000000_system/1000000_SYS_CMN/1000_008_pressstart_aif</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3367,7 +3367,7 @@
       <Children>
         <string>Synth/1000000_system/1000000_SYS_CMN/1000_016_cursor2/1000_016_cursor2</string>
       </Children>
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3398,6 +3398,7 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <VoiceLimitGroupReference>System_UI</VoiceLimitGroupReference>
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -3446,7 +3447,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/1000000_system/1000000_SYS_CMN/1000_016_cursor2_wav</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3675,5 +3676,10 @@
     </BuilderSoundElementNode>
   </SoundElementNodes>
   <AisacNodes />
-  <VoiceLimitGroupNodes />
+  <VoiceLimitGroupNodes>
+    <BuilderVoiceLimitGroupNode>
+      <Name>System_UI</Name>
+      <MaxAmountOfInstances>2</MaxAmountOfInstances>
+    </BuilderVoiceLimitGroupNode>
+  </VoiceLimitGroupNodes>
 </CsbProject>
