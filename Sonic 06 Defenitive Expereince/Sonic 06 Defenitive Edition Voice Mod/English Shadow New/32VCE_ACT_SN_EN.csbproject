@@ -136,57 +136,57 @@
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>all01_v12_bz_en</Name>
+      <Name>all01_v12_sh_en</Name>
       <Identifier>40000</Identifier>
-      <SynthReference>Synth/3000000_voice/3000000_voice_Rank/all01_v12_bz_en</SynthReference>
+      <SynthReference>Synth/3000000_voice/3000000_voice_Rank/all01_v12_sd_en</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>all01_v13_bz_en</Name>
+      <Name>all01_v13_sh_en</Name>
       <Identifier>40001</Identifier>
-      <SynthReference>Synth/3000000_voice/3000000_voice_Rank/all01_v13_bz_en</SynthReference>
+      <SynthReference>Synth/3000000_voice/3000000_voice_Rank/all01_v13_sd_en</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>all01_v14_bz_en</Name>
+      <Name>all01_v14_sh_en</Name>
       <Identifier>40002</Identifier>
-      <SynthReference>Synth/3000000_voice/3000000_voice_Rank/all01_v14_bz_en</SynthReference>
+      <SynthReference>Synth/3000000_voice/3000000_voice_Rank/all01_v14_sd_en</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>all01_v15_bz_en</Name>
+      <Name>all01_v15_sh_en</Name>
       <Identifier>40003</Identifier>
-      <SynthReference>Synth/3000000_voice/3000000_voice_Rank/all01_v15_bz_en</SynthReference>
+      <SynthReference>Synth/3000000_voice/3000000_voice_Rank/all01_v15_sd_en</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>all01_v16_bz_en</Name>
+      <Name>all01_v16_sh_en</Name>
       <Identifier>40004</Identifier>
-      <SynthReference>Synth/3000000_voice/3000000_voice_Rank/all01_v16_bz_en</SynthReference>
+      <SynthReference>Synth/3000000_voice/3000000_voice_Rank/all01_v16_sd_en</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>all01_v11_bz_en</Name>
+      <Name>all01_v11_sh_en</Name>
       <Identifier>3002019</Identifier>
-      <SynthReference>Synth/3000000_voice/3000000_voice_Rank/all01_v11_bz_en</SynthReference>
+      <SynthReference>Synth/3000000_voice/3000000_voice_Rank/all01_v11_sd_en</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>all01_v10_bz_en</Name>
+      <Name>all01_v10_sh_en</Name>
       <Identifier>3002021</Identifier>
       <SynthReference>Synth/3000000_voice/3000000_voice_Add/all01_v10_bz_en</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>all01_v05_bz_en</Name>
+      <Name>all01_v05_sh_en</Name>
       <Identifier>3002030</Identifier>
       <SynthReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_009_action04</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>all01_v03_bz_en</Name>
+      <Name>all01_v03_sh_en</Name>
       <Identifier>3002022</Identifier>
-      <SynthReference>Synth/3000000_voice/3000000_voice_Add/all01_v03_bz_en</SynthReference>
+      <SynthReference>Synth/3000000_voice/3000000_voice_Add/all01_v03_sh_en</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
@@ -198,7 +198,7 @@
     <BuilderCueNode>
       <Name>all01_v07_bz_en</Name>
       <Identifier>3002031</Identifier>
-      <SynthReference>Synth/3000000_voice/3000000_voice_Add/all01_v07_bz_en</SynthReference>
+      <SynthReference>Synth/3000000_voice/3000000_voice_Add/all01_v07_sh_en</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
   </CueNodes>
@@ -4280,12 +4280,12 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v12_bz_en</Name>
+      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v12_sd_en</Name>
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
-        <string>Synth/3000000_voice/3000000_voice_Rank/all01_v12_bz_en/rank</string>
-        <string>Synth/3000000_voice/3000000_voice_Rank/all01_v12_bz_en/all01_v12_bz_en_0</string>
+        <string>Synth/3000000_voice/3000000_voice_Rank/all01_v12_sd_en/rank</string>
+        <string>Synth/3000000_voice/3000000_voice_Rank/all01_v12_sd_en/all01_v12_sd_en_0</string>
       </Children>
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
@@ -4361,7 +4361,7 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v12_bz_en/rank</Name>
+      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v12_sd_en/rank</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/SFX/rank</SoundElementReference>
@@ -4440,11 +4440,11 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v12_bz_en/all01_v12_bz_en_0</Name>
+      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v12_sd_en/all01_v12_sd_en_0</Name>
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
-        <string>Synth/3000000_voice/3000000_voice_Rank/all01_v12_bz_en/all01_v12_bz_en_0/all01_v12_bz_en</string>
+        <string>Synth/3000000_voice/3000000_voice_Rank/all01_v12_sd_en/all01_v12_sd_en_0/all01_v12_sd_en</string>
       </Children>
       <Volume>700</Volume>
       <Pitch>0</Pitch>
@@ -4520,10 +4520,10 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v12_bz_en/all01_v12_bz_en_0/all01_v12_bz_en</Name>
+      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v12_sd_en/all01_v12_sd_en_0/all01_v12_sd_en</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/3000000_voice/3000000_voice_Rank/all01_v12_bz_en</SoundElementReference>
+      <SoundElementReference>Synth/3000000_voice/3000000_voice_Rank/all01_v12_sd_en</SoundElementReference>
       <Children />
       <Volume>700</Volume>
       <Pitch>0</Pitch>
@@ -4599,12 +4599,12 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v13_bz_en</Name>
+      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v13_sd_en</Name>
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
-        <string>Synth/3000000_voice/3000000_voice_Rank/all01_v13_bz_en/rank</string>
-        <string>Synth/3000000_voice/3000000_voice_Rank/all01_v13_bz_en/all01_v13_bz_en_0</string>
+        <string>Synth/3000000_voice/3000000_voice_Rank/all01_v13_sd_en/rank</string>
+        <string>Synth/3000000_voice/3000000_voice_Rank/all01_v13_sd_en/all01_v13_sd_en_0</string>
       </Children>
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
@@ -4680,7 +4680,7 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v13_bz_en/rank</Name>
+      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v13_sd_en/rank</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/SFX/rank</SoundElementReference>
@@ -4759,11 +4759,11 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v13_bz_en/all01_v13_bz_en_0</Name>
+      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v13_sd_en/all01_v13_sd_en_0</Name>
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
-        <string>Synth/3000000_voice/3000000_voice_Rank/all01_v13_bz_en/all01_v13_bz_en_0/all01_v13_bz_en</string>
+        <string>Synth/3000000_voice/3000000_voice_Rank/all01_v13_sd_en/all01_v13_sd_en_0/all01_v13_sd_en</string>
       </Children>
       <Volume>700</Volume>
       <Pitch>0</Pitch>
@@ -4839,10 +4839,10 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v13_bz_en/all01_v13_bz_en_0/all01_v13_bz_en</Name>
+      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v13_sd_en/all01_v13_sd_en_0/all01_v13_sd_en</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/3000000_voice/3000000_voice_Rank/all01_v13_bz_en</SoundElementReference>
+      <SoundElementReference>Synth/3000000_voice/3000000_voice_Rank/all01_v13_sd_en</SoundElementReference>
       <Children />
       <Volume>700</Volume>
       <Pitch>0</Pitch>
@@ -4918,12 +4918,12 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v14_bz_en</Name>
+      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v14_sd_en</Name>
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
-        <string>Synth/3000000_voice/3000000_voice_Rank/all01_v14_bz_en/rank</string>
-        <string>Synth/3000000_voice/3000000_voice_Rank/all01_v14_bz_en/all01_v14_bz_en_0</string>
+        <string>Synth/3000000_voice/3000000_voice_Rank/all01_v14_sd_en/rank</string>
+        <string>Synth/3000000_voice/3000000_voice_Rank/all01_v14_sd_en/all01_v14_sd_en_0</string>
       </Children>
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
@@ -4999,7 +4999,7 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v14_bz_en/rank</Name>
+      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v14_sd_en/rank</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/SFX/rank</SoundElementReference>
@@ -5078,11 +5078,11 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v14_bz_en/all01_v14_bz_en_0</Name>
+      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v14_sd_en/all01_v14_sd_en_0</Name>
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
-        <string>Synth/3000000_voice/3000000_voice_Rank/all01_v14_bz_en/all01_v14_bz_en_0/all01_v14_bz_en</string>
+        <string>Synth/3000000_voice/3000000_voice_Rank/all01_v14_sd_en/all01_v14_sd_en_0/all01_v14_sd_en</string>
       </Children>
       <Volume>700</Volume>
       <Pitch>0</Pitch>
@@ -5158,10 +5158,10 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v14_bz_en/all01_v14_bz_en_0/all01_v14_bz_en</Name>
+      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v14_sd_en/all01_v14_sd_en_0/all01_v14_sd_en</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/3000000_voice/3000000_voice_Rank/all01_v14_bz_en</SoundElementReference>
+      <SoundElementReference>Synth/3000000_voice/3000000_voice_Rank/all01_v14_sd_en</SoundElementReference>
       <Children />
       <Volume>700</Volume>
       <Pitch>0</Pitch>
@@ -5237,12 +5237,12 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v15_bz_en</Name>
+      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v15_sd_en</Name>
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
-        <string>Synth/3000000_voice/3000000_voice_Rank/all01_v15_bz_en/rank</string>
-        <string>Synth/3000000_voice/3000000_voice_Rank/all01_v15_bz_en/all01_v15_bz_en_0</string>
+        <string>Synth/3000000_voice/3000000_voice_Rank/all01_v15_sd_en/rank</string>
+        <string>Synth/3000000_voice/3000000_voice_Rank/all01_v15_sd_en/all01_v15_sd_en_0</string>
       </Children>
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
@@ -5318,7 +5318,7 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v15_bz_en/rank</Name>
+      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v15_sd_en/rank</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/SFX/rank</SoundElementReference>
@@ -5397,11 +5397,11 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v15_bz_en/all01_v15_bz_en_0</Name>
+      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v15_sd_en/all01_v15_sd_en_0</Name>
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
-        <string>Synth/3000000_voice/3000000_voice_Rank/all01_v15_bz_en/all01_v15_bz_en_0/all01_v15_bz_en</string>
+        <string>Synth/3000000_voice/3000000_voice_Rank/all01_v15_sd_en/all01_v15_sd_en_0/all01_v15_sd_en</string>
       </Children>
       <Volume>700</Volume>
       <Pitch>0</Pitch>
@@ -5477,10 +5477,10 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v15_bz_en/all01_v15_bz_en_0/all01_v15_bz_en</Name>
+      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v15_sd_en/all01_v15_sd_en_0/all01_v15_sd_en</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/3000000_voice/3000000_voice_Rank/all01_v15_bz_en</SoundElementReference>
+      <SoundElementReference>Synth/3000000_voice/3000000_voice_Rank/all01_v15_sd_en</SoundElementReference>
       <Children />
       <Volume>700</Volume>
       <Pitch>0</Pitch>
@@ -5556,12 +5556,12 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v16_bz_en</Name>
+      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v16_sd_en</Name>
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
-        <string>Synth/3000000_voice/3000000_voice_Rank/all01_v16_bz_en/rank</string>
-        <string>Synth/3000000_voice/3000000_voice_Rank/all01_v16_bz_en/all01_v16_bz_en_0</string>
+        <string>Synth/3000000_voice/3000000_voice_Rank/all01_v16_sd_en/rank</string>
+        <string>Synth/3000000_voice/3000000_voice_Rank/all01_v16_sd_en/all01_v16_sd_en_0</string>
       </Children>
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
@@ -5637,7 +5637,7 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v16_bz_en/rank</Name>
+      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v16_sd_en/rank</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/SFX/rank</SoundElementReference>
@@ -5716,11 +5716,11 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v16_bz_en/all01_v16_bz_en_0</Name>
+      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v16_sd_en/all01_v16_sd_en_0</Name>
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
-        <string>Synth/3000000_voice/3000000_voice_Rank/all01_v16_bz_en/all01_v16_bz_en_0/all01_v16_bz_en</string>
+        <string>Synth/3000000_voice/3000000_voice_Rank/all01_v16_sd_en/all01_v16_sd_en_0/all01_v16_sd_en</string>
       </Children>
       <Volume>700</Volume>
       <Pitch>0</Pitch>
@@ -5796,10 +5796,10 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v16_bz_en/all01_v16_bz_en_0/all01_v16_bz_en</Name>
+      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v16_sd_en/all01_v16_sd_en_0/all01_v16_sd_en</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/3000000_voice/3000000_voice_Rank/all01_v16_bz_en</SoundElementReference>
+      <SoundElementReference>Synth/3000000_voice/3000000_voice_Rank/all01_v16_sd_en</SoundElementReference>
       <Children />
       <Volume>700</Volume>
       <Pitch>0</Pitch>
@@ -5875,11 +5875,11 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v11_bz_en</Name>
+      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v11_sd_en</Name>
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
-        <string>Synth/3000000_voice/3000000_voice_Rank/all01_v11_bz_en/all01_v11_bz_en</string>
+        <string>Synth/3000000_voice/3000000_voice_Rank/all01_v11_sd_en/all01_v11_sd_en</string>
       </Children>
       <Volume>700</Volume>
       <Pitch>0</Pitch>
@@ -5955,7 +5955,7 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v11_bz_en/all01_v11_bz_en</Name>
+      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v11_sd_en/all01_v11_sd_en</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v11_sd_en</SoundElementReference>
@@ -6034,11 +6034,11 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3000000_voice_Add/all01_v03_bz_en</Name>
+      <Name>Synth/3000000_voice/3000000_voice_Add/all01_v03_sh_en</Name>
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
-        <string>Synth/3000000_voice/3000000_voice_Add/all01_v03_bz_en/all01_v03_bz_en</string>
+        <string>Synth/3000000_voice/3000000_voice_Add/all01_v03_sh_en/all01_v03_sh_en</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
       <Volume>800</Volume>
@@ -6116,7 +6116,7 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3000000_voice_Add/all01_v03_bz_en/all01_v03_bz_en</Name>
+      <Name>Synth/3000000_voice/3000000_voice_Add/all01_v03_sh_en/all01_v03_sh_en</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/3000000_voice/3000000_voice_Add/all01_v03_sh_en</SoundElementReference>
@@ -6195,11 +6195,11 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3000000_voice_Add/all01_v07_bz_en</Name>
+      <Name>Synth/3000000_voice/3000000_voice_Add/all01_v07_sh_en</Name>
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
-        <string>Synth/3000000_voice/3000000_voice_Add/all01_v07_bz_en/all01_v07_bz_en</string>
+        <string>Synth/3000000_voice/3000000_voice_Add/all01_v07_sh_en/all01_v07_sh_en</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
       <Volume>800</Volume>
@@ -6276,7 +6276,7 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3000000_voice_Add/all01_v07_bz_en/all01_v07_bz_en</Name>
+      <Name>Synth/3000000_voice/3000000_voice_Add/all01_v07_sh_en/all01_v07_sh_en</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/3000000_voice/3000000_voice_Add/all01_v07_sh_en</SoundElementReference>
@@ -6359,7 +6359,7 @@
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
-        <string>Synth/3000000_voice/3000000_voice_Add/all01_v10_bz_en/all01_v10_bz_en</string>
+        <string>Synth/3000000_voice/3000000_voice_Add/all01_v10_bz_en/all01_v10_sd_en</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
       <Volume>800</Volume>
@@ -6437,10 +6437,10 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3000000_voice_Add/all01_v10_bz_en/all01_v10_bz_en</Name>
+      <Name>Synth/3000000_voice/3000000_voice_Add/all01_v10_bz_en/all01_v10_sd_en</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/3000000_voice/3000000_voice_Add/all01_v10_bz_en</SoundElementReference>
+      <SoundElementReference>Synth/3000000_voice/3000000_voice_Add/all01_v10_sd_en</SoundElementReference>
       <Children />
       <Volume>800</Volume>
       <Pitch>0</Pitch>
@@ -6846,13 +6846,13 @@
       <SampleCount>41309</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v11_bz_en</Name>
-      <Intro>ALL01_V11_BZ.aif_Intro_0.adx</Intro>
+      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v11_sd_en</Name>
+      <Intro>ALL01_V11_SD.aif_Intro_0.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
-      <SampleCount>21704</SampleCount>
+      <SampleCount>29937</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/SFX/rank</Name>
@@ -6881,13 +6881,13 @@
       <SampleCount>36823</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v12_bz_en</Name>
-      <Intro>all01_v12_bz.adx</Intro>
+      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v12_sd_en</Name>
+      <Intro>all01_v12_sd.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
-      <SampleCount>71660</SampleCount>
+      <SampleCount>58810</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Add/all01_v01_sh2_en</Name>
@@ -6916,13 +6916,13 @@
       <SampleCount>28575</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v13_bz_en</Name>
-      <Intro>all01_v13_bz_0.adx</Intro>
+      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v13_sd_en</Name>
+      <Intro>all01_v13_sd.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
-      <SampleCount>86468</SampleCount>
+      <SampleCount>125128</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Add/all01_v03_sh_en</Name>
@@ -6943,13 +6943,13 @@
       <SampleCount>59297</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v14_bz_en</Name>
-      <Intro>all01_v14_bz.adx</Intro>
+      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v14_sd_en</Name>
+      <Intro>all01_v14_sd.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
-      <SampleCount>71660</SampleCount>
+      <SampleCount>61939</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Add/bos01_a06_bz</Name>
@@ -6970,13 +6970,13 @@
       <SampleCount>19303</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v15_bz_en</Name>
-      <Intro>all01_v15_bz.adx</Intro>
+      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v15_sd_en</Name>
+      <Intro>all01_v15_sd.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
-      <SampleCount>77510</SampleCount>
+      <SampleCount>75703</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Add/all01_v07_sh_en</Name>
@@ -6997,22 +6997,22 @@
       <SampleCount>24522</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v16_bz_en</Name>
-      <Intro>all01_v16_bz.adx</Intro>
+      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v16_sd_en</Name>
+      <Intro>all01_v16_sd.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
-      <SampleCount>68004</SampleCount>
+      <SampleCount>111364</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth/3000000_voice/3000000_voice_Add/all01_v10_bz_en</Name>
-      <Intro>ALL01_V10_BZ.aif_Intro.adx</Intro>
+      <Name>Synth/3000000_voice/3000000_voice_Add/all01_v10_sd_en</Name>
+      <Intro>ALL01_V10_SD.aif_Intro.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
-      <SampleCount>29385</SampleCount>
+      <SampleCount>17725</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v05_sh1_en</Name>
