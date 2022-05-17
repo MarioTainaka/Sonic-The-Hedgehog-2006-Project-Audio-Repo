@@ -14402,7 +14402,7 @@
       <Children>
         <string>Synth/2000000_player/2002000_PLY_SNC_GE/2002_095_homing_shoot/2002_095_homing_shoot</string>
       </Children>
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -14481,7 +14481,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_095_homing_shoot</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -14722,7 +14722,7 @@
         <string>Synth/2000000_player/2002000_PLY_SNC_GE/2002_097_change/2002_097_change</string>
       </Children>
       <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
-      <Volume>1000</Volume>
+      <Volume>900</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -14801,7 +14801,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_097_change</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>900</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
