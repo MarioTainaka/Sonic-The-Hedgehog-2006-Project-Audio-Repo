@@ -4344,6 +4344,7 @@
       <Wcnct5 />
       <Wcnct6 />
       <Wcnct7 />
+      <VoiceLimitGroupReference>Itembox_cl</VoiceLimitGroupReference>
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -4434,6 +4435,7 @@
       <Wcnct5 />
       <Wcnct6 />
       <Wcnct7 />
+      <VoiceLimitGroupReference>Itembox_cl</VoiceLimitGroupReference>
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -15710,6 +15712,10 @@
     <BuilderVoiceLimitGroupNode>
       <Name>Bubble_03</Name>
       <MaxAmountOfInstances>3</MaxAmountOfInstances>
+    </BuilderVoiceLimitGroupNode>
+    <BuilderVoiceLimitGroupNode>
+      <Name>Itembox_cl</Name>
+      <MaxAmountOfInstances>0</MaxAmountOfInstances>
     </BuilderVoiceLimitGroupNode>
   </VoiceLimitGroupNodes>
 </CsbProject>
