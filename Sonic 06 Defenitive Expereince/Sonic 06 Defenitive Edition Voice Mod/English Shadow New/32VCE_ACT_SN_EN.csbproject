@@ -4285,7 +4285,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/3000000_voice/3000000_voice_Rank/all01_v12_sd_en</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>700</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4444,7 +4444,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/3000000_voice/3000000_voice_Rank/all01_v13_sd_en</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>700</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4603,7 +4603,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/3000000_voice/3000000_voice_Rank/all01_v14_sd_en</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>700</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4762,7 +4762,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/3000000_voice/3000000_voice_Rank/all01_v15_sd_en</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>700</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4921,7 +4921,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/3000000_voice/3000000_voice_Rank/all01_v16_sd_en</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>700</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
