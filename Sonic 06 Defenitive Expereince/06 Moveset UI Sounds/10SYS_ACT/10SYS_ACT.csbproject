@@ -79,7 +79,7 @@
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
-        <string>Synth/1000000_system/1010000_SYS_ACT/1010_000_result/1010_000_result</string>
+        <string>Synth/1000000_system/1010000_SYS_ACT/1010_000_result/1010_002_rank_aif</string>
       </Children>
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
@@ -166,12 +166,12 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/1000000_system/1010000_SYS_ACT/1010_000_result/1010_000_result</Name>
+      <Name>Synth/1000000_system/1010000_SYS_ACT/1010_000_result/1010_002_rank_aif</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/1000000_system/1010000_SYS_ACT/1010_000_result_aif</SoundElementReference>
+      <SoundElementReference>Synth/1000000_system/1010000_SYS_ACT/1010_002_rank_aif</SoundElementReference>
       <Children />
-      <Volume>899</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -443,7 +443,7 @@
       <Children>
         <string>Synth/1000000_system/1010000_SYS_ACT/1010_002_rank/1010_002_rank</string>
       </Children>
-      <Volume>1250</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -533,7 +533,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/1000000_system/1010000_SYS_ACT/1010_002_rank_aif</SoundElementReference>
       <Children />
-      <Volume>1250</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1618,7 +1618,7 @@
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
-        <string>Synth/1000000_system/1010000_SYS_ACT/1010_008_30sec_1/1010_000_result</string>
+        <string>Synth/1000000_system/1010000_SYS_ACT/1010_008_30sec_1/1010_002_rank_aif</string>
       </Children>
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
@@ -1705,12 +1705,12 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/1000000_system/1010000_SYS_ACT/1010_008_30sec_1/1010_000_result</Name>
+      <Name>Synth/1000000_system/1010000_SYS_ACT/1010_008_30sec_1/1010_002_rank_aif</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/1000000_system/1010000_SYS_ACT/1010_000_result_aif</SoundElementReference>
+      <SoundElementReference>Synth/1000000_system/1010000_SYS_ACT/1010_002_rank_aif</SoundElementReference>
       <Children />
-      <Volume>899</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1725,8 +1725,6 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
-      <DryOName />
-      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -1735,8 +1733,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
-      <WetOName />
-      <Wet0>61</Wet0>
+      <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
       <Wet3>0</Wet3>
@@ -1744,14 +1741,6 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
-      <Wcnct0 />
-      <Wcnct1 />
-      <Wcnct2 />
-      <Wcnct3 />
-      <Wcnct4 />
-      <Wcnct5 />
-      <Wcnct6 />
-      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
