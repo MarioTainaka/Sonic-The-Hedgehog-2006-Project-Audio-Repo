@@ -4,13 +4,13 @@
   <CueNodes>
     <BuilderCueNode>
       <Name>Boss_Perfect_Chaos1</Name>
-      <Identifier>500</Identifier>
+      <Id>500</Id>
       <SynthReference>Synth/boss_ibilis1_delay</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>Boss_Perfect_Chaos2</Name>
-      <Identifier>501</Identifier>
+      <Id>501</Id>
       <SynthReference>Synth/boss_iblis2_normal</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
