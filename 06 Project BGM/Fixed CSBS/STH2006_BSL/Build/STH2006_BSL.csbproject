@@ -4,19 +4,19 @@
   <CueNodes>
     <BuilderCueNode>
       <Name>vs_Silver1</Name>
-      <Identifier>70001</Identifier>
+      <Id>70001</Id>
       <SynthReference>Synth/boss_silver_delay</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>vs_Silver2</Name>
-      <Identifier>70002</Identifier>
+      <Id>70002</Id>
       <SynthReference>Synth/boss_silver_delay</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>vs_Silver3</Name>
-      <Identifier>70003</Identifier>
+      <Id>70003</Id>
       <SynthReference>Synth/boss_silver_delay</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
