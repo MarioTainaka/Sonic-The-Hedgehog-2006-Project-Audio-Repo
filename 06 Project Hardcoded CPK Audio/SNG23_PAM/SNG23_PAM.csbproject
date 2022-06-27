@@ -4,21 +4,21 @@
   <CueNodes>
     <BuilderCueNode>
       <Name>Shop</Name>
-      <Identifier>823000</Identifier>
+      <Id>823000</Id>
       <SynthReference>Synth/Dummy</SynthReference>
       <UserComment />
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>Collection_Room1</Name>
-      <Identifier>823001</Identifier>
+      <Id>823001</Id>
       <SynthReference>Synth/Dummy</SynthReference>
       <UserComment />
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>Collection_Room2</Name>
-      <Identifier>823002</Identifier>
+      <Id>823002</Id>
       <SynthReference>Synth/Dummy</SynthReference>
       <UserComment />
       <Flags>1</Flags>

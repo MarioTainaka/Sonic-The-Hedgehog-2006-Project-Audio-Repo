@@ -4,91 +4,91 @@
   <CueNodes>
     <BuilderCueNode>
       <Name>Invincible1</Name>
-      <Identifier>819000</Identifier>
+      <Id>819000</Id>
       <SynthReference>Synth/STH2006_speedup</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>Invincible2</Name>
-      <Identifier>819001</Identifier>
+      <Id>819001</Id>
       <SynthReference>Synth/STH2006_speedup</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>Super_Sonic1</Name>
-      <Identifier>819002</Identifier>
+      <Id>819002</Id>
       <SynthReference>Synth/EMBB001_Title_Long1</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>Super_Sonic2</Name>
-      <Identifier>819003</Identifier>
+      <Id>819003</Id>
       <SynthReference>Synth/EMBB001_Title_Long1</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1up</Name>
-      <Identifier>819004</Identifier>
+      <Id>819004</Id>
       <SynthReference>Synth/EMBB075_1up</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>Timer</Name>
-      <Identifier>819005</Identifier>
+      <Id>819005</Id>
       <SynthReference>Synth/EMBB076_Timer</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>Result</Name>
-      <Identifier>819006</Identifier>
+      <Id>819006</Id>
       <SynthReference>Synth/STH2006_round_clear</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>Result1</Name>
-      <Identifier>819007</Identifier>
+      <Id>819007</Id>
       <SynthReference>Synth/STH2006_result</SynthReference>
       <UserComment />
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>Result2</Name>
-      <Identifier>819008</Identifier>
+      <Id>819008</Id>
       <SynthReference>Synth/STH2006_result2</SynthReference>
       <UserComment />
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>Precious_Time</Name>
-      <Identifier>819009</Identifier>
+      <Id>819009</Id>
       <SynthReference>Synth/EMBB080_Precious_Time</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>Time_Break</Name>
-      <Identifier>819010</Identifier>
+      <Id>819010</Id>
       <SynthReference>Synth/EMBB081_Time_Break</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>Game_Over</Name>
-      <Identifier>819011</Identifier>
+      <Id>819011</Id>
       <SynthReference>Synth/EMBB082_Game_Over</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>Result_Town</Name>
-      <Identifier>819012</Identifier>
+      <Id>819012</Id>
       <SynthReference>Synth/STH2006_round_clear_twn</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>

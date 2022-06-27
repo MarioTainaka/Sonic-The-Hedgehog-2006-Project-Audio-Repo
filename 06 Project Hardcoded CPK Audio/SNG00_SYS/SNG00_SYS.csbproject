@@ -4,28 +4,28 @@
   <CueNodes>
     <BuilderCueNode>
       <Name>Title</Name>
-      <Identifier>800000</Identifier>
+      <Id>800000</Id>
       <SynthReference>Synth/STH2006_Title_Screen</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>Option</Name>
-      <Identifier>800001</Identifier>
+      <Id>800001</Id>
       <SynthReference>Synth/STH2006_Options</SynthReference>
       <UserComment />
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>Network</Name>
-      <Identifier>800002</Identifier>
+      <Id>800002</Id>
       <SynthReference>Synth/STH2006_Network</SynthReference>
       <UserComment />
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>End_Roll</Name>
-      <Identifier>800003</Identifier>
+      <Id>800003</Id>
       <SynthReference>Synth/STH2006_Theme_Sonic</SynthReference>
       <UserComment />
       <Flags>0</Flags>
