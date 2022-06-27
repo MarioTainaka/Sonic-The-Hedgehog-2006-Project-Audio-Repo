@@ -4,119 +4,119 @@
   <CueNodes>
     <BuilderCueNode>
       <Name>1000_sw_open</Name>
-      <Identifier>1000000</Identifier>
+      <Id>1000000</Id>
       <SynthReference>Synth/1000000_system/1000000_SYS_CMN/1000_000_sw_open</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1000_sw_close</Name>
-      <Identifier>1000001</Identifier>
+      <Id>1000001</Id>
       <SynthReference>Synth/1000000_system/1000000_SYS_CMN/1000_001_sw_close</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1000_fw_open</Name>
-      <Identifier>1000002</Identifier>
+      <Id>1000002</Id>
       <SynthReference>Synth/1000000_system/1000000_SYS_CMN/1000_002_fw_open</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1000_fw_close</Name>
-      <Identifier>1000003</Identifier>
+      <Id>1000003</Id>
       <SynthReference>Synth/1000000_system/1000000_SYS_CMN/1000_003_fw_close</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1000_cursor</Name>
-      <Identifier>1000004</Identifier>
+      <Id>1000004</Id>
       <SynthReference>Synth/1000000_system/1000000_SYS_CMN/1000_004_cursor</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1000_button</Name>
-      <Identifier>1000005</Identifier>
+      <Id>1000005</Id>
       <SynthReference>Synth/1000000_system/1000000_SYS_CMN/1000_005_button</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1000_lr_slide</Name>
-      <Identifier>1000006</Identifier>
+      <Id>1000006</Id>
       <SynthReference>Synth/1000000_system/1000000_SYS_CMN/1000_006_lr_slide</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1000_select_ng</Name>
-      <Identifier>1000007</Identifier>
+      <Id>1000007</Id>
       <SynthReference>Synth/1000000_system/1000000_SYS_CMN/1000_007_select_ng</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1000_title_decide</Name>
-      <Identifier>1000008</Identifier>
+      <Id>1000008</Id>
       <SynthReference>Synth/1000000_system/1000000_SYS_CMN/1000_008_pressstart</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1000_load01_00</Name>
-      <Identifier>1000009</Identifier>
+      <Id>1000009</Id>
       <SynthReference>Synth/1000000_system/1000000_SYS_CMN/1000_009_load01_00</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1000_load01_01</Name>
-      <Identifier>1000010</Identifier>
+      <Id>1000010</Id>
       <SynthReference>Synth/1000000_system/1000000_SYS_CMN/1000_010_load01_01</SynthReference>
       <UserComment />
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1000_load01_02</Name>
-      <Identifier>1000011</Identifier>
+      <Id>1000011</Id>
       <SynthReference>Synth/1000000_system/1000000_SYS_CMN/1000_011_load01_02</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1000_load01_03</Name>
-      <Identifier>1000012</Identifier>
+      <Id>1000012</Id>
       <SynthReference>Synth/1000000_system/1000000_SYS_CMN/1000_012_load01_03</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1000_load02_00</Name>
-      <Identifier>1000013</Identifier>
+      <Id>1000013</Id>
       <SynthReference>Synth/1000000_system/1000000_SYS_CMN/1000_013_load02_00</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1000_load02_01</Name>
-      <Identifier>1000014</Identifier>
+      <Id>1000014</Id>
       <SynthReference>Synth/1000000_system/1000000_SYS_CMN/1000_014_load02_01</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1000_gameover</Name>
-      <Identifier>1000015</Identifier>
+      <Id>1000015</Id>
       <SynthReference>Synth/1000000_system/1000000_SYS_CMN/1000_015_gameover</SynthReference>
       <UserComment />
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1000_cursor2</Name>
-      <Identifier>1000016</Identifier>
+      <Id>1000016</Id>
       <SynthReference>Synth/1000000_system/1000000_SYS_CMN/1000_016_cursor2</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>

@@ -4,70 +4,70 @@
   <CueNodes>
     <BuilderCueNode>
       <Name>1010_result</Name>
-      <Identifier>1010000</Identifier>
+      <Id>1010000</Id>
       <SynthReference>Synth/1000000_system/1010000_SYS_ACT/1010_000_result</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1010_best</Name>
-      <Identifier>1010001</Identifier>
+      <Id>1010001</Id>
       <SynthReference>Synth/1000000_system/1010000_SYS_ACT/1010_001_best</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1010_rank</Name>
-      <Identifier>1010002</Identifier>
+      <Id>1010002</Id>
       <SynthReference>Synth/1000000_system/1010000_SYS_ACT/1010_002_rank</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1010_gauge</Name>
-      <Identifier>1010003</Identifier>
+      <Id>1010003</Id>
       <SynthReference>Synth/1000000_system/1010000_SYS_ACT/1010_003_gauge</SynthReference>
       <UserComment />
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1010_timemist</Name>
-      <Identifier>1010004</Identifier>
+      <Id>1010004</Id>
       <SynthReference>Synth/1000000_system/1010000_SYS_ACT/1010_004_timemist</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1010_fade</Name>
-      <Identifier>1010005</Identifier>
+      <Id>1010005</Id>
       <SynthReference>Synth/1000000_system/1010000_SYS_ACT/1010_005_fade</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1010_uw_attention</Name>
-      <Identifier>1010006</Identifier>
+      <Id>1010006</Id>
       <SynthReference>Synth/1000000_system/1010000_SYS_ACT/1010_006_uw_attention</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1010_uw_attention2</Name>
-      <Identifier>1010007</Identifier>
+      <Id>1010007</Id>
       <SynthReference>Synth/1000000_system/1010000_SYS_ACT/1010_007_uw_attention2</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1010_30sec_1</Name>
-      <Identifier>1010008</Identifier>
+      <Id>1010008</Id>
       <SynthReference>Synth/1000000_system/1010000_SYS_ACT/1010_008_30sec_1</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1010_30sec_2</Name>
-      <Identifier>1010009</Identifier>
+      <Id>1010009</Id>
       <SynthReference>Synth/1000000_system/1010000_SYS_ACT/1010_009_30sec_2</SynthReference>
       <UserComment>P0080</UserComment>
       <Flags>0</Flags>
