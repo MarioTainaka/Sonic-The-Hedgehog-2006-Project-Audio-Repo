@@ -4,341 +4,341 @@
   <CueNodes>
     <BuilderCueNode>
       <Name>2002_fst_wlk_stn</Name>
-      <Identifier>2002000</Identifier>
+      <Id>2002000</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_000_fst_wlk_stn</SynthReference>
       <UserComment>Mario Tainaka @2021 Footstep Sound Concrete. Add 3 additional slots just like STH 2006</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_fst_run_stn</Name>
-      <Identifier>2002001</Identifier>
+      <Id>2002001</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_001_fst_run_stn</SynthReference>
       <UserComment>Mario Tainaka @2021 Footstep Sound Concrete. Add 3 additional slots just like STH 2006</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_fst_brk_stn</Name>
-      <Identifier>2002002</Identifier>
+      <Id>2002002</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_002_fst_brk_stn</SynthReference>
       <UserComment>Mario Tainaka @2021 Brake Sound Concrete.</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_fst_lnd_stn</Name>
-      <Identifier>2002003</Identifier>
+      <Id>2002003</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_003_fst_lnd_stn</SynthReference>
       <UserComment>Mario Tainaka @2021 Land Sound Concrete. Copy for all surfaces except wood and metal.</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_fst_wlk_mt</Name>
-      <Identifier>2002004</Identifier>
+      <Id>2002004</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_004_fst_wlk_mt</SynthReference>
       <UserComment>Mario Tainaka @2021 Footstep Sound Metal. Add 3 additional slots just like STH 2006</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_fst_run_mt</Name>
-      <Identifier>2002005</Identifier>
+      <Id>2002005</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_005_fst_run_mt</SynthReference>
       <UserComment>Mario Tainaka @2021 Footstep Sound Concrete. Add 3 additional slots just like STH 2006</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_fst_brk_mtl</Name>
-      <Identifier>2002006</Identifier>
+      <Id>2002006</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_006_fst_brk_mtl</SynthReference>
       <UserComment>Mario Tainaka @2021 Brake Sound Metal</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_fst_lnd_mtl</Name>
-      <Identifier>2002007</Identifier>
+      <Id>2002007</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_007_fst_lnd_mtl</SynthReference>
       <UserComment>Mario Tainaka @2021 Land Sound Metal. Copy for all surfaces except wood and metal.</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_fst_wlk_drt</Name>
-      <Identifier>2002008</Identifier>
+      <Id>2002008</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_008_fst_wlk_drt</SynthReference>
       <UserComment>Mario Tainaka @2021 Footstep Sound Dirt, Can be used for Sand as well since sand uses Concrete. Add 3 additional slots just like STH 2006</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_fst_run_drt</Name>
-      <Identifier>2002009</Identifier>
+      <Id>2002009</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_009_fst_run_drt</SynthReference>
       <UserComment>Mario Tainaka @2021 Footstep Sound Dirt, Can be used for Sand as well since sand uses Concrete. Add 3 additional slots just like STH 2006</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_fst_brk_drt</Name>
-      <Identifier>2002010</Identifier>
+      <Id>2002010</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_010_fst_brk_drt</SynthReference>
       <UserComment>Mario Tainaka @2021 Brake Sound Dirt.</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_fst_lnd_drt</Name>
-      <Identifier>2002011</Identifier>
+      <Id>2002011</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_011_fst_lnd_drt</SynthReference>
       <UserComment>Mario Tainaka @2021 Land Sound Dirt. Copy for all surfaces except wood and metal.</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_fst_wlk_wod</Name>
-      <Identifier>2002012</Identifier>
+      <Id>2002012</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_012_fst_wlk_wod</SynthReference>
       <UserComment>Mario Tainaka @2021 Footstep Sound Wood. Add 3 additional slots just like STH 2006</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_fst_run_wod</Name>
-      <Identifier>2002013</Identifier>
+      <Id>2002013</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_013_fst_run_wod</SynthReference>
       <UserComment>Mario Tainaka @2021 Footstep Sound Wood. Add 3 additional slots just like STH 2006</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_fst_brk_wod</Name>
-      <Identifier>2002014</Identifier>
+      <Id>2002014</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_014_fst_brk_wod</SynthReference>
       <UserComment>Mario Tainaka @2021 Brake Sound Wood</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_fst_lnd_wod</Name>
-      <Identifier>2002015</Identifier>
+      <Id>2002015</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_015_fst_lnd_wod</SynthReference>
       <UserComment>Mario Tainaka @2021 Land Sound Wood. Don't copy this one captain obvious. There's only one wood landing sound in STH 2006 which is barley used, but hey here it is</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_fst_wlk_grs</Name>
-      <Identifier>2002016</Identifier>
+      <Id>2002016</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_016_fst_wlk_grs</SynthReference>
       <UserComment>Mario Tainaka @2021 Footstep Sound Grass. Add 3 additional slots just like STH 2006</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_fst_run_grs</Name>
-      <Identifier>2002017</Identifier>
+      <Id>2002017</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_017_fst_run_grs</SynthReference>
       <UserComment>Mario Tainaka @2021 Footstep Sound Grass. Add 3 additional slots just like STH 2006</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_fst_brk_grs</Name>
-      <Identifier>2002018</Identifier>
+      <Id>2002018</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_018_fst_brk_grs</SynthReference>
       <UserComment>Mario Tainaka @2021 Brake Sound Grass.</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_fst_lnd_grs</Name>
-      <Identifier>2002019</Identifier>
+      <Id>2002019</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_019_fst_lnd_grs</SynthReference>
       <UserComment>Mario Tainaka @2021 Land Sound Grass. I don't understand why grass doesn't have it's own landing sound. It has it's own surface sound but the landing just copies the landing sound for concrete. probably and oversight by Sonic Team</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_jump</Name>
-      <Identifier>2002027</Identifier>
+      <Id>2002027</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_027_jump</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_spin_ge</Name>
-      <Identifier>2002028</Identifier>
+      <Id>2002028</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_028_spin_ge</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_homing</Name>
-      <Identifier>2002029</Identifier>
+      <Id>2002029</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_029_homing</SynthReference>
       <UserComment>Mario Tainaka @2021 This is NOT the homing attack sound. this is the airdash sound STH 2006 Airdash sound</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_boost</Name>
-      <Identifier>2002030</Identifier>
+      <Id>2002030</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_030_boost</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_boost_lp</Name>
-      <Identifier>2002031</Identifier>
+      <Id>2002031</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_031_boost_lp</SynthReference>
       <UserComment />
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_lightdash</Name>
-      <Identifier>2002041</Identifier>
+      <Id>2002041</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_041_lightdash</SynthReference>
       <UserComment>Mario Tainaka @2021 un-used in the main game.Set up properly. Probably scrapped.</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_stomping</Name>
-      <Identifier>2002042</Identifier>
+      <Id>2002042</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_092_spindash_charge</SynthReference>
       <UserComment />
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_stomping_lnd</Name>
-      <Identifier>2002043</Identifier>
+      <Id>2002043</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_043_stomping_lnd</SynthReference>
       <UserComment>Mario Tainaka @2021 un-used when using Sonic csb. Do NOT remove this cue. The game will crash otherwise. Putting this cue back is a bit of pain. Do NOT remove it. Thank you.</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_divewind</Name>
-      <Identifier>2002044</Identifier>
+      <Id>2002044</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_044_divewind</SynthReference>
       <UserComment />
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_stumble</Name>
-      <Identifier>2002045</Identifier>
+      <Id>2002045</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_045_stumble</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_stylechange</Name>
-      <Identifier>2002050</Identifier>
+      <Id>2002050</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_050_stylechange</SynthReference>
       <UserComment>Mario Tainaka @2021 Un-used in the main game. I don't know what this is actually for....</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_spindash_ge</Name>
-      <Identifier>2002055</Identifier>
+      <Id>2002055</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_055_spindash_ge</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_stmp_impact</Name>
-      <Identifier>2002056</Identifier>
+      <Id>2002056</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_056_stmp_impact</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_fst_wlk_gls</Name>
-      <Identifier>2002085</Identifier>
+      <Id>2002085</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_085_fst_wlk_gls</SynthReference>
       <UserComment>Mario Tainaka @2021 Footstep Sound Glass. Add 3 additional slots just like STH 2006</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_fst_run_gls</Name>
-      <Identifier>2002086</Identifier>
+      <Id>2002086</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_086_fst_run_gls</SynthReference>
       <UserComment>Mario Tainaka @2021 Footstep Sound Glass. Add 3 additional slots just like STH 2006</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_fst_brk_gls</Name>
-      <Identifier>2002087</Identifier>
+      <Id>2002087</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_087_fst_brk_gls</SynthReference>
       <UserComment>Mario Tainaka @2021 Brake Sound Glass</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_fst_lnd_gls</Name>
-      <Identifier>2002088</Identifier>
+      <Id>2002088</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_088_fst_lnd_gls</SynthReference>
       <UserComment>Mario Tainaka @2021 Land Sound Glass. Don't copy this one captain obvious. There's only one wood landing sound in STH 2006 which is barley used, but hey here it is</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_090_bounce_attack</Name>
-      <Identifier>80041022</Identifier>
+      <Id>80041022</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_090_bounce_attack</SynthReference>
       <UserComment>Mario Tainaka @2021 STH 2006 bounce braclet impact sound. in-game this replaces the stomp LOL. Contact your local brianuu</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_091_kick_attack</Name>
-      <Identifier>80041021</Identifier>
+      <Id>80041021</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_091_kick_attack</SynthReference>
       <UserComment>Mario Tainaka @2021 STH 2006 Sweep Kick Attack. Delay sound with 100 miliseconds on node.</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_093_spindash_shoot</Name>
-      <Identifier>80041024</Identifier>
+      <Id>80041024</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_093_spindash_shoot</SynthReference>
       <UserComment>Mario Tainaka @2021 STH 2006 Spindash Release Sound.</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_094_homing_charge</Name>
-      <Identifier>80041025</Identifier>
+      <Id>80041025</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_094_homing_charge</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_095_homing_shoot</Name>
-      <Identifier>80041026</Identifier>
+      <Id>80041026</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_095_homing_shoot</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_096_tornado_move</Name>
-      <Identifier>80041027</Identifier>
+      <Id>80041027</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_096_tornado_move</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_097_change</Name>
-      <Identifier>80041028</Identifier>
+      <Id>80041028</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_097_change</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_098_mini</Name>
-      <Identifier>80041029</Identifier>
+      <Id>80041029</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_098_mini</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_099_gundive_charge</Name>
-      <Identifier>80041030</Identifier>
+      <Id>80041030</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_099_gundive_charge</SynthReference>
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_100_gundive_throw</Name>
-      <Identifier>80041031</Identifier>
+      <Id>80041031</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_100_gundive_throw</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_101_gundive_move</Name>
-      <Identifier>80041032</Identifier>
+      <Id>80041032</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_101_gundive_move</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_102_guard</Name>
-      <Identifier>80041033</Identifier>
+      <Id>80041033</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_102_guard</SynthReference>
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_104_gravity</Name>
-      <Identifier>80041035</Identifier>
+      <Id>80041035</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_104_gravity</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
