@@ -4,35 +4,35 @@
   <CueNodes>
     <BuilderCueNode>
       <Name>Speed_Highway_Generic1</Name>
-      <Identifier>70</Identifier>
+      <Id>70</Id>
       <SynthReference>Synth/hub_a</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>Speed_Highway_Generic2</Name>
-      <Identifier>71</Identifier>
+      <Id>71</Id>
       <SynthReference>Synth/hub_b</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>Speed_Highway_Generic3</Name>
-      <Identifier>72</Identifier>
+      <Id>72</Id>
       <SynthReference>Synth/hub_c</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>City_Escape_Generic1</Name>
-      <Identifier>73</Identifier>
+      <Id>73</Id>
       <SynthReference>Synth/hub_d</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>City_Escape_Generic2</Name>
-      <Identifier>74</Identifier>
+      <Id>74</Id>
       <SynthReference>Synth/hub_dummy</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>

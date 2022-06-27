@@ -4,28 +4,28 @@
   <CueNodes>
     <BuilderCueNode>
       <Name>hub_a</Name>
-      <Identifier>70</Identifier>
+      <Id>70</Id>
       <SynthReference>Synth/hub_a</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>hub_b</Name>
-      <Identifier>71</Identifier>
+      <Id>71</Id>
       <SynthReference>Synth/hub_b</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>hub_c</Name>
-      <Identifier>72</Identifier>
+      <Id>72</Id>
       <SynthReference>Synth/hub_c</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>hub_d</Name>
-      <Identifier>73</Identifier>
+      <Id>73</Id>
       <SynthReference>Synth/hub_d</SynthReference>
       <UserComment />
       <Flags>0</Flags>
