@@ -4,98 +4,98 @@
   <CueNodes>
     <BuilderCueNode>
       <Name>searchlight</Name>
-      <Identifier>3000</Identifier>
+      <Id>3000</Id>
       <SynthReference>SFX/searchlight</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>searchlight_break</Name>
-      <Identifier>3001</Identifier>
+      <Id>3001</Id>
       <SynthReference>SFX/searchlight_break</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>bigsnowball</Name>
-      <Identifier>3002</Identifier>
+      <Id>3002</Id>
       <SynthReference>SFX/bigsnowball</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>snowball</Name>
-      <Identifier>3003</Identifier>
+      <Id>3003</Id>
       <SynthReference>SFX/snowball</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>tower_break</Name>
-      <Identifier>3004</Identifier>
+      <Id>3004</Id>
       <SynthReference>SFX/tower_break</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>door_open</Name>
-      <Identifier>3005</Identifier>
+      <Id>3005</Id>
       <SynthReference>SFX/door_open</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>door_close</Name>
-      <Identifier>3006</Identifier>
+      <Id>3006</Id>
       <SynthReference>SFX/door_close</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>icewall</Name>
-      <Identifier>3007</Identifier>
+      <Id>3007</Id>
       <SynthReference>SFX/icewall</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>snowstorm</Name>
-      <Identifier>3008</Identifier>
+      <Id>3008</Id>
       <SynthReference>SFX/snowstorm</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>wind</Name>
-      <Identifier>3009</Identifier>
+      <Id>3009</Id>
       <SynthReference>SFX/wind</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>snowdrop</Name>
-      <Identifier>3010</Identifier>
+      <Id>3010</Id>
       <SynthReference>SFX/snowdrop</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>4502_air01</Name>
-      <Identifier>3011</Identifier>
+      <Id>3011</Id>
       <SynthReference>SFX/4502_001_air01</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>cmn_bombbox</Name>
-      <Identifier>3012</Identifier>
+      <Id>3012</Id>
       <SynthReference>SFX/cmn_bombbox</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>4012_attack</Name>
-      <Identifier>4012005</Identifier>
+      <Id>4012005</Id>
       <SynthReference>SFX/bigsnowball</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>

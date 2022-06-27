@@ -4,84 +4,84 @@
   <CueNodes>
     <BuilderCueNode>
       <Name>5552_breath_chg</Name>
-      <Identifier>5552000</Identifier>
+      <Id>5552000</Id>
       <SynthReference>Synth/5500000_boss/5552000_BOS_BPC_GE/5552_000_breath_chg</SynthReference>
       <UserComment />
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>5552_breath_shot</Name>
-      <Identifier>5552001</Identifier>
+      <Id>5552001</Id>
       <SynthReference>Synth/5500000_boss/5552000_BOS_BPC_GE/5552_001_breath_shot</SynthReference>
       <UserComment>Mario Tainaka @2021 uses STH 2006 Iblis dark laser beam sound</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>5552_beam_shot</Name>
-      <Identifier>5552002</Identifier>
+      <Id>5552002</Id>
       <SynthReference>Synth/5500000_boss/5552000_BOS_BPC_GE/5552_002_beam_shot</SynthReference>
       <UserComment>P0100</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>5552_feeler_swish</Name>
-      <Identifier>5552003</Identifier>
+      <Id>5552003</Id>
       <SynthReference>Synth/5500000_boss/5552000_BOS_BPC_GE/5552_003_feeler_swish</SynthReference>
       <UserComment>P0100</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>5552_sonic_dive</Name>
-      <Identifier>5552004</Identifier>
+      <Id>5552004</Id>
       <SynthReference>Synth/5500000_boss/5552000_BOS_BPC_GE/5552_004_sonic_dive</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>5552_sonic_move</Name>
-      <Identifier>5552005</Identifier>
+      <Id>5552005</Id>
       <SynthReference>Synth/5500000_boss/5552000_BOS_BPC_GE/5552_005_sonic_move</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>5552_core_dmg</Name>
-      <Identifier>5552006</Identifier>
+      <Id>5552006</Id>
       <SynthReference>Synth/5500000_boss/5552000_BOS_BPC_GE/5552_006_core_dmg</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>5552_chaos_dmg</Name>
-      <Identifier>5552007</Identifier>
+      <Id>5552007</Id>
       <SynthReference>Synth/5500000_boss/5552000_BOS_BPC_GE/5552_007_chaos_dmg</SynthReference>
       <UserComment>Mario Tainaka @2021 uses STH 2006 Iblis damage sound. Custom added damage SFX over roar</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>5552_chaos_roar</Name>
-      <Identifier>5552008</Identifier>
+      <Id>5552008</Id>
       <SynthReference>Synth/5500000_boss/5552000_BOS_BPC_GE/5552_008_chaos_roar</SynthReference>
       <UserComment>Mario Tainaka @2021 uses Iblis roar sound</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>5552_chaos_swl</Name>
-      <Identifier>5552009</Identifier>
+      <Id>5552009</Id>
       <SynthReference>Synth/5500000_boss/5552000_BOS_BPC_GE/5552_009_chaos_swl</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>5552_sonic_eject</Name>
-      <Identifier>5552010</Identifier>
+      <Id>5552010</Id>
       <SynthReference>Synth/5500000_boss/5552000_BOS_BPC_GE/5552_010_sonic_eject</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>5552_building_break</Name>
-      <Identifier>5552011</Identifier>
+      <Id>5552011</Id>
       <SynthReference>Synth/5500000_boss/5552000_BOS_BPC_GE/5552_011_building_break</SynthReference>
       <UserComment />
       <Flags>0</Flags>

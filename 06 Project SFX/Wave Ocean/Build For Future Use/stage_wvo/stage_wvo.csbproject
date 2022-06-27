@@ -4,103 +4,103 @@
   <CueNodes>
     <BuilderCueNode>
       <Name>4062_orca_splash</Name>
-      <Identifier>4062021</Identifier>
+      <Id>4062021</Id>
       <SynthReference>SFX/orca_splash</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>mew</Name>
-      <Identifier>1000</Identifier>
+      <Id>1000</Id>
       <SynthReference>SFX/mew</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>wave</Name>
-      <Identifier>1001</Identifier>
+      <Id>1001</Id>
       <SynthReference>SFX/wave</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>spinboard</Name>
-      <Identifier>1002</Identifier>
+      <Id>1002</Id>
       <SynthReference>SFX/spinboard</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>4502_air01</Name>
-      <Identifier>1003</Identifier>
+      <Id>1003</Id>
       <SynthReference>SFX/4502_air01</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>door_open</Name>
-      <Identifier>1004</Identifier>
+      <Id>1004</Id>
       <SynthReference>SFX/door_open</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>door_close</Name>
-      <Identifier>1005</Identifier>
+      <Id>1005</Id>
       <SynthReference>SFX/door_close</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>mew_delay</Name>
-      <Identifier>1006</Identifier>
+      <Id>1006</Id>
       <SynthReference>SFX/mew_delay</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>4062_orca_jump</Name>
-      <Identifier>4062020</Identifier>
+      <Id>4062020</Id>
       <SynthReference>SFX/orca_splash2</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>deck_brake</Name>
-      <Identifier>1008</Identifier>
+      <Id>1008</Id>
       <SynthReference>SFX/deck_brake</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>crag_brake</Name>
-      <Identifier>1009</Identifier>
+      <Id>1009</Id>
       <SynthReference>SFX/crag_brake</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>crag_brake2</Name>
-      <Identifier>10010</Identifier>
+      <Id>10010</Id>
       <SynthReference>SFX/crag_brake2</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>rock_break</Name>
-      <Identifier>10011</Identifier>
+      <Id>10011</Id>
       <SynthReference>SFX/rock_break</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>battleship</Name>
-      <Identifier>10012</Identifier>
+      <Id>10012</Id>
       <SynthReference>SFX/battleship</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>battleship_surround</Name>
-      <Identifier>10013</Identifier>
+      <Id>10013</Id>
       <SynthReference>SFX/battleship_surround</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>4012_step_swing</Name>
-      <Identifier>4012000</Identifier>
+      <Id>4012000</Id>
       <SynthReference>SFX/enemy_wall</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>

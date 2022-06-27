@@ -4,581 +4,581 @@
   <CueNodes>
     <BuilderCueNode>
       <Name>area_a_amb</Name>
-      <Identifier>800</Identifier>
+      <Id>800</Id>
       <SynthReference>SFX/area_a_amb</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>area_b_amb</Name>
-      <Identifier>801</Identifier>
+      <Id>801</Id>
       <SynthReference>SFX/area_b_amb</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>area_c_amb</Name>
-      <Identifier>802</Identifier>
+      <Id>802</Id>
       <SynthReference>SFX/area_c_amb</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>people_noise</Name>
-      <Identifier>803</Identifier>
+      <Id>803</Id>
       <SynthReference>SFX/people_noise</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>area_b_common_amb</Name>
-      <Identifier>804</Identifier>
+      <Id>804</Id>
       <SynthReference>SFX/area_b_common_amb</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>fountain</Name>
-      <Identifier>805</Identifier>
+      <Id>805</Id>
       <SynthReference>SFX/fountain</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>bell</Name>
-      <Identifier>806</Identifier>
+      <Id>806</Id>
       <SynthReference>SFX/bell</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>yami</Name>
-      <Identifier>807</Identifier>
+      <Id>807</Id>
       <SynthReference>SFX/yami</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>twn_accordion</Name>
-      <Identifier>808</Identifier>
+      <Id>808</Id>
       <SynthReference>SFX/twn_accordion</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>warpgate_twn</Name>
-      <Identifier>809</Identifier>
+      <Id>809</Id>
       <SynthReference>SFX/warpgate</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>warpgate_in_twn</Name>
-      <Identifier>810</Identifier>
+      <Id>810</Id>
       <SynthReference>SFX/warpgate_in</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>gondola_stay</Name>
-      <Identifier>811</Identifier>
+      <Id>811</Id>
       <SynthReference>SFX/gondola_stay</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>gondola_go</Name>
-      <Identifier>812</Identifier>
+      <Id>812</Id>
       <SynthReference>SFX/gondola_go</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>gondola_now</Name>
-      <Identifier>813</Identifier>
+      <Id>813</Id>
       <SynthReference>SFX/gondola</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>gondola_comb</Name>
-      <Identifier>814</Identifier>
+      <Id>814</Id>
       <SynthReference>SFX/gondola_comb</SynthReference>
       <UserComment>Combined Both Sounds To Fit Generations Anim.</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>hatsun</Name>
-      <Identifier>815</Identifier>
+      <Id>815</Id>
       <SynthReference>SFX/hatsun</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>boy_normal</Name>
-      <Identifier>845019900</Identifier>
+      <Id>845019900</Id>
       <SynthReference>Town_Voice/00_boy_normal</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>youngman_normal</Name>
-      <Identifier>845019901</Identifier>
+      <Id>845019901</Id>
       <SynthReference>Town_Voice/01_youngman_normal</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>middleman_normal</Name>
-      <Identifier>845019902</Identifier>
+      <Id>845019902</Id>
       <SynthReference>Town_Voice/02_middleman_normal</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>oldman_normal</Name>
-      <Identifier>845019903</Identifier>
+      <Id>845019903</Id>
       <SynthReference>Town_Voice/03_oldman_normal</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>girl_normal</Name>
-      <Identifier>845019904</Identifier>
+      <Id>845019904</Id>
       <SynthReference>Town_Voice/04_girl_normal</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>youngwoman_normal</Name>
-      <Identifier>845019905</Identifier>
+      <Id>845019905</Id>
       <SynthReference>Town_Voice/05_youngwoman_normal</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>middlewoman_normal</Name>
-      <Identifier>845019906</Identifier>
+      <Id>845019906</Id>
       <SynthReference>Town_Voice/06_middlewoman_normal</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>oldwoman_normal</Name>
-      <Identifier>845019907</Identifier>
+      <Id>845019907</Id>
       <SynthReference>Town_Voice/07_oldwoman_normal</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>child_normal</Name>
-      <Identifier>845019908</Identifier>
+      <Id>845019908</Id>
       <SynthReference>Town_Voice/08_child_normal</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>boy_joy</Name>
-      <Identifier>845019909</Identifier>
+      <Id>845019909</Id>
       <SynthReference>Town_Voice/09_boy_joy</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>youngman_joy</Name>
-      <Identifier>845019910</Identifier>
+      <Id>845019910</Id>
       <SynthReference>Town_Voice/10_youngman_joy</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>middleman_joy</Name>
-      <Identifier>845019911</Identifier>
+      <Id>845019911</Id>
       <SynthReference>Town_Voice/11_middleman_joy</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>oldman_joy</Name>
-      <Identifier>845019912</Identifier>
+      <Id>845019912</Id>
       <SynthReference>Town_Voice/12_oldman_joy</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>girl_joy</Name>
-      <Identifier>845019913</Identifier>
+      <Id>845019913</Id>
       <SynthReference>Town_Voice/13_girl_joy</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>youngwoman_joy</Name>
-      <Identifier>845019914</Identifier>
+      <Id>845019914</Id>
       <SynthReference>Town_Voice/14_youngwoman_joy</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>middlewoman_joy</Name>
-      <Identifier>845019915</Identifier>
+      <Id>845019915</Id>
       <SynthReference>Town_Voice/15_middlewoman_joy</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>oldwoman_joy</Name>
-      <Identifier>845019916</Identifier>
+      <Id>845019916</Id>
       <SynthReference>Town_Voice/16_oldwoman_joy</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>child_joy</Name>
-      <Identifier>845019917</Identifier>
+      <Id>845019917</Id>
       <SynthReference>Town_Voice/17_child_joy</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>boy_angry</Name>
-      <Identifier>845019918</Identifier>
+      <Id>845019918</Id>
       <SynthReference>Town_Voice/18_boy_angry</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>youngman_angry</Name>
-      <Identifier>845019919</Identifier>
+      <Id>845019919</Id>
       <SynthReference>Town_Voice/19_youngman_angry</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>middleman_angry</Name>
-      <Identifier>845019920</Identifier>
+      <Id>845019920</Id>
       <SynthReference>Town_Voice/20_middleman_angry</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>oldman_angry</Name>
-      <Identifier>845019921</Identifier>
+      <Id>845019921</Id>
       <SynthReference>Town_Voice/21_oldman_angry</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>girl_angry</Name>
-      <Identifier>845019922</Identifier>
+      <Id>845019922</Id>
       <SynthReference>Town_Voice/22_girl_angry</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>youngwoman_angry</Name>
-      <Identifier>845019923</Identifier>
+      <Id>845019923</Id>
       <SynthReference>Town_Voice/23_youngwoman_angry</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>middlewoman_angry</Name>
-      <Identifier>845019924</Identifier>
+      <Id>845019924</Id>
       <SynthReference>Town_Voice/24_middlewoman_angry</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>oldwoman_angry</Name>
-      <Identifier>845019925</Identifier>
+      <Id>845019925</Id>
       <SynthReference>Town_Voice/25_oldwoman_angry</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>child_angry</Name>
-      <Identifier>845019926</Identifier>
+      <Id>845019926</Id>
       <SynthReference>Town_Voice/26_child_angry</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>boy_sad</Name>
-      <Identifier>845019927</Identifier>
+      <Id>845019927</Id>
       <SynthReference>Town_Voice/27_boy_sad</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>youngman_sad</Name>
-      <Identifier>845019928</Identifier>
+      <Id>845019928</Id>
       <SynthReference>Town_Voice/28_youngman_sad</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>middleman_sad</Name>
-      <Identifier>845019929</Identifier>
+      <Id>845019929</Id>
       <SynthReference>Town_Voice/29_middleman_sad</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>oldman_sad</Name>
-      <Identifier>845019930</Identifier>
+      <Id>845019930</Id>
       <SynthReference>Town_Voice/30_oldman_sad</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>girl_sad</Name>
-      <Identifier>845019931</Identifier>
+      <Id>845019931</Id>
       <SynthReference>Town_Voice/31_girl_sad</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>youngwoman_sad</Name>
-      <Identifier>845019932</Identifier>
+      <Id>845019932</Id>
       <SynthReference>Town_Voice/32_youngwoman_sad</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>middlewoman_sad</Name>
-      <Identifier>845019933</Identifier>
+      <Id>845019933</Id>
       <SynthReference>Town_Voice/33_middlewoman_sad</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>oldwoman_sad</Name>
-      <Identifier>845019934</Identifier>
+      <Id>845019934</Id>
       <SynthReference>Town_Voice/34_oldwoman_sad</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>child_sad</Name>
-      <Identifier>845019935</Identifier>
+      <Id>845019935</Id>
       <SynthReference>Town_Voice/35_child_sad</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>boy_surprize</Name>
-      <Identifier>845019936</Identifier>
+      <Id>845019936</Id>
       <SynthReference>Town_Voice/36_boy_surprize</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>youngman_surprize</Name>
-      <Identifier>845019937</Identifier>
+      <Id>845019937</Id>
       <SynthReference>Town_Voice/37_youngman_surprize</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>middleman_surprize</Name>
-      <Identifier>845019938</Identifier>
+      <Id>845019938</Id>
       <SynthReference>Town_Voice/38_middleman_surprize</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>oldman_surprize</Name>
-      <Identifier>845019939</Identifier>
+      <Id>845019939</Id>
       <SynthReference>Town_Voice/39_oldman_surprize</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>girl_surprize</Name>
-      <Identifier>845019940</Identifier>
+      <Id>845019940</Id>
       <SynthReference>Town_Voice/40_girl_surprize</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>youngwoman_surprize</Name>
-      <Identifier>845019941</Identifier>
+      <Id>845019941</Id>
       <SynthReference>Town_Voice/41_youngwoman_surprize</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>middlewoman_surprize</Name>
-      <Identifier>845019942</Identifier>
+      <Id>845019942</Id>
       <SynthReference>Town_Voice/42_middlewoman_surprize</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>oldwoman_surprize</Name>
-      <Identifier>845019943</Identifier>
+      <Id>845019943</Id>
       <SynthReference>Town_Voice/43_oldwoman_surprize</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>child_surprize</Name>
-      <Identifier>845019944</Identifier>
+      <Id>845019944</Id>
       <SynthReference>Town_Voice/44_child_surprize</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>boy_dodge</Name>
-      <Identifier>845019945</Identifier>
+      <Id>845019945</Id>
       <SynthReference>Town_Voice/45_boy_dodge</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>youngman_dodge</Name>
-      <Identifier>845019946</Identifier>
+      <Id>845019946</Id>
       <SynthReference>Town_Voice/46_youngman_dodge</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>middleman_dodge</Name>
-      <Identifier>845019947</Identifier>
+      <Id>845019947</Id>
       <SynthReference>Town_Voice/47_middleman_dodge</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>oldman_dodge</Name>
-      <Identifier>845019948</Identifier>
+      <Id>845019948</Id>
       <SynthReference>Town_Voice/48_oldman_dodge</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>girl_dodge</Name>
-      <Identifier>845019949</Identifier>
+      <Id>845019949</Id>
       <SynthReference>Town_Voice/49_girl_dodge</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>youngwoman_dodge</Name>
-      <Identifier>845019950</Identifier>
+      <Id>845019950</Id>
       <SynthReference>Town_Voice/50_youngwoman_dodge</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>middlewoman_dodge</Name>
-      <Identifier>845019951</Identifier>
+      <Id>845019951</Id>
       <SynthReference>Town_Voice/51_middlewoman_dodge</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>oldwoman_dodge</Name>
-      <Identifier>845019952</Identifier>
+      <Id>845019952</Id>
       <SynthReference>Town_Voice/52_oldwoman_dodge</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>child_dodge</Name>
-      <Identifier>845019953</Identifier>
+      <Id>845019953</Id>
       <SynthReference>Town_Voice/53_child_dodge</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>boy_call</Name>
-      <Identifier>845019954</Identifier>
+      <Id>845019954</Id>
       <SynthReference>Town_Voice/54_boy_call</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>youngwoman_call</Name>
-      <Identifier>845019955</Identifier>
+      <Id>845019955</Id>
       <SynthReference>Town_Voice/55_youngwoman_call</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>youngwoman_call</Name>
-      <Identifier>845019959</Identifier>
+      <Id>845019959</Id>
       <SynthReference>Town_Voice/59_youngwoman_call</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>middleman_call</Name>
-      <Identifier>845019956</Identifier>
+      <Id>845019956</Id>
       <SynthReference>Town_Voice/56_middleman_call</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>oldman_call</Name>
-      <Identifier>845019957</Identifier>
+      <Id>845019957</Id>
       <SynthReference>Town_Voice/57_oldman_call</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>girl_call</Name>
-      <Identifier>845019958</Identifier>
+      <Id>845019958</Id>
       <SynthReference>Town_Voice/58_girl_call</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>middlewoman_call</Name>
-      <Identifier>845019960</Identifier>
+      <Id>845019960</Id>
       <SynthReference>Town_Voice/60_middlewoman_call</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>oldwoman_call</Name>
-      <Identifier>845019961</Identifier>
+      <Id>845019961</Id>
       <SynthReference>Town_Voice/61_oldwoman_call</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>child_call</Name>
-      <Identifier>845019962</Identifier>
+      <Id>845019962</Id>
       <SynthReference>Town_Voice/62_child_call</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>gondola_whistle</Name>
-      <Identifier>845019963</Identifier>
+      <Id>845019963</Id>
       <SynthReference>Town_Voice/63_gondola_whistle</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>gondola_hum</Name>
-      <Identifier>845019964</Identifier>
+      <Id>845019964</Id>
       <SynthReference>Town_Voice/64_gondola_hum</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>dog_walk</Name>
-      <Identifier>845019965</Identifier>
+      <Id>845019965</Id>
       <SynthReference>Town_Voice/65_dog_walk</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>dog_bark</Name>
-      <Identifier>845019966</Identifier>
+      <Id>845019966</Id>
       <SynthReference>Town_Voice/66_dog_bark</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>pigeon_wait</Name>
-      <Identifier>845019967</Identifier>
+      <Id>845019967</Id>
       <SynthReference>Town_Voice/67_pigeon_wait</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>pigeon_flap</Name>
-      <Identifier>845019968</Identifier>
+      <Id>845019968</Id>
       <SynthReference>Town_Voice/68_pigeon_flap</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>dummy</Name>
-      <Identifier>845019969</Identifier>
+      <Id>845019969</Id>
       <SynthReference>Town_Voice/69_dummy</SynthReference>
       <UserComment>Sonic Team made duplicates of this sound everywhere. Probably for spots where NPC's don't say anything. Why not just not play a sound then? Got rid of all duplicates.</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>child_cry</Name>
-      <Identifier>845019977</Identifier>
+      <Id>845019977</Id>
       <SynthReference>Town_Voice/77_child_cry</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>clap</Name>
-      <Identifier>845019978</Identifier>
+      <Id>845019978</Id>
       <SynthReference>Town_Voice/78_clap</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>townsman_chat_1</Name>
-      <Identifier>845019979</Identifier>
+      <Id>845019979</Id>
       <SynthReference>Town_Voice/79_townsman_chat_1</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>townsman_chat_2</Name>
-      <Identifier>845019980</Identifier>
+      <Id>845019980</Id>
       <SynthReference>Town_Voice/80_townsman_chat_2</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>thief_damage</Name>
-      <Identifier>845019981</Identifier>
+      <Id>845019981</Id>
       <SynthReference>Town_Voice/81_thief_damage</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sonicman_01</Name>
-      <Identifier>845019982</Identifier>
+      <Id>845019982</Id>
       <SynthReference>Town_Voice/82_sonicman_01</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sonicman_02</Name>
-      <Identifier>845019983</Identifier>
+      <Id>845019983</Id>
       <SynthReference>Town_Voice/83_sonicman_02</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sonicman_03</Name>
-      <Identifier>845019984</Identifier>
+      <Id>845019984</Id>
       <SynthReference>Town_Voice/84_sonicman_03</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>

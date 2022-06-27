@@ -4,187 +4,187 @@
   <CueNodes>
     <BuilderCueNode>
       <Name>8002_prop_unit</Name>
-      <Identifier>8002000</Identifier>
+      <Id>8002000</Id>
       <SynthReference>Synth/8000000_mission/8002000_MIS_CMN_GE/8002_000_prop_unit</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>8002_time_get</Name>
-      <Identifier>8002002</Identifier>
+      <Id>8002002</Id>
       <SynthReference>Synth/8000000_mission/8001000_MIS_CMN_CL/8001_002_time_get</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>8002_step_roll</Name>
-      <Identifier>8002003</Identifier>
+      <Id>8002003</Id>
       <SynthReference>Synth/8000000_mission/8002000_MIS_CMN_GE/8002_003_step_roll</SynthReference>
       <UserComment />
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>8002_wzone_out</Name>
-      <Identifier>8002008</Identifier>
+      <Id>8002008</Id>
       <SynthReference>Synth/8000000_mission/8002000_MIS_CMN_GE/8002_008_wzone_out</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>8002_wzone_in</Name>
-      <Identifier>8002009</Identifier>
+      <Id>8002009</Id>
       <SynthReference>Synth/8000000_mission/8002000_MIS_CMN_GE/8002_009_wzone_in</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>8002_spkr_launch1</Name>
-      <Identifier>8002010</Identifier>
+      <Id>8002010</Id>
       <SynthReference>Synth/8000000_mission/8002000_MIS_CMN_GE/8002_010_spkr_launch1</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>8002_spkr_launch2</Name>
-      <Identifier>8002011</Identifier>
+      <Id>8002011</Id>
       <SynthReference>Synth/8000000_mission/8002000_MIS_CMN_GE/8002_011_spkr_launch2</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>8002_laser_fv</Name>
-      <Identifier>8002012</Identifier>
+      <Id>8002012</Id>
       <SynthReference>Synth/8000000_mission/8002000_MIS_CMN_GE/8002_012_laser_fv</SynthReference>
       <UserComment />
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>8002_laser_sv</Name>
-      <Identifier>8002013</Identifier>
+      <Id>8002013</Id>
       <SynthReference>Synth/8000000_mission/8002000_MIS_CMN_GE/8002_013_laser_sv</SynthReference>
       <UserComment />
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>8002_flicky</Name>
-      <Identifier>8002015</Identifier>
+      <Id>8002015</Id>
       <SynthReference>Synth/8000000_mission/8002000_MIS_CMN_GE/8002_015_flicky</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>8002_rstep_rotate</Name>
-      <Identifier>8002007</Identifier>
+      <Id>8002007</Id>
       <SynthReference>Synth/8000000_mission/8001000_MIS_CMN_CL/8001_007_rstep_rotate</SynthReference>
       <UserComment />
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>8002_spkr_fly</Name>
-      <Identifier>8002016</Identifier>
+      <Id>8002016</Id>
       <SynthReference>Synth/8000000_mission/8002000_MIS_CMN_GE/8002_016_spkr_fly</SynthReference>
       <UserComment />
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>8002_npc_vanish</Name>
-      <Identifier>8002030</Identifier>
+      <Id>8002030</Id>
       <SynthReference>Synth/8000000_mission/8002000_MIS_CMN_GE/8002_019_npc_vanish</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>8003_passring_pass</Name>
-      <Identifier>8002040</Identifier>
+      <Id>8002040</Id>
       <SynthReference>Synth/8000000_mission/8003000_MIS_CMN_STH_2006/8003_030_passring_pass</SynthReference>
       <UserComment>STH 2006 Town Mission Ring passthrough SFX. Only used during town missions</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>8003_passring_appear</Name>
-      <Identifier>8002041</Identifier>
+      <Id>8002041</Id>
       <SynthReference>Synth/8000000_mission/8003000_MIS_CMN_STH_2006/8003_029_passring_appear</SynthReference>
       <UserComment>STH 2006 Town Mission Ring appear SFX. Only used during town missions</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>8003_car_noise</Name>
-      <Identifier>8002042</Identifier>
+      <Id>8002042</Id>
       <SynthReference>Synth/8000000_mission/8003000_MIS_CMN_STH_2006/8003_004_car_noise</SynthReference>
       <UserComment>STH2006 Car Ambient Noise used during missions</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>8003_car_normal_axel</Name>
-      <Identifier>8002043</Identifier>
+      <Id>8002043</Id>
       <SynthReference>Synth/8000000_mission/8003000_MIS_CMN_STH_2006/8003_010_car_normal_axel</SynthReference>
       <UserComment>STH2006 Car normal acceleration speed sound. You can use the speedhighway csb. This is just here just in case</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>8003_car_big_axel</Name>
-      <Identifier>8002044</Identifier>
+      <Id>8002044</Id>
       <SynthReference>Synth/8000000_mission/8003000_MIS_CMN_STH_2006/8003_012_car_big_axel</SynthReference>
       <UserComment>STH2006 Car fast acceleration speed sound. You can use the speedhighway csb. This is just here just in case</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>8003_car_normal_horn</Name>
-      <Identifier>8002045</Identifier>
+      <Id>8002045</Id>
       <SynthReference>Synth/8000000_mission/8003000_MIS_CMN_STH_2006/8003_014_car_normal_horn</SynthReference>
       <UserComment>STH2006 Car short horn honk sound. You can use the speedhighway csb. This is just here just in case</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>8003_car_big_horn</Name>
-      <Identifier>8002046</Identifier>
+      <Id>8002046</Id>
       <SynthReference>Synth/8000000_mission/8003000_MIS_CMN_STH_2006/8003_015_car_big_horn</SynthReference>
       <UserComment>STH2006 Car long horn honk sound. You can use the speedhighway csb. This is just here just in case</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>8003_car_normal_brake</Name>
-      <Identifier>8002047</Identifier>
+      <Id>8002047</Id>
       <SynthReference>Synth/8000000_mission/8003000_MIS_CMN_STH_2006/8003_011_car_normal_brake</SynthReference>
       <UserComment>STH2006 Car normal brake sound. You can use the speedhighway csb. This is just here just in case</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>8003_car_big_brake</Name>
-      <Identifier>8002048</Identifier>
+      <Id>8002048</Id>
       <SynthReference>Synth/8000000_mission/8003000_MIS_CMN_STH_2006/8003_013_car_big_brake</SynthReference>
       <UserComment>STH2006 Car screech brake sound. You can use the speedhighway csb. This is just here just in case</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>8003_item_appear</Name>
-      <Identifier>8002049</Identifier>
+      <Id>8002049</Id>
       <SynthReference>Synth/8000000_mission/8003000_MIS_CMN_STH_2006/8003_033_item_appear</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>8003_item_get</Name>
-      <Identifier>8002050</Identifier>
+      <Id>8002050</Id>
       <SynthReference>Synth/8000000_mission/8003000_MIS_CMN_STH_2006/8003_034_item_get</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>objsn_sea_guillotinedamage</Name>
-      <Identifier>8002051</Identifier>
+      <Id>8002051</Id>
       <SynthReference>Synth/8000000_mission/8003000_MIS_CMN_STH_2006/8003_035_bombbox</SynthReference>
       <UserComment>STH2006 Destroyable Bombbox SFX</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>objsn_sea_pierbreak_sign</Name>
-      <Identifier>8002052</Identifier>
+      <Id>8002052</Id>
       <SynthReference>Synth/8000000_mission/8003000_MIS_CMN_STH_2006/8003_036_itembox_open</SynthReference>
       <UserComment>STH2006 Itembox Open SFX</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>objsn_sea_watercolumn</Name>
-      <Identifier>8002053</Identifier>
+      <Id>8002053</Id>
       <SynthReference>Synth/8000000_mission/8003000_MIS_CMN_STH_2006/8003_037_enemy_chaos</SynthReference>
       <UserComment>STH2006 Project Custom Chaos Enemy SFX</UserComment>
       <Flags>0</Flags>
