@@ -30,12 +30,6 @@
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
-    <BuilderCueNode>
-      <Name>Menu</Name>
-      <Id>800004</Id>
-      <SynthReference>Synth/STH2006_Menu</SynthReference>
-      <Flags>0</Flags>
-    </BuilderCueNode>
   </CueNodes>
   <SynthNodes>
     <BuilderSynthNode>
