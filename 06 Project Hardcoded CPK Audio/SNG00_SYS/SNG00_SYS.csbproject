@@ -19,7 +19,7 @@
     <BuilderCueNode>
       <Name>Network</Name>
       <Id>800002</Id>
-      <SynthReference>Synth/STH2006_Network</SynthReference>
+      <SynthReference>Synth/STH2006_Menu</SynthReference>
       <UserComment />
       <Flags>1</Flags>
     </BuilderCueNode>
@@ -28,6 +28,12 @@
       <Id>800003</Id>
       <SynthReference>Synth/STH2006_Theme_Sonic</SynthReference>
       <UserComment />
+      <Flags>0</Flags>
+    </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>Menu</Name>
+      <Id>800004</Id>
+      <SynthReference>Synth/STH2006_Menu</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
   </CueNodes>
@@ -191,10 +197,10 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/STH2006_Network</Name>
+      <Name>Synth/STH2006_Theme_Sonic</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>BGM/STH2006_Network</SoundElementReference>
+      <SoundElementReference>BGM/STH2006_Theme_Sonic</SoundElementReference>
       <Children />
       <Volume>900</Volume>
       <Pitch>0</Pitch>
@@ -270,10 +276,10 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/STH2006_Theme_Sonic</Name>
+      <Name>Synth/STH2006_Menu</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>BGM/STH2006_Theme_Sonic</SoundElementReference>
+      <SoundElementReference>BGM/STH2006_Menu</SoundElementReference>
       <Children />
       <Volume>900</Volume>
       <Pitch>0</Pitch>
@@ -369,15 +375,6 @@
       <SampleCount>2072576</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>BGM/STH2006_Network</Name>
-      <Intro />
-      <Loop>menu.adx</Loop>
-      <ChannelCount>2</ChannelCount>
-      <Streaming>true</Streaming>
-      <SampleRate>48000</SampleRate>
-      <SampleCount>2067968</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
       <Name>BGM/STH2006_Theme_Sonic</Name>
       <Intro>theme_sonic.adx</Intro>
       <Loop />
@@ -385,6 +382,15 @@
       <Streaming>true</Streaming>
       <SampleRate>48000</SampleRate>
       <SampleCount>26586818</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>BGM/STH2006_Menu</Name>
+      <Intro />
+      <Loop>menu.adx</Loop>
+      <ChannelCount>2</ChannelCount>
+      <Streaming>true</Streaming>
+      <SampleRate>48000</SampleRate>
+      <SampleCount>2067968</SampleCount>
     </BuilderSoundElementNode>
   </SoundElementNodes>
   <AisacNodes />
