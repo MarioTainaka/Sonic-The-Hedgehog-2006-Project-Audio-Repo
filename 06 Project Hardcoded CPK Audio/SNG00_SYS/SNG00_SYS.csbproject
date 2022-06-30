@@ -12,7 +12,7 @@
     <BuilderCueNode>
       <Name>Option</Name>
       <Id>800001</Id>
-      <SynthReference>Synth/STH2006_Options</SynthReference>
+      <SynthReference>Synth/STH2006_Select</SynthReference>
       <UserComment />
       <Flags>1</Flags>
     </BuilderCueNode>
@@ -118,10 +118,10 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/STH2006_Options</Name>
+      <Name>Synth/STH2006_Select</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>BGM/STH2006_Options</SoundElementReference>
+      <SoundElementReference>BGM/STH2006_Select</SoundElementReference>
       <Children />
       <Volume>900</Volume>
       <Pitch>0</Pitch>
@@ -366,7 +366,7 @@
       <SampleCount>11650560</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>BGM/STH2006_Options</Name>
+      <Name>BGM/STH2006_Select</Name>
       <Intro />
       <Loop>select.adx</Loop>
       <ChannelCount>2</ChannelCount>
