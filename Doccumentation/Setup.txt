@@ -29,4 +29,7 @@ Sonic The Hedgehog BGM: This folder contains all background music used in the ga
 
 06 Project Hardcoded CPK Audio: This folder contains brand new CPKS which help with redirecting hard coded CPK Audio to prevent infinite loading. A CSB Project can be built with these files.
 
+Sonic 06 Defenitive Expereince: This folder contains all csb project files for the Sonic The Hedgehog Defenitive Experience Mod by Brianuu. This mod aims to re-create 06 (gems included) Check The Seperate doccument detailing what the folders do.
+
+
 Doccumentation: Contains guidlines and tools used along with descriptions.

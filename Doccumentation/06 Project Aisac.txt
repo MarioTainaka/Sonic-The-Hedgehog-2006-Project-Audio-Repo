@@ -13,7 +13,7 @@ All Aisacs used for Sound Effects In The Project
 
 Audio Panning Cancel: Only to be used with tracks that won't be streamed but need to be used. This Aisac cnacels 3D Audio by using some special settings that disable the curve
 
-Brianuu SFX Hacks: Used for 06 sounds that use Unleashed Cuenames\CSBS, I honestly don't know why we're still doing this. I want these gone ASAP.
+Brianuu SFX Hacks: Used for 06 BGM that don't use streaming CSBS like the HUB World, These Aisacs disable audio panning with the help of some custom prams from Sonic Unleashed CSBS
 
 Dummy: Is a dummy Aisac with no panning, but still creates some 3D Audio space between the camera and sonic if Sonic is out of the camera's view I.e a big zoom out.
 

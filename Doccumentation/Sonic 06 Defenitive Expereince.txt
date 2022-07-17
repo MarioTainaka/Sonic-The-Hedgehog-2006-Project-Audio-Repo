@@ -1,13 +1,15 @@
-Grind/Slide SFX Fix: This fixes the pich of the grind SFX when going at top speed and ports the Sonic 06 slide SFX which does NOT loop.
+06 Moveset Gameplay Sounds: Ports 06 spindash sound to 2002_stomping with release preset, as well as the kick attack sound and spindash shoot sound
 
+06 Moveset UI Sounds: Ports 06 UI related sounds to Sonic Generations using the original CSB and format, managed through code
+
+Chaos Drive: Ports the Chaos Drive\ Lightcore SFX you get after defeating enemies to Generations using the orignal csb and format, managed via code.
 
 Common Objects: This replaces the iteim and rainbowring and Jumpboard SFX back to the 06 default.
 
+Grind/Slide SFX Fix: This fixes the pich of the grind SFX when going at top speed and ports the Sonic 06 slide SFX which does NOT loop.
 
 Project Files(English) (OLD): Old project files for the Elise Voice Mod DO NOT USE
 
 Project Files(Japanese) (OLD): Old project files for the Elise Voice Mod DO NOT USE
-
-06 Moveset Gameplay Sounds: Ports 06 spindash sound to 2002_stomping with release preset, as well as the kick attack sound and spindash shoot sound
 
 Sonic 06 Defenitive Edition Voice Mod: Ports Sonic 06 Voice To The Generations format Via Custom Code.

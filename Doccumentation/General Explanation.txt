@@ -10,4 +10,4 @@ Project Files(Japanese) (OLD): Old project files for the Elise Voice Mod DO NOT 
 
 06 Moveset Gameplay Sounds: Ports 06 spindash sound to 2002_stomping with release preset, as well as the kick attack sound and spindash shoot sound
 
-Sonic 06 Defenitive Edition Voice Mod: Ports Sonic 06 Voice To The Generations format Via Custom Code.
+Sonic 06 Defenitive Edition Voice Mod: Ports Sonic 06 Voice To The Generations format Via Custom Code. Check the doccument for further explanation.
