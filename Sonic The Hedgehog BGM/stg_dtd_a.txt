@@ -1,0 +1,11 @@
+metadata for mcinput\stg_dtd_a.xma
+sample rate: 48000 Hz
+channels: 2
+loop start: 494976 samples (0:10.312 seconds)
+loop end: 10404608 samples (3:36.763 seconds)
+stream total samples: 10405091 (3:36.773 seconds)
+encoding: Xbox Media Audio 2
+layout: flat
+metadata from: Microsoft XMA RIFF header
+bitrate: 309 kbps
+play duration: 20794240 samples (7:13.213 seconds)

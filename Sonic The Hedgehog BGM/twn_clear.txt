@@ -1,0 +1,9 @@
+metadata for mcinput\twn_clear.xma
+sample rate: 48000 Hz
+channels: 2
+stream total samples: 355955 (0:07.416 seconds)
+encoding: Xbox Media Audio 2
+layout: flat
+metadata from: Microsoft XMA RIFF header
+bitrate: 247 kbps
+play duration: 355955 samples (0:07.416 seconds)

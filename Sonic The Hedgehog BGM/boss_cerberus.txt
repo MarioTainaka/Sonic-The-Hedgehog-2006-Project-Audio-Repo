@@ -1,0 +1,11 @@
+metadata for mcinput\boss_cerberus.xma
+sample rate: 48000 Hz
+channels: 2
+loop start: 987392 samples (0:20.571 seconds)
+loop end: 7570304 samples (2:37.715 seconds)
+stream total samples: 7581057 (2:37.939 seconds)
+encoding: Xbox Media Audio 2
+layout: flat
+metadata from: Microsoft XMA RIFF header
+bitrate: 284 kbps
+play duration: 14633216 samples (5:04.859 seconds)

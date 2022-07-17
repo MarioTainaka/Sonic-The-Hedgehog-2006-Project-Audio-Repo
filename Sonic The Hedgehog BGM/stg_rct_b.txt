@@ -1,0 +1,11 @@
+metadata for mcinput\stg_rct_b.xma
+sample rate: 48000 Hz
+channels: 2
+loop start: 1087616 samples (0:22.659 seconds)
+loop end: 7863552 samples (2:43.824 seconds)
+stream total samples: 7864035 (2:43.834 seconds)
+encoding: Xbox Media Audio 2
+layout: flat
+metadata from: Microsoft XMA RIFF header
+bitrate: 338 kbps
+play duration: 15119488 samples (5:14.989 seconds)

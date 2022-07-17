@@ -1,0 +1,11 @@
+metadata for mcinput\boss_iblis.xma
+sample rate: 48000 Hz
+channels: 2
+loop start: 443136 samples (0:09.232 seconds)
+loop end: 8197376 samples (2:50.779 seconds)
+stream total samples: 8204545 (2:50.928 seconds)
+encoding: Xbox Media Audio 2
+layout: flat
+metadata from: Microsoft XMA RIFF header
+bitrate: 281 kbps
+play duration: 16431616 samples (5:42.325 seconds)

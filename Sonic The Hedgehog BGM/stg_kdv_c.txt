@@ -1,0 +1,11 @@
+metadata for mcinput\stg_kdv_c.xma
+sample rate: 48000 Hz
+channels: 2
+loop start: 8448 samples (0:00.176 seconds)
+loop end: 5836288 samples (2:01.589 seconds)
+stream total samples: 5836342 (2:01.590 seconds)
+encoding: Xbox Media Audio 2
+layout: flat
+metadata from: Microsoft XMA RIFF header
+bitrate: 271 kbps
+play duration: 12144128 samples (4:13.003 seconds)

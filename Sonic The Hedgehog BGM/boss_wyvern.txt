@@ -1,0 +1,11 @@
+metadata for mcinput\boss_wyvern.xma
+sample rate: 48000 Hz
+channels: 2
+loop start: 684416 samples (0:14.259 seconds)
+loop end: 9223680 samples (3:12.160 seconds)
+stream total samples: 9242113 (3:12.544 seconds)
+encoding: Xbox Media Audio 2
+layout: flat
+metadata from: Microsoft XMA RIFF header
+bitrate: 293 kbps
+play duration: 18242944 samples (6:20.061 seconds)

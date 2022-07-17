@@ -1,0 +1,11 @@
+metadata for mcinput\twn_mission_comical.xma
+sample rate: 48000 Hz
+channels: 2
+loop start: 26240 samples (0:00.547 seconds)
+loop end: 2260352 samples (0:47.091 seconds)
+stream total samples: 2260835 (0:47.101 seconds)
+encoding: Xbox Media Audio 2
+layout: flat
+metadata from: Microsoft XMA RIFF header
+bitrate: 189 kbps
+play duration: 4974464 samples (1:43.635 seconds)

@@ -1,0 +1,11 @@
+metadata for mcinput\stg_flc_a.xma
+sample rate: 48000 Hz
+channels: 2
+loop start: 809216 samples (0:16.859 seconds)
+loop end: 8729216 samples (3:01.859 seconds)
+stream total samples: 8729699 (3:01.869 seconds)
+encoding: Xbox Media Audio 2
+layout: flat
+metadata from: Microsoft XMA RIFF header
+bitrate: 291 kbps
+play duration: 17129216 samples (5:56.859 seconds)

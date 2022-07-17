@@ -1,0 +1,11 @@
+metadata for mcinput\stg_csc_a.xma
+sample rate: 48000 Hz
+channels: 2
+loop start: 142208 samples (0:02.963 seconds)
+loop end: 4693248 samples (1:37.776 seconds)
+stream total samples: 4693731 (1:37.786 seconds)
+encoding: Xbox Media Audio 2
+layout: flat
+metadata from: Microsoft XMA RIFF header
+bitrate: 299 kbps
+play duration: 9724288 samples (3:22.589 seconds)

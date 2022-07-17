@@ -1,0 +1,11 @@
+metadata for mcinput\extra.xma
+sample rate: 48000 Hz
+channels: 2
+loop start: 194304 samples (0:04.048 seconds)
+loop end: 3925120 samples (1:21.773 seconds)
+stream total samples: 3925132 (1:21.774 seconds)
+encoding: Xbox Media Audio 2
+layout: flat
+metadata from: Microsoft XMA RIFF header
+bitrate: 347 kbps
+play duration: 8135936 samples (2:49.499 seconds)

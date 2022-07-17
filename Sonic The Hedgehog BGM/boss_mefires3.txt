@@ -1,0 +1,11 @@
+metadata for mcinput\boss_mefires3.xma
+sample rate: 48000 Hz
+channels: 2
+loop start: 2761600 samples (0:57.533 seconds)
+loop end: 10910080 samples (3:47.293 seconds)
+stream total samples: 10918145 (3:47.461 seconds)
+encoding: Xbox Media Audio 2
+layout: flat
+metadata from: Microsoft XMA RIFF header
+bitrate: 328 kbps
+play duration: 19538560 samples (6:47.053 seconds)

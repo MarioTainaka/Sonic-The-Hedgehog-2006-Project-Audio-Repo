@@ -1,0 +1,9 @@
+metadata for mcinput\speed_up.xma
+sample rate: 48000 Hz
+channels: 2
+stream total samples: 1035506 (0:21.573 seconds)
+encoding: Xbox Media Audio 2
+layout: flat
+metadata from: Microsoft XMA RIFF header
+bitrate: 271 kbps
+play duration: 1035506 samples (0:21.573 seconds)

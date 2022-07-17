@@ -1,0 +1,11 @@
+metadata for mcinput\twn_mission_fast.xma
+sample rate: 48000 Hz
+channels: 2
+loop start: 78592 samples (0:01.637 seconds)
+loop end: 2318592 samples (0:48.304 seconds)
+stream total samples: 2319075 (0:48.314 seconds)
+encoding: Xbox Media Audio 2
+layout: flat
+metadata from: Microsoft XMA RIFF header
+bitrate: 293 kbps
+play duration: 5038592 samples (1:44.971 seconds)

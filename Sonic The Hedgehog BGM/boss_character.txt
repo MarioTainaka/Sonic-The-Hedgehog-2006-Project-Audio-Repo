@@ -1,0 +1,11 @@
+metadata for mcinput\boss_character.xma
+sample rate: 48000 Hz
+channels: 2
+loop start: 558720 samples (0:11.640 seconds)
+loop end: 9076736 samples (3:09.099 seconds)
+stream total samples: 9088641 (3:09.347 seconds)
+encoding: Xbox Media Audio 2
+layout: flat
+metadata from: Microsoft XMA RIFF header
+bitrate: 305 kbps
+play duration: 18074752 samples (6:16.557 seconds)

@@ -1,0 +1,9 @@
+metadata for mcinput\theme_silver.xma
+sample rate: 48000 Hz
+channels: 2
+stream total samples: 15222199 (5:17.129 seconds)
+encoding: Xbox Media Audio 2
+layout: flat
+metadata from: Microsoft XMA RIFF header
+bitrate: 305 kbps
+play duration: 15222199 samples (5:17.129 seconds)

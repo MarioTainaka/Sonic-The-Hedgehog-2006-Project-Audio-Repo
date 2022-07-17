@@ -1,0 +1,9 @@
+metadata for mcinput\theme_shadow.xma
+sample rate: 48000 Hz
+channels: 2
+stream total samples: 11503059 (3:59.647 seconds)
+encoding: Xbox Media Audio 2
+layout: flat
+metadata from: Microsoft XMA RIFF header
+bitrate: 270 kbps
+play duration: 11503059 samples (3:59.647 seconds)

@@ -1,0 +1,9 @@
+metadata for mcinput\theme_elise.xma
+sample rate: 48000 Hz
+channels: 2
+stream total samples: 17506517 (6:04.719 seconds)
+encoding: Xbox Media Audio 2
+layout: flat
+metadata from: Microsoft XMA RIFF header
+bitrate: 313 kbps
+play duration: 17506517 samples (6:04.719 seconds)

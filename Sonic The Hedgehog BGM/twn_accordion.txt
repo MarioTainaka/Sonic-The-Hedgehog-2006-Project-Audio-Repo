@@ -1,0 +1,11 @@
+metadata for mcinput\twn_accordion.xma
+sample rate: 48000 Hz
+channels: 2
+loop start: 254336 samples (0:05.299 seconds)
+loop end: 3720704 samples (1:17.515 seconds)
+stream total samples: 3721187 (1:17.525 seconds)
+encoding: Xbox Media Audio 2
+layout: flat
+metadata from: Microsoft XMA RIFF header
+bitrate: 199 kbps
+play duration: 7667072 samples (2:39.731 seconds)

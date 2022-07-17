@@ -1,0 +1,9 @@
+metadata for mcinput\theme_sonic.xma
+sample rate: 48000 Hz
+channels: 2
+stream total samples: 13293409 (4:36.946 seconds)
+encoding: Xbox Media Audio 2
+layout: flat
+metadata from: Microsoft XMA RIFF header
+bitrate: 287 kbps
+play duration: 13293409 samples (4:36.946 seconds)

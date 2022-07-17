@@ -1,0 +1,11 @@
+metadata for mcinput\boss_solaris1.xma
+sample rate: 48000 Hz
+channels: 2
+loop start: 1029504 samples (0:21.448 seconds)
+loop end: 7921664 samples (2:45.035 seconds)
+stream total samples: 7969793 (2:46.037 seconds)
+encoding: Xbox Media Audio 2
+layout: flat
+metadata from: Microsoft XMA RIFF header
+bitrate: 285 kbps
+play duration: 15293824 samples (5:18.621 seconds)
