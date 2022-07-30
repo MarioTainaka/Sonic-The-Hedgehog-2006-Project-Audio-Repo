@@ -11314,7 +11314,7 @@
       <EgAttack>0</EgAttack>
       <EgHold>0</EgHold>
       <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
+      <EgRelease>496</EgRelease>
       <EgSustain>1000</EgSustain>
       <FilterType>0</FilterType>
       <FilterCutoff1>0</FilterCutoff1>
@@ -11323,8 +11323,8 @@
       <FilterReleaseOffset>0</FilterReleaseOffset>
       <DryOName />
       <Mtxrtr />
-      <Dry0>0</Dry0>
-      <Dry1>0</Dry1>
+      <Dry0>181</Dry0>
+      <Dry1>181</Dry1>
       <Dry2>0</Dry2>
       <Dry3>0</Dry3>
       <Dry4>0</Dry4>
@@ -11404,7 +11404,7 @@
       <EgAttack>0</EgAttack>
       <EgHold>0</EgHold>
       <EgDecay>0</EgDecay>
-      <EgRelease>480</EgRelease>
+      <EgRelease>496</EgRelease>
       <EgSustain>1000</EgSustain>
       <FilterType>0</FilterType>
       <FilterCutoff1>0</FilterCutoff1>
@@ -11413,8 +11413,8 @@
       <FilterReleaseOffset>0</FilterReleaseOffset>
       <DryOName />
       <Mtxrtr />
-      <Dry0>0</Dry0>
-      <Dry1>0</Dry1>
+      <Dry0>181</Dry0>
+      <Dry1>181</Dry1>
       <Dry2>0</Dry2>
       <Dry3>0</Dry3>
       <Dry4>0</Dry4>
@@ -16008,15 +16008,15 @@
       <EgAttack>0</EgAttack>
       <EgHold>0</EgHold>
       <EgDecay>0</EgDecay>
-      <EgRelease>0</EgRelease>
+      <EgRelease>496</EgRelease>
       <EgSustain>1000</EgSustain>
       <FilterType>0</FilterType>
       <FilterCutoff1>0</FilterCutoff1>
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
-      <Dry0>0</Dry0>
-      <Dry1>0</Dry1>
+      <Dry0>181</Dry0>
+      <Dry1>181</Dry1>
       <Dry2>0</Dry2>
       <Dry3>0</Dry3>
       <Dry4>0</Dry4>
@@ -16087,15 +16087,15 @@
       <EgAttack>0</EgAttack>
       <EgHold>0</EgHold>
       <EgDecay>0</EgDecay>
-      <EgRelease>480</EgRelease>
+      <EgRelease>496</EgRelease>
       <EgSustain>1000</EgSustain>
       <FilterType>0</FilterType>
       <FilterCutoff1>0</FilterCutoff1>
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
-      <Dry0>0</Dry0>
-      <Dry1>0</Dry1>
+      <Dry0>181</Dry0>
+      <Dry1>181</Dry1>
       <Dry2>0</Dry2>
       <Dry3>0</Dry3>
       <Dry4>0</Dry4>
