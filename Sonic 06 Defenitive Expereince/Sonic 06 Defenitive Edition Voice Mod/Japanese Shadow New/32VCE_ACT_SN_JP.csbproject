@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <CsbProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>32VCE_ACT_SN_EN</Name>
+  <Name>32VCE_ACT_SN_JP</Name>
   <CueNodes>
     <BuilderCueNode>
       <Name>3002_action01</Name>
@@ -220,8 +220,9 @@
       <Type>WithChildren</Type>
       <PlaybackType>RandomNoRepeat</PlaybackType>
       <Children>
-        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_000_action01/all01_v01_sh_en</string>
-        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_000_action01/all01_v01_sh2_en</string>
+        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_000_action01/all01_v01_sd_jp</string>
+        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_000_action01/all01_v01_sd1_jp</string>
+        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_000_action01/all01_v01_sd2_jp</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
       <Volume>1000</Volume>
@@ -309,10 +310,10 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_000_action01/all01_v01_sh_en</Name>
+      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_000_action01/all01_v01_sd_jp</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/3000000_voice/3000000_voice_Add/all01_v01_sh_en</SoundElementReference>
+      <SoundElementReference>Synth/3000000_voice/3000000_voice_Add/all01_v01_sd_jp</SoundElementReference>
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
@@ -388,10 +389,89 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_000_action01/all01_v01_sh2_en</Name>
+      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_000_action01/all01_v01_sd1_jp</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/3000000_voice/3000000_voice_Add/all01_v01_sh2_en</SoundElementReference>
+      <SoundElementReference>Synth/3000000_voice/3000000_voice_Add/all01_v01_sd1_jp</SoundElementReference>
+      <Children />
+      <Volume>1000</Volume>
+      <Pitch>0</Pitch>
+      <DelayTime>0</DelayTime>
+      <SControl>0</SControl>
+      <EgDelay>0</EgDelay>
+      <EgAttack>0</EgAttack>
+      <EgHold>0</EgHold>
+      <EgDecay>0</EgDecay>
+      <EgRelease>0</EgRelease>
+      <EgSustain>1000</EgSustain>
+      <FilterType>0</FilterType>
+      <FilterCutoff1>0</FilterCutoff1>
+      <FilterCutoff2>0</FilterCutoff2>
+      <FilterReso>0</FilterReso>
+      <FilterReleaseOffset>0</FilterReleaseOffset>
+      <Dry0>0</Dry0>
+      <Dry1>0</Dry1>
+      <Dry2>0</Dry2>
+      <Dry3>0</Dry3>
+      <Dry4>0</Dry4>
+      <Dry5>0</Dry5>
+      <Dry6>0</Dry6>
+      <Dry7>0</Dry7>
+      <Wet0>0</Wet0>
+      <Wet1>0</Wet1>
+      <Wet2>0</Wet2>
+      <Wet3>0</Wet3>
+      <Wet4>0</Wet4>
+      <Wet5>0</Wet5>
+      <Wet6>0</Wet6>
+      <Wet7>0</Wet7>
+      <VoiceLimitType>0</VoiceLimitType>
+      <VoiceLimitPriority>0</VoiceLimitPriority>
+      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
+      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
+      <Pan3dVolumeOffset>1000</Pan3dVolumeOffset>
+      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
+      <Pan3dAngleOffset>0</Pan3dAngleOffset>
+      <Pan3dAngleGain>1000</Pan3dAngleGain>
+      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
+      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
+      <Dry0g>255</Dry0g>
+      <Dry1g>255</Dry1g>
+      <Dry2g>255</Dry2g>
+      <Dry3g>255</Dry3g>
+      <Dry4g>255</Dry4g>
+      <Dry5g>255</Dry5g>
+      <Dry6g>255</Dry6g>
+      <Dry7g>255</Dry7g>
+      <Wet0g>255</Wet0g>
+      <Wet1g>255</Wet1g>
+      <Wet2g>255</Wet2g>
+      <Wet3g>255</Wet3g>
+      <Wet4g>255</Wet4g>
+      <Wet5g>255</Wet5g>
+      <Wet6g>255</Wet6g>
+      <Wet7g>255</Wet7g>
+      <Filter1Type>0</Filter1Type>
+      <Filter1CutoffOffset>0</Filter1CutoffOffset>
+      <Filter1CutoffGain>0</Filter1CutoffGain>
+      <Filter1ResoOffset>0</Filter1ResoOffset>
+      <Filter1ResoGain>0</Filter1ResoGain>
+      <Filter2Type>0</Filter2Type>
+      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
+      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
+      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
+      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
+      <PlaybackProbability>100</PlaybackProbability>
+      <NLmtChildren>0</NLmtChildren>
+      <Repeat>0</Repeat>
+      <ComboTime>0</ComboTime>
+      <ComboLoopBack>0</ComboLoopBack>
+    </BuilderSynthNode>
+    <BuilderSynthNode>
+      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_000_action01/all01_v01_sd2_jp</Name>
+      <Type>Single</Type>
+      <PlaybackType>Normal</PlaybackType>
+      <SoundElementReference>Synth/3000000_voice/3000000_voice_Add/all01_v01_sd2_jp</SoundElementReference>
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
@@ -642,8 +722,8 @@
       <Type>WithChildren</Type>
       <PlaybackType>RandomNoRepeat</PlaybackType>
       <Children>
-        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_002_stumble/all01_v04_sh_en</string>
-        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_002_stumble/all01_v09_sd_en</string>
+        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_002_stumble/all01_v04_sd_jp</string>
+        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_002_stumble/all01_v09_sd_jp</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
       <Volume>1000</Volume>
@@ -731,10 +811,10 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_002_stumble/all01_v04_sh_en</Name>
+      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_002_stumble/all01_v04_sd_jp</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v04_sh_en</SoundElementReference>
+      <SoundElementReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v04_sd_jp</SoundElementReference>
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
@@ -810,10 +890,10 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_002_stumble/all01_v09_sd_en</Name>
+      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_002_stumble/all01_v09_sd_jp</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v09_sd_en</SoundElementReference>
+      <SoundElementReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v09_sd_jp</SoundElementReference>
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
@@ -893,7 +973,7 @@
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
-        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_003_damage01/all01_v04_sh_en</string>
+        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_003_damage01/all01_v04_sd_jp</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
       <Volume>1000</Volume>
@@ -981,10 +1061,10 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_003_damage01/all01_v04_sh_en</Name>
+      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_003_damage01/all01_v04_sd_jp</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v04_sh_en</SoundElementReference>
+      <SoundElementReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v04_sd_jp</SoundElementReference>
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
@@ -1075,7 +1155,7 @@
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
-        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_004_damage02/all01_v04_sh_en</string>
+        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_004_damage02/all01_v04_sd_jp</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
       <Volume>1000</Volume>
@@ -1163,10 +1243,10 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_004_damage02/all01_v04_sh_en</Name>
+      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_004_damage02/all01_v04_sd_jp</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v04_sh_en</SoundElementReference>
+      <SoundElementReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v04_sd_jp</SoundElementReference>
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
@@ -1257,7 +1337,7 @@
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
-        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_005_damage03/all01_v04_sh_en</string>
+        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_005_damage03/all01_v04_sd_jp</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
       <Volume>1000</Volume>
@@ -1345,10 +1425,10 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_005_damage03/all01_v04_sh_en</Name>
+      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_005_damage03/all01_v04_sd_jp</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v04_sh_en</SoundElementReference>
+      <SoundElementReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v04_sd_jp</SoundElementReference>
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
@@ -1439,7 +1519,7 @@
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
-        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_006_damage04/all01_v04_sh_en</string>
+        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_006_damage04/all01_v04_sd_jp</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
       <Volume>1000</Volume>
@@ -1527,10 +1607,10 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_006_damage04/all01_v04_sh_en</Name>
+      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_006_damage04/all01_v04_sd_jp</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v04_sh_en</SoundElementReference>
+      <SoundElementReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v04_sd_jp</SoundElementReference>
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
@@ -1621,7 +1701,7 @@
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
-        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_007_dead/all01_v00_sh_en</string>
+        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_007_dead/all01_v00_sd_jp</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
       <Volume>1000</Volume>
@@ -1709,10 +1789,10 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_007_dead/all01_v00_sh_en</Name>
+      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_007_dead/all01_v00_sd_jp</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v00_sh_en</SoundElementReference>
+      <SoundElementReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v00_sd_jp</SoundElementReference>
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
@@ -1801,9 +1881,10 @@
     <BuilderSynthNode>
       <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_008_action03</Name>
       <Type>WithChildren</Type>
-      <PlaybackType>Polyphonic</PlaybackType>
+      <PlaybackType>RandomNoRepeat</PlaybackType>
       <Children>
-        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_008_action03/all01_v05_sh_en</string>
+        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_008_action03/all01_v05_sh_jp</string>
+        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_008_action03/all01_v05_sh2_jp</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
       <Volume>1000</Volume>
@@ -1891,10 +1972,89 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_008_action03/all01_v05_sh_en</Name>
+      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_008_action03/all01_v05_sh_jp</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v05_sh_en</SoundElementReference>
+      <SoundElementReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v05_sh_jp</SoundElementReference>
+      <Children />
+      <Volume>1000</Volume>
+      <Pitch>0</Pitch>
+      <DelayTime>0</DelayTime>
+      <SControl>0</SControl>
+      <EgDelay>0</EgDelay>
+      <EgAttack>0</EgAttack>
+      <EgHold>0</EgHold>
+      <EgDecay>0</EgDecay>
+      <EgRelease>0</EgRelease>
+      <EgSustain>1000</EgSustain>
+      <FilterType>0</FilterType>
+      <FilterCutoff1>0</FilterCutoff1>
+      <FilterCutoff2>0</FilterCutoff2>
+      <FilterReso>0</FilterReso>
+      <FilterReleaseOffset>0</FilterReleaseOffset>
+      <Dry0>0</Dry0>
+      <Dry1>0</Dry1>
+      <Dry2>0</Dry2>
+      <Dry3>0</Dry3>
+      <Dry4>0</Dry4>
+      <Dry5>0</Dry5>
+      <Dry6>0</Dry6>
+      <Dry7>0</Dry7>
+      <Wet0>0</Wet0>
+      <Wet1>0</Wet1>
+      <Wet2>0</Wet2>
+      <Wet3>0</Wet3>
+      <Wet4>0</Wet4>
+      <Wet5>0</Wet5>
+      <Wet6>0</Wet6>
+      <Wet7>0</Wet7>
+      <VoiceLimitType>0</VoiceLimitType>
+      <VoiceLimitPriority>0</VoiceLimitPriority>
+      <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
+      <VoiceLimitPcdlt>0</VoiceLimitPcdlt>
+      <Pan3dVolumeOffset>1000</Pan3dVolumeOffset>
+      <Pan3dVolumeGain>1000</Pan3dVolumeGain>
+      <Pan3dAngleOffset>0</Pan3dAngleOffset>
+      <Pan3dAngleGain>1000</Pan3dAngleGain>
+      <Pan3dDistanceOffset>1000</Pan3dDistanceOffset>
+      <Pan3dDistanceGain>1000</Pan3dDistanceGain>
+      <Dry0g>255</Dry0g>
+      <Dry1g>255</Dry1g>
+      <Dry2g>255</Dry2g>
+      <Dry3g>255</Dry3g>
+      <Dry4g>255</Dry4g>
+      <Dry5g>255</Dry5g>
+      <Dry6g>255</Dry6g>
+      <Dry7g>255</Dry7g>
+      <Wet0g>255</Wet0g>
+      <Wet1g>255</Wet1g>
+      <Wet2g>255</Wet2g>
+      <Wet3g>255</Wet3g>
+      <Wet4g>255</Wet4g>
+      <Wet5g>255</Wet5g>
+      <Wet6g>255</Wet6g>
+      <Wet7g>255</Wet7g>
+      <Filter1Type>0</Filter1Type>
+      <Filter1CutoffOffset>0</Filter1CutoffOffset>
+      <Filter1CutoffGain>0</Filter1CutoffGain>
+      <Filter1ResoOffset>0</Filter1ResoOffset>
+      <Filter1ResoGain>0</Filter1ResoGain>
+      <Filter2Type>0</Filter2Type>
+      <Filter2CutoffLowerOffset>0</Filter2CutoffLowerOffset>
+      <Filter2CutoffLowerGain>1000</Filter2CutoffLowerGain>
+      <Filter2CutoffHigherOffset>1000</Filter2CutoffHigherOffset>
+      <Filter2CutoffHigherGain>1000</Filter2CutoffHigherGain>
+      <PlaybackProbability>100</PlaybackProbability>
+      <NLmtChildren>0</NLmtChildren>
+      <Repeat>0</Repeat>
+      <ComboTime>0</ComboTime>
+      <ComboLoopBack>0</ComboLoopBack>
+    </BuilderSynthNode>
+    <BuilderSynthNode>
+      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_008_action03/all01_v05_sh2_jp</Name>
+      <Type>Single</Type>
+      <PlaybackType>Normal</PlaybackType>
+      <SoundElementReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v05_sh2_jp</SoundElementReference>
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
@@ -1974,7 +2134,7 @@
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
-        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_009_action04/all01_v08_sh_en</string>
+        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_009_action04/all01_v08_sd_jp</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
       <Volume>1000</Volume>
@@ -2062,10 +2222,10 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_009_action04/all01_v08_sh_en</Name>
+      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_009_action04/all01_v08_sd_jp</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v08_sh_en</SoundElementReference>
+      <SoundElementReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v08_sd_jp</SoundElementReference>
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
@@ -2327,7 +2487,7 @@
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
-        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_011_damage05/all01_v00_sh_en</string>
+        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_011_damage05/all01_v00_sd_jp</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
       <Volume>1000</Volume>
@@ -2415,10 +2575,10 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_011_damage05/all01_v00_sh_en</Name>
+      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_011_damage05/all01_v00_sd_jp</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v00_sh_en</SoundElementReference>
+      <SoundElementReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v00_sd_jp</SoundElementReference>
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
@@ -2691,8 +2851,8 @@
       <Type>WithChildren</Type>
       <PlaybackType>RandomNoRepeat</PlaybackType>
       <Children>
-        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_013_success01/all01_v03_sh_en</string>
-        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_013_success01/all01_v11_sd_en</string>
+        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_013_success01/all01_v03_sd_jp</string>
+        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_013_success01/all01_v11_sd_jp</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
       <Volume>1000</Volume>
@@ -2780,10 +2940,10 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_013_success01/all01_v03_sh_en</Name>
+      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_013_success01/all01_v03_sd_jp</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/3000000_voice/3000000_voice_Add/all01_v03_sh_en</SoundElementReference>
+      <SoundElementReference>Synth/3000000_voice/3000000_voice_Add/all01_v03_sd_jp</SoundElementReference>
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
@@ -2870,10 +3030,10 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_013_success01/all01_v11_sd_en</Name>
+      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_013_success01/all01_v11_sd_jp</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v11_sd_en</SoundElementReference>
+      <SoundElementReference>Synth/3000000_voice/3000000_voice_Rank/all01_v11_sd_jp</SoundElementReference>
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
@@ -2964,7 +3124,7 @@
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
-        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_014_action05/all01_v07_sh_en</string>
+        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_014_action05/all01_v07_sd_jp</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
       <Volume>1000</Volume>
@@ -3052,10 +3212,10 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_014_action05/all01_v07_sh_en</Name>
+      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_014_action05/all01_v07_sd_jp</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/3000000_voice/3000000_voice_Add/all01_v07_sh_en</SoundElementReference>
+      <SoundElementReference>Synth/3000000_voice/3000000_voice_Add/all01_v07_sd_jp</SoundElementReference>
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
@@ -3146,7 +3306,7 @@
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
-        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_015_damage06/all01_v09_sd_en</string>
+        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_015_damage06/all01_v09_sd_jp</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
       <Volume>1000</Volume>
@@ -3234,10 +3394,10 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_015_damage06/all01_v09_sd_en</Name>
+      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_015_damage06/all01_v09_sd_jp</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v09_sd_en</SoundElementReference>
+      <SoundElementReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v09_sd_jp</SoundElementReference>
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
@@ -3328,7 +3488,7 @@
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
-        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_016_action06/all01_v06_sh2_en</string>
+        <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_016_action06/ALL01_V06_SD2</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
       <Volume>1000</Volume>
@@ -3416,10 +3576,10 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_016_action06/all01_v06_sh2_en</Name>
+      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_016_action06/ALL01_V06_SD2</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v06_sh2_en</SoundElementReference>
+      <SoundElementReference>Synth/3000000_voice/3000000_voice_Add/ALL01_V06_SD2</SoundElementReference>
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
@@ -4909,7 +5069,7 @@
       <Name>Synth/3000000_voice/3000000_voice_Add/all01_v03_sh_en/all01_v03_sh_en</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/3000000_voice/3000000_voice_Add/all01_v03_sh_en</SoundElementReference>
+      <SoundElementReference>Synth/3000000_voice/3000000_voice_Add/all01_v03_sd_jp</SoundElementReference>
       <Children />
       <Volume>800</Volume>
       <Pitch>0</Pitch>
@@ -5069,7 +5229,7 @@
       <Name>Synth/3000000_voice/3000000_voice_Add/all01_v07_sh_en/all01_v07_sh_en</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/3000000_voice/3000000_voice_Add/all01_v07_sh_en</SoundElementReference>
+      <SoundElementReference>Synth/3000000_voice/3000000_voice_Add/all01_v07_sd_jp</SoundElementReference>
       <Children />
       <Volume>800</Volume>
       <Pitch>0</Pitch>
@@ -5711,7 +5871,7 @@
       <Name>Synth/3000000_voice/3000000_voice_Add/all01_v06_sh_en/ALL01_V06_SH2</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/3000000_voice/3000000_voice_Add/ALL01_V06_SH2</SoundElementReference>
+      <SoundElementReference>Synth/3000000_voice/3000000_voice_Add/ALL01_V06_SD2</SoundElementReference>
       <Children />
       <Volume>800</Volume>
       <Pitch>0</Pitch>
@@ -5952,7 +6112,7 @@
       <Name>Synth/3000000_voice/3000000_voice_Add/all01_v05_sh_add_homing_attack/all01_v05_sh_en</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v05_sh_en</SoundElementReference>
+      <SoundElementReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v05_sh_jp</SoundElementReference>
       <Children />
       <Volume>800</Volume>
       <Pitch>0</Pitch>
@@ -6031,7 +6191,7 @@
       <Name>Synth/3000000_voice/3000000_voice_Add/all01_v05_sh_add_homing_attack/all01_v05_sh1_en</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v05_sh1_en</SoundElementReference>
+      <SoundElementReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v05_sh2_jp</SoundElementReference>
       <Children />
       <Volume>800</Volume>
       <Pitch>0</Pitch>
@@ -6110,7 +6270,7 @@
       <Name>Synth/3000000_voice/3000000_voice_Add/all01_v05_sh_add_homing_attack/all01_v05_sh2_en</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v05_sh2_en</SoundElementReference>
+      <SoundElementReference />
       <Children />
       <Volume>800</Volume>
       <Pitch>0</Pitch>
@@ -6196,22 +6356,22 @@
       <SampleCount>41309</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v11_sd_en</Name>
-      <Intro>ALL01_V11_SD.aif_Intro_0.adx</Intro>
+      <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v11_sd_jp</Name>
+      <Intro>all01_v11_sd.aif_Intro_1.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
-      <SampleCount>29937</SampleCount>
+      <SampleCount>19485</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth/3000000_voice/3000000_voice_Add/all01_v01_sh_en</Name>
-      <Intro>ALL01_V01_SH.aif_Intro.adx</Intro>
+      <Name>Synth/3000000_voice/3000000_voice_Add/all01_v01_sd_jp</Name>
+      <Intro>ALL01_V01_SD.aif_Intro.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
-      <SampleCount>10625</SampleCount>
+      <SampleCount>6764</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_017_ready_aif</Name>
@@ -6231,13 +6391,13 @@
       <SampleCount>58810</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth/3000000_voice/3000000_voice_Add/all01_v01_sh2_en</Name>
-      <Intro>ALL01_V01_SH2.AIF_Intro.adx</Intro>
+      <Name>Synth/3000000_voice/3000000_voice_Add/all01_v01_sd1_jp</Name>
+      <Intro>ALL01_V01_SD1.AIF_Intro.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
-      <SampleCount>16328</SampleCount>
+      <SampleCount>7514</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_018_go_aif</Name>
@@ -6257,22 +6417,31 @@
       <SampleCount>125128</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth/3000000_voice/3000000_voice_Add/all01_v03_sh_en</Name>
-      <Intro>ALL01_V03_SH.aif_Intro.adx</Intro>
+      <Name>Synth/3000000_voice/3000000_voice_Add/all01_v01_sd2_jp</Name>
+      <Intro>ALL01_V01_SD2.AIF_Intro.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
-      <SampleCount>33412</SampleCount>
+      <SampleCount>6231</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v00_sh_en</Name>
-      <Intro>ALL01_V00_SH.aif_Intro.adx</Intro>
+      <Name>Synth/3000000_voice/3000000_voice_Add/all01_v03_sd_jp</Name>
+      <Intro>ALL01_V03_SD.aif_Intro.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
-      <SampleCount>59297</SampleCount>
+      <SampleCount>14179</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v00_sd_jp</Name>
+      <Intro>ALL01_V00_SD.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>48000</SampleRate>
+      <SampleCount>60506</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v14_sd_en</Name>
@@ -6284,22 +6453,22 @@
       <SampleCount>61939</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth/3000000_voice/3000000_voice_Add/all01_v07_sh_en</Name>
-      <Intro>ALL01_V07_SH.aif_Intro.adx</Intro>
+      <Name>Synth/3000000_voice/3000000_voice_Add/all01_v07_sd_jp</Name>
+      <Intro>ALL01_V07_SD.aif_Intro.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
-      <SampleCount>26985</SampleCount>
+      <SampleCount>25599</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v04_sh_en</Name>
-      <Intro>ALL01_V04_SH.aif_Intro.adx</Intro>
+      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v04_sd_jp</Name>
+      <Intro>ALL01_V04_SD.aif_Intro.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
-      <SampleCount>19303</SampleCount>
+      <SampleCount>31906</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v15_sd_en</Name>
@@ -6320,13 +6489,13 @@
       <SampleCount>17725</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v05_sh_en</Name>
-      <Intro>ALL01_V05_SH.aif_Intro.adx</Intro>
+      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v05_sh_jp</Name>
+      <Intro>ALL01_V05_SD.aif_Intro.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
-      <SampleCount>24522</SampleCount>
+      <SampleCount>17365</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v16_sd_en</Name>
@@ -6347,13 +6516,13 @@
       <SampleCount>125128</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v05_sh1_en</Name>
-      <Intro>ALL01_V05_SH1.AIF_Intro.adx</Intro>
+      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v05_sh2_jp</Name>
+      <Intro>ALL01_V05_SD2.AIF_Intro.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
-      <SampleCount>18609</SampleCount>
+      <SampleCount>19933</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Add/ALL01_V06_SH</Name>
@@ -6365,13 +6534,13 @@
       <SampleCount>11317</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v05_sh2_en</Name>
-      <Intro>ALL01_V05_SH2.AIF_Intro.adx</Intro>
+      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v06_sh_en</Name>
+      <Intro>ALL01_V06_SH.aif_Intro.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
-      <SampleCount>23962</SampleCount>
+      <SampleCount>11317</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Add/ALL01_V06_SH1</Name>
@@ -6383,24 +6552,6 @@
       <SampleCount>16805</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v06_sh_en</Name>
-      <Intro>ALL01_V06_SH.aif_Intro.adx</Intro>
-      <Loop />
-      <ChannelCount>1</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>48000</SampleRate>
-      <SampleCount>11317</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
-      <Name>Synth/3000000_voice/3000000_voice_Add/ALL01_V06_SH2</Name>
-      <Intro>ALL01_V06_SH2.AIF_Intro_0.adx</Intro>
-      <Loop />
-      <ChannelCount>1</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>48000</SampleRate>
-      <SampleCount>12030</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v06_sh1_en</Name>
       <Intro>ALL01_V06_SH1.AIF_Intro.adx</Intro>
       <Loop />
@@ -6410,11 +6561,13 @@
       <SampleCount>16805</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth/3000000_voice/3000000_voice_Add/ALL01_V06_SH3</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>Synth/3000000_voice/3000000_voice_Add/ALL01_V06_SD2</Name>
+      <Intro>ALL01_V06_SD2.AIF_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>48000</SampleRate>
+      <SampleCount>8303</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v06_sh2_en</Name>
@@ -6426,13 +6579,20 @@
       <SampleCount>12030</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v09_sd_en</Name>
-      <Intro>ALL01_V09_SD.aif_Intro.adx</Intro>
+      <Name>Synth/3000000_voice/3000000_voice_Add/ALL01_V06_SH3</Name>
+      <ChannelCount>0</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>0</SampleRate>
+      <SampleCount>0</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v09_sd_jp</Name>
+      <Intro>all01_v09_sd.aif_Intro_0.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
-      <SampleCount>41361</SampleCount>
+      <SampleCount>47028</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v11_sd_en</Name>
@@ -6471,13 +6631,13 @@
       <SampleCount>24408</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v08_sh_en</Name>
-      <Intro>ALL01_V08_SH.aif_Intro.adx</Intro>
+      <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v08_sd_jp</Name>
+      <Intro>ALL01_V08_SD.aif_Intro.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
-      <SampleCount>26291</SampleCount>
+      <SampleCount>18039</SampleCount>
     </BuilderSoundElementNode>
   </SoundElementNodes>
   <AisacNodes>
