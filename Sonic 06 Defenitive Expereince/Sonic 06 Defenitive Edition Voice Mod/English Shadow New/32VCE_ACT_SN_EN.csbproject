@@ -6192,7 +6192,7 @@
       <Children>
         <string>Synth/3000000_voice/3000000_voice_Rank/all01_v11_sd_en/all01_v11_sd_en</string>
       </Children>
-      <Volume>700</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>180</DelayTime>
       <SControl>0</SControl>
