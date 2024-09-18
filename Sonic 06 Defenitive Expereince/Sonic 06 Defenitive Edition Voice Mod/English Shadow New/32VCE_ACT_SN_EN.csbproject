@@ -139,78 +139,91 @@
       <Name>all01_v12_sh_en</Name>
       <Id>40000</Id>
       <SynthReference>Synth/3000000_voice/3000000_voice_Rank/all01_v12_sd_en</SynthReference>
+      <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>all01_v13_sh_en</Name>
       <Id>40001</Id>
       <SynthReference>Synth/3000000_voice/3000000_voice_Rank/all01_v13_sd_en</SynthReference>
+      <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>all01_v14_sh_en</Name>
       <Id>40002</Id>
       <SynthReference>Synth/3000000_voice/3000000_voice_Rank/all01_v14_sd_en</SynthReference>
+      <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>all01_v15_sh_en</Name>
       <Id>40003</Id>
       <SynthReference>Synth/3000000_voice/3000000_voice_Rank/all01_v15_sd_en</SynthReference>
+      <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>all01_v16_sh_en</Name>
       <Id>40004</Id>
       <SynthReference>Synth/3000000_voice/3000000_voice_Rank/all01_v16_sd_en</SynthReference>
+      <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>all01_v11_sh_en</Name>
       <Id>3002019</Id>
       <SynthReference>Synth/3000000_voice/3000000_voice_Rank/all01_v11_sd_en</SynthReference>
+      <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>all01_v10_sh_en</Name>
       <Id>3002021</Id>
       <SynthReference>Synth/3000000_voice/3000000_voice_Add/all01_v10_sh_en</SynthReference>
+      <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>all01_v05_sh_en</Name>
       <Id>3002030</Id>
       <SynthReference>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_009_action04</SynthReference>
+      <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>all01_v03_sh_en</Name>
       <Id>3002022</Id>
       <SynthReference>Synth/3000000_voice/3000000_voice_Add/all01_v03_sh_en</SynthReference>
+      <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>all01_v05_sh_add_homing</Name>
       <Id>3002023</Id>
       <SynthReference>Synth/3000000_voice/3000000_voice_Add/all01_v05_sh_add_homing_attack</SynthReference>
+      <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>all01_v12_action_suc_sh_en</Name>
       <Id>3002025</Id>
       <SynthReference>Synth/3000000_voice/3000000_voice_Add/all01_v12_action_suc_sn_en</SynthReference>
+      <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>all01_v07_sh_en</Name>
       <Id>3002031</Id>
       <SynthReference>Synth/3000000_voice/3000000_voice_Add/all01_v07_sh_en</SynthReference>
+      <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>all01_v06_sh_en</Name>
       <Id>3002032</Id>
       <SynthReference>Synth/3000000_voice/3000000_voice_Add/all01_v06_sh_en</SynthReference>
+      <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
   </CueNodes>
@@ -224,7 +237,7 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_000_action01/all01_v01_sh2_en</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>1000</Volume>
+      <Volume>1200</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -329,6 +342,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -337,6 +352,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -345,6 +361,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -408,6 +432,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -416,6 +442,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -424,6 +451,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -579,6 +614,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -587,6 +624,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -595,6 +633,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -646,7 +692,7 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_002_stumble/all01_v09_sd_en</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>1000</Volume>
+      <Volume>1200</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -751,6 +797,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -759,6 +807,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -767,6 +816,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -830,6 +887,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -838,6 +897,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -846,6 +906,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -896,7 +964,7 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_003_damage01/all01_v04_sh_en</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>1000</Volume>
+      <Volume>1200</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1078,7 +1146,7 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_004_damage02/all01_v04_sh_en</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>1000</Volume>
+      <Volume>1200</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1260,7 +1328,7 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_005_damage03/all01_v04_sh_en</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>1000</Volume>
+      <Volume>1200</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1442,7 +1510,7 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_006_damage04/all01_v04_sh_en</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>1000</Volume>
+      <Volume>1200</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1624,7 +1692,7 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_007_dead/all01_v00_sh_en</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>1000</Volume>
+      <Volume>1200</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1806,7 +1874,7 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_008_action03/all01_v05_sh_en</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>1000</Volume>
+      <Volume>1200</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1911,6 +1979,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -1919,6 +1989,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -1927,6 +1998,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -1977,7 +2056,7 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_009_action04/all01_v08_sh_en</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>1000</Volume>
+      <Volume>1200</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2082,6 +2161,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -2090,6 +2171,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -2098,6 +2180,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -2330,7 +2420,7 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_011_damage05/all01_v00_sh_en</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>1000</Volume>
+      <Volume>1200</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2695,7 +2785,7 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_013_success01/all01_v11_sd_en</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>1000</Volume>
+      <Volume>1200</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2967,7 +3057,7 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_014_action05/all01_v07_sh_en</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>1000</Volume>
+      <Volume>1200</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3149,7 +3239,7 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_015_damage06/all01_v09_sd_en</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>1000</Volume>
+      <Volume>1200</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3331,7 +3421,7 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_016_action06/all01_v06_sh2_en</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>1000</Volume>
+      <Volume>1200</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3876,7 +3966,7 @@
       <Children>
         <string>Synth/3000000_voice/3000000_voice_Rank/all01_v12_sd_en/all01_v12_sd_en</string>
       </Children>
-      <Volume>1000</Volume>
+      <Volume>1100</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3891,6 +3981,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -3899,6 +3991,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -3907,6 +4000,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -3970,6 +4071,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -3978,6 +4081,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -3986,6 +4090,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -4035,7 +4147,7 @@
       <Children>
         <string>Synth/3000000_voice/3000000_voice_Rank/all01_v13_sd_en/all01_v13_sd_en</string>
       </Children>
-      <Volume>1000</Volume>
+      <Volume>1100</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4050,6 +4162,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -4058,6 +4172,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -4066,6 +4181,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -4129,6 +4252,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -4137,6 +4262,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -4145,6 +4271,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -4194,7 +4328,7 @@
       <Children>
         <string>Synth/3000000_voice/3000000_voice_Rank/all01_v14_sd_en/all01_v14_sd_en</string>
       </Children>
-      <Volume>1000</Volume>
+      <Volume>1100</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4209,6 +4343,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -4217,6 +4353,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -4225,6 +4362,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -4288,6 +4433,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -4296,6 +4443,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -4304,6 +4452,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -4353,7 +4509,7 @@
       <Children>
         <string>Synth/3000000_voice/3000000_voice_Rank/all01_v15_sd_en/all01_v15_sd_en</string>
       </Children>
-      <Volume>1000</Volume>
+      <Volume>1100</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4368,6 +4524,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -4376,6 +4534,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -4384,6 +4543,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -4447,6 +4614,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -4455,6 +4624,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -4463,6 +4633,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -4512,7 +4690,7 @@
       <Children>
         <string>Synth/3000000_voice/3000000_voice_Rank/all01_v16_sd_en/all01_v16_sd_en</string>
       </Children>
-      <Volume>1000</Volume>
+      <Volume>1100</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4527,6 +4705,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -4535,6 +4715,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -4543,6 +4724,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -4606,6 +4795,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -4614,6 +4805,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -4622,6 +4814,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -4671,7 +4871,7 @@
       <Children>
         <string>Synth/3000000_voice/3000000_voice_Rank/all01_v11_sd_en/all01_v11_sd_en</string>
       </Children>
-      <Volume>700</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>160</DelayTime>
       <SControl>0</SControl>
@@ -4686,6 +4886,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -4694,6 +4896,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -4702,6 +4905,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -4765,6 +4976,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -4773,6 +4986,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -4781,6 +4995,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -4846,6 +5068,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -4854,6 +5078,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -4862,6 +5087,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitGroupReference>Player_BZ_2</VoiceLimitGroupReference>
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
@@ -4926,6 +5159,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -4934,6 +5169,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -4942,6 +5178,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -4992,7 +5236,7 @@
         <string>Synth/3000000_voice/3000000_voice_Add/all01_v07_sh_en/all01_v07_sh_en</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>800</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -5007,6 +5251,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -5015,6 +5261,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -5023,6 +5270,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -5086,6 +5341,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -5094,6 +5351,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -5102,6 +5360,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -5152,7 +5418,7 @@
         <string>Synth/3000000_voice/3000000_voice_Add/all01_v10_sh_en/all01_v10_sd_en</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>800</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -5167,6 +5433,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -5175,6 +5443,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -5183,6 +5452,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitGroupReference>Player_BZ</VoiceLimitGroupReference>
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
@@ -5247,6 +5524,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -5255,6 +5534,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -5263,6 +5543,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -5313,7 +5601,7 @@
         <string>Synth/3000000_voice/3000000_voice_Add/all01_v12_action_suc_sn_en/all01_v12_sd_en</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>800</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>180</DelayTime>
       <SControl>0</SControl>
@@ -5328,6 +5616,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -5336,6 +5626,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -5344,6 +5635,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -5407,6 +5706,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -5415,6 +5716,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -5423,6 +5725,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -5476,7 +5786,7 @@
         <string>Synth/3000000_voice/3000000_voice_Add/all01_v06_sh_en/ALL01_V06_SH3</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>800</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -5491,6 +5801,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -5499,6 +5811,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -5507,6 +5820,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -5570,6 +5891,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -5578,6 +5901,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -5586,6 +5910,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -5649,6 +5981,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -5657,6 +5991,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -5665,6 +6000,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -5728,6 +6071,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -5736,6 +6081,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -5744,6 +6090,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -5807,6 +6161,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -5815,6 +6171,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -5823,6 +6180,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -5890,6 +6255,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -5898,6 +6265,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -5906,6 +6274,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -5969,6 +6345,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -5977,6 +6355,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -5985,6 +6364,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -6048,6 +6435,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -6056,6 +6445,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -6064,6 +6454,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -6127,6 +6525,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -6135,6 +6535,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -6143,6 +6544,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -6197,8 +6606,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v11_sd_en</Name>
-      <Intro>ALL01_V11_SD.aif_Intro_0.adx</Intro>
-      <Loop />
+      <Intro>Synth_3000000_voice_3000000_voice_Rank_all01_v11_sd_en_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
@@ -6206,8 +6614,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Add/all01_v01_sh_en</Name>
-      <Intro>ALL01_V01_SH.aif_Intro.adx</Intro>
-      <Loop />
+      <Intro>Synth_3000000_voice_3000000_voice_Add_all01_v01_sh_en_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
@@ -6223,8 +6630,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v12_sd_en</Name>
-      <Intro>all01_v12_sd.adx</Intro>
-      <Loop />
+      <Intro>Synth_3000000_voice_3000000_voice_Rank_all01_v12_sd_en_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
@@ -6232,8 +6638,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Add/all01_v01_sh2_en</Name>
-      <Intro>ALL01_V01_SH2.AIF_Intro.adx</Intro>
-      <Loop />
+      <Intro>Synth_3000000_voice_3000000_voice_Add_all01_v01_sh2_en_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
@@ -6249,8 +6654,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v13_sd_en</Name>
-      <Intro>all01_v13_sd.adx</Intro>
-      <Loop />
+      <Intro>Synth_3000000_voice_3000000_voice_Rank_all01_v13_sd_en_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
@@ -6258,8 +6662,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Add/all01_v03_sh_en</Name>
-      <Intro>ALL01_V03_SH.aif_Intro.adx</Intro>
-      <Loop />
+      <Intro>Synth_3000000_voice_3000000_voice_Add_all01_v03_sh_en_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
@@ -6267,8 +6670,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v00_sh_en</Name>
-      <Intro>ALL01_V00_SH.aif_Intro.adx</Intro>
-      <Loop />
+      <Intro>Synth_3000000_voice_3002001_VCE_ACT_SN_JP_all01_v00_sh_en_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
@@ -6276,8 +6678,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v14_sd_en</Name>
-      <Intro>all01_v14_sd.adx</Intro>
-      <Loop />
+      <Intro>Synth_3000000_voice_3000000_voice_Rank_all01_v14_sd_en_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
@@ -6285,8 +6686,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Add/all01_v07_sh_en</Name>
-      <Intro>ALL01_V07_SH.aif_Intro.adx</Intro>
-      <Loop />
+      <Intro>Synth_3000000_voice_3000000_voice_Add_all01_v07_sh_en_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
@@ -6294,8 +6694,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v04_sh_en</Name>
-      <Intro>ALL01_V04_SH.aif_Intro.adx</Intro>
-      <Loop />
+      <Intro>Synth_3000000_voice_3002001_VCE_ACT_SN_JP_all01_v04_sh_en_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
@@ -6303,8 +6702,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v15_sd_en</Name>
-      <Intro>all01_v15_sd.adx</Intro>
-      <Loop />
+      <Intro>Synth_3000000_voice_3000000_voice_Rank_all01_v15_sd_en_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
@@ -6312,8 +6710,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Add/all01_v10_sd_en</Name>
-      <Intro>ALL01_V10_SD.aif_Intro.adx</Intro>
-      <Loop />
+      <Intro>Synth_3000000_voice_3000000_voice_Add_all01_v10_sd_en_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
@@ -6321,8 +6718,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v05_sh_en</Name>
-      <Intro>ALL01_V05_SH.aif_Intro.adx</Intro>
-      <Loop />
+      <Intro>Synth_3000000_voice_3002001_VCE_ACT_SN_JP_all01_v05_sh_en_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
@@ -6330,8 +6726,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Rank/all01_v16_sd_en</Name>
-      <Intro>all01_v16_sd.adx</Intro>
-      <Loop />
+      <Intro>Synth_3000000_voice_3000000_voice_Rank_all01_v16_sd_en_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
@@ -6339,8 +6734,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Add/all01_v13_action_suc_sn_en</Name>
-      <Intro>all01_v13_action_suc_sn_en_0.adx</Intro>
-      <Loop />
+      <Intro>Synth_3000000_voice_3000000_voice_Add_all01_v13_action_suc_sn_en_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
@@ -6348,8 +6742,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v05_sh1_en</Name>
-      <Intro>ALL01_V05_SH1.AIF_Intro.adx</Intro>
-      <Loop />
+      <Intro>Synth_3000000_voice_3002001_VCE_ACT_SN_JP_all01_v05_sh1_en_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
@@ -6357,8 +6750,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Add/ALL01_V06_SH</Name>
-      <Intro>ALL01_V06_SH.aif_Intro_0.adx</Intro>
-      <Loop />
+      <Intro>Synth_3000000_voice_3000000_voice_Add_ALL01_V06_SH_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
@@ -6366,8 +6758,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v05_sh2_en</Name>
-      <Intro>ALL01_V05_SH2.AIF_Intro.adx</Intro>
-      <Loop />
+      <Intro>Synth_3000000_voice_3002001_VCE_ACT_SN_JP_all01_v05_sh2_en_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
@@ -6375,8 +6766,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Add/ALL01_V06_SH1</Name>
-      <Intro>ALL01_V06_SH1.AIF_Intro_0.adx</Intro>
-      <Loop />
+      <Intro>Synth_3000000_voice_3000000_voice_Add_ALL01_V06_SH1_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
@@ -6384,8 +6774,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v06_sh_en</Name>
-      <Intro>ALL01_V06_SH.aif_Intro.adx</Intro>
-      <Loop />
+      <Intro>Synth_3000000_voice_3002001_VCE_ACT_SN_JP_all01_v06_sh_en_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
@@ -6393,8 +6782,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Add/ALL01_V06_SH2</Name>
-      <Intro>ALL01_V06_SH2.AIF_Intro_0.adx</Intro>
-      <Loop />
+      <Intro>Synth_3000000_voice_3000000_voice_Add_ALL01_V06_SH2_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
@@ -6402,8 +6790,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v06_sh1_en</Name>
-      <Intro>ALL01_V06_SH1.AIF_Intro.adx</Intro>
-      <Loop />
+      <Intro>Synth_3000000_voice_3002001_VCE_ACT_SN_JP_all01_v06_sh1_en_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
@@ -6418,8 +6805,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v06_sh2_en</Name>
-      <Intro>ALL01_V06_SH2.AIF_Intro.adx</Intro>
-      <Loop />
+      <Intro>Synth_3000000_voice_3002001_VCE_ACT_SN_JP_all01_v06_sh2_en_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
@@ -6427,8 +6813,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v09_sd_en</Name>
-      <Intro>ALL01_V09_SD.aif_Intro.adx</Intro>
-      <Loop />
+      <Intro>Synth_3000000_voice_3002001_VCE_ACT_SN_JP_all01_v09_sd_en_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
@@ -6436,8 +6821,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v11_sd_en</Name>
-      <Intro>ALL01_V11_SD.aif_Intro.adx</Intro>
-      <Loop />
+      <Intro>Synth_3000000_voice_3002001_VCE_ACT_SN_JP_all01_v11_sd_en_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
@@ -6445,8 +6829,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_vdummy01_sh_en</Name>
-      <Intro>Synth_3000000_voice_3002001_VCE_ACT_SN_JP_SN_Act020_wav_Intro.adx</Intro>
-      <Loop />
+      <Intro>Synth_3000000_voice_3002001_VCE_ACT_SN_JP_all01_vdummy01_sh_en_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>32000</SampleRate>
@@ -6454,8 +6837,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_vdummy02_sh_en</Name>
-      <Intro>Synth_3000000_voice_3002001_VCE_ACT_SN_JP_SN_Act033_wav_Intro.adx</Intro>
-      <Loop />
+      <Intro>Synth_3000000_voice_3002001_VCE_ACT_SN_JP_all01_vdummy02_sh_en_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>32000</SampleRate>
@@ -6463,8 +6845,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_vdummy03_sh_en</Name>
-      <Intro>Synth_3000000_voice_3002001_VCE_ACT_SN_JP_SN_Act040_wav_Intro.adx</Intro>
-      <Loop />
+      <Intro>Synth_3000000_voice_3002001_VCE_ACT_SN_JP_all01_vdummy03_sh_en_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>32000</SampleRate>
@@ -6472,8 +6853,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/all01_v08_sh_en</Name>
-      <Intro>ALL01_V08_SH.aif_Intro.adx</Intro>
-      <Loop />
+      <Intro>Synth_3000000_voice_3002001_VCE_ACT_SN_JP_all01_v08_sh_en_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
