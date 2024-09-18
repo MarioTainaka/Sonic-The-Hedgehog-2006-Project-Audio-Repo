@@ -2602,7 +2602,6 @@
         <string>Synth/3000000_voice/3002001_VCE_ACT_SN_JP/3002_011_damage05/all01_v00_sd_jp</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>1000</Volume>
       <Volume>1200</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
