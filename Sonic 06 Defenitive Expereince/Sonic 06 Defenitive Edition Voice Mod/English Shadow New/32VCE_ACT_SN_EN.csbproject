@@ -6479,7 +6479,7 @@
         <string>Synth/3000000_voice/3000000_voice_Add/all01_v05_sh_add_homing/all01_v05_sh1_en</string>
         <string>Synth/3000000_voice/3000000_voice_Add/all01_v05_sh_add_homing/all01_v05_sh2_en</string>
       </Children>
-      <AisacReference />
+      <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
