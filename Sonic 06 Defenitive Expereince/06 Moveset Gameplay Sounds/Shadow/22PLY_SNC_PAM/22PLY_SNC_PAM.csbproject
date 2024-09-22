@@ -17617,6 +17617,13 @@
       <SampleCount>10702</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
+      <Name>Synth/2000000_player/2002000_PLY_SD_GE/jetboots_L_0</Name>
+      <ChannelCount>0</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>0</SampleRate>
+      <SampleCount>0</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
       <Name>Synth/2000000_player/2002000_PLY_SD_GE/jetboots_R</Name>
       <Intro>02_jetboots_R.aif_Intro.adx</Intro>
       <Loop />
@@ -17788,6 +17795,15 @@
       <SampleCount>12034</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
+      <Name>Synth/2000000_player/2002000_PLY_SD_GE/awake</Name>
+      <Intro>11_awake.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>16000</SampleRate>
+      <SampleCount>28908</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_004_fst_wlk_mtl_3_aif</Name>
       <Intro>09_foot_metal_jog_3.aif_Intro.adx</Intro>
       <Loop />
@@ -17795,6 +17811,15 @@
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
       <SampleCount>12035</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth/2000000_player/2002000_PLY_SD_GE/boost_start</Name>
+      <Intro>12_boost_start.AIF_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>22050</SampleRate>
+      <SampleCount>85642</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_004_fst_wlk_mtl_4_aif</Name>
@@ -17806,6 +17831,15 @@
       <SampleCount>12034</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
+      <Name>Synth/2000000_player/2002000_PLY_SD_GE/boost</Name>
+      <Intro>13_boost.aif_Intro.adx</Intro>
+      <Loop>13_boost.aif_Loop.adx</Loop>
+      <ChannelCount>2</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>48000</SampleRate>
+      <SampleCount>196994</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_004_fst_wlk_mtl_5_aif</Name>
       <Intro>09_foot_metal_jog_5.aif_Intro.adx</Intro>
       <Loop />
@@ -17813,6 +17847,15 @@
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
       <SampleCount>11596</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth/2000000_player/2002000_PLY_SD_GE/chaosblast</Name>
+      <Intro>14_chaosblast.AIF_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>22050</SampleRate>
+      <SampleCount>48577</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_004_fst_wlk_mtl_6_aif</Name>
@@ -17824,6 +17867,15 @@
       <SampleCount>12882</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
+      <Name>Synth/2000000_player/2002000_PLY_SD_GE/warp</Name>
+      <Intro>15_warp.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>2</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>85868</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_004_fst_wlk_mtl_7_aif</Name>
       <Intro>09_foot_metal_jog_7.aif_Intro.adx</Intro>
       <Loop />
@@ -17831,6 +17883,15 @@
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
       <SampleCount>11767</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth/2000000_player/2002000_PLY_SD_GE/board</Name>
+      <Intro>16_board.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>11952</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_004_fst_wlk_mtl_8_aif</Name>
