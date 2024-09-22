@@ -15999,7 +15999,7 @@
         <string>Synth/2000000_player/2002000_PLY_SD_GE/2002_095_brake/brake</string>
       </Children>
       <AisacReference>Globals/Aisac/rolloff_footstep</AisacReference>
-      <Volume>600</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -16078,7 +16078,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/2000000_player/2002000_PLY_SD_GE/brake</SoundElementReference>
       <Children />
-      <Volume>600</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -16158,7 +16158,7 @@
       <SoundElementReference>Synth/2000000_player/2002000_PLY_SD_GE/kickback</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/rolloff_footstep</AisacReference>
-      <Volume>400</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -16239,7 +16239,7 @@
         <string>Synth/2000000_player/2002000_PLY_SD_GE/2002_096_chaossmash/chaossmash</string>
       </Children>
       <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
-      <Volume>600</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -16318,7 +16318,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/2000000_player/2002000_PLY_SD_GE/chaossmash</SoundElementReference>
       <Children />
-      <Volume>600</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -16399,7 +16399,7 @@
         <string>Synth/2000000_player/2002000_PLY_SD_GE/2002_098_spinkick/spinkick</string>
       </Children>
       <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
-      <Volume>600</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -16478,7 +16478,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/2000000_player/2002000_PLY_SD_GE/spinkick</SoundElementReference>
       <Children />
-      <Volume>600</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -16559,7 +16559,7 @@
         <string>Synth/2000000_player/2002000_PLY_SD_GE/2002_099_attack/attack</string>
       </Children>
       <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
-      <Volume>600</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -16638,7 +16638,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/2000000_player/2002000_PLY_SD_GE/attack</SoundElementReference>
       <Children />
-      <Volume>600</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -16719,7 +16719,7 @@
         <string>Synth/2000000_player/2002000_PLY_SD_GE/2002_100_spear_charge/spear_charge</string>
       </Children>
       <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
-      <Volume>600</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -16798,7 +16798,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/2000000_player/2002000_PLY_SD_GE/spear_charge</SoundElementReference>
       <Children />
-      <Volume>600</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -16879,7 +16879,7 @@
         <string>Synth/2000000_player/2002000_PLY_SD_GE/2002_101_spear_shoot/spear_shoot</string>
       </Children>
       <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
-      <Volume>600</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -16958,7 +16958,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/2000000_player/2002000_PLY_SD_GE/spear_shoot</SoundElementReference>
       <Children />
-      <Volume>600</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -17039,7 +17039,7 @@
         <string>Synth/2000000_player/2002000_PLY_SD_GE/2002_102_spear_impact/spear_impact</string>
       </Children>
       <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
-      <Volume>600</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -17118,7 +17118,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/2000000_player/2002000_PLY_SD_GE/spear_impact</SoundElementReference>
       <Children />
-      <Volume>600</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -17198,7 +17198,7 @@
       <Children>
         <string>Synth/2000000_player/2002000_PLY_SD_GE/2002_103_awake/awake</string>
       </Children>
-      <Volume>400</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -17277,7 +17277,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/2000000_player/2002000_PLY_SD_GE/awake</SoundElementReference>
       <Children />
-      <Volume>400</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -17678,7 +17678,7 @@
         <string>Synth/2000000_player/2002000_PLY_SD_GE/2002_106_chaosblast/chaosblast</string>
       </Children>
       <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
-      <Volume>600</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -17757,7 +17757,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/2000000_player/2002000_PLY_SD_GE/chaosblast</SoundElementReference>
       <Children />
-      <Volume>600</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -17837,7 +17837,7 @@
       <Children>
         <string>Synth/2000000_player/2002000_PLY_SD_GE/2002_107_warp/warp</string>
       </Children>
-      <Volume>600</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -17916,7 +17916,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/2000000_player/2002000_PLY_SD_GE/warp</SoundElementReference>
       <Children />
-      <Volume>600</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -17997,7 +17997,7 @@
         <string>Synth/2000000_player/2002000_PLY_SD_GE/2002_108_board/board</string>
       </Children>
       <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
-      <Volume>600</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -18076,7 +18076,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/2000000_player/2002000_PLY_SD_GE/board</SoundElementReference>
       <Children />
-      <Volume>600</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -18316,7 +18316,7 @@
         <string>Synth/2000000_player/2002000_PLY_SD_GE/2002_110_jetboots_L/jetboots_L</string>
       </Children>
       <AisacReference>Globals/Aisac/rolloff_footstep</AisacReference>
-      <Volume>600</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -18395,7 +18395,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/2000000_player/2002000_PLY_SD_GE/jetboots_L</SoundElementReference>
       <Children />
-      <Volume>600</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -18476,7 +18476,7 @@
         <string>Synth/2000000_player/2002000_PLY_SD_GE/2002_111_jetboots_R/jetboots_R</string>
       </Children>
       <AisacReference>Globals/Aisac/rolloff_footstep</AisacReference>
-      <Volume>600</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -18555,7 +18555,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/2000000_player/2002000_PLY_SD_GE/jetboots_R</SoundElementReference>
       <Children />
-      <Volume>600</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
