@@ -10620,7 +10620,7 @@
         <string>Synth/2000000_player/2002000_PLY_SNC_GE/2002_030_boost/boost_start</string>
       </Children>
       <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
-      <Volume>600</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -10710,7 +10710,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/2000000_player/2002000_PLY_SD_GE/boost_start</SoundElementReference>
       <Children />
-      <Volume>600</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -10791,7 +10791,7 @@
         <string>Synth/2000000_player/2002000_PLY_SNC_GE/2002_031_boost_lp/boost</string>
       </Children>
       <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
-      <Volume>600</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -10881,7 +10881,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/2000000_player/2002000_PLY_SD_GE/boost</SoundElementReference>
       <Children />
-      <Volume>600</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -14158,7 +14158,7 @@
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_094_homing_charge/2002_094_homing_charge</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_094_homing_charge</SoundElementReference>
+      <SoundElementReference />
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
@@ -14318,7 +14318,7 @@
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_095_homing_shoot/2002_095_homing_shoot</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_095_homing_shoot</SoundElementReference>
+      <SoundElementReference />
       <Children />
       <Volume>800</Volume>
       <Pitch>0</Pitch>
@@ -14478,7 +14478,7 @@
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_096_tornado_move/2002_096_tornado_move</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_096_tornado_move</SoundElementReference>
+      <SoundElementReference />
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
@@ -14638,7 +14638,7 @@
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_097_change/2002_097_change</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_097_change</SoundElementReference>
+      <SoundElementReference />
       <Children />
       <Volume>900</Volume>
       <Pitch>0</Pitch>
@@ -14798,7 +14798,7 @@
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_098_mini/2002_098_mini</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_098_mini</SoundElementReference>
+      <SoundElementReference />
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
@@ -14958,7 +14958,7 @@
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_099_gundive_charge/2002_099_gundive_charge</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_099_gundive_charge</SoundElementReference>
+      <SoundElementReference />
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
@@ -15117,7 +15117,7 @@
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_100_gundive_throw/2002_100_gundive_throw</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_100_gundive_throw</SoundElementReference>
+      <SoundElementReference />
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
@@ -15277,7 +15277,7 @@
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_101_gundive_move/2002_101_gundive_move</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_101_gundive_move</SoundElementReference>
+      <SoundElementReference />
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
@@ -15438,7 +15438,7 @@
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_102_guard/2002_102_guard</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_102_guard</SoundElementReference>
+      <SoundElementReference />
       <Children />
       <Volume>300</Volume>
       <Pitch>0</Pitch>
@@ -15597,7 +15597,7 @@
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_102_guard/2002_102_guard_s/2002_103_guard_on</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_103_guard_on</SoundElementReference>
+      <SoundElementReference />
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
@@ -15756,7 +15756,7 @@
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_104_gravity/2002_104_gravity</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_104_gravity</SoundElementReference>
+      <SoundElementReference />
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
@@ -17358,7 +17358,7 @@
         <string>Synth/2000000_player/2002000_PLY_SD_GE/2002_104_boost_start/boost_start</string>
       </Children>
       <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
-      <Volume>400</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -17437,7 +17437,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/2000000_player/2002000_PLY_SD_GE/boost_start</SoundElementReference>
       <Children />
-      <Volume>400</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -17518,7 +17518,7 @@
         <string>Synth/2000000_player/2002000_PLY_SD_GE/2002_105_boost/boost</string>
       </Children>
       <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
-      <Volume>400</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -17597,7 +17597,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/2000000_player/2002000_PLY_SD_GE/boost</SoundElementReference>
       <Children />
-      <Volume>400</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -19441,105 +19441,6 @@
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
       <SampleCount>107978</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
-      <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_094_homing_charge</Name>
-      <Intro>04_homing_charge.aif_Intro.adx</Intro>
-      <Loop />
-      <ChannelCount>2</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>44100</SampleRate>
-      <SampleCount>150692</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
-      <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_095_homing_shoot</Name>
-      <Intro>05_homing_shoot.aif_Intro.adx</Intro>
-      <Loop />
-      <ChannelCount>2</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>44100</SampleRate>
-      <SampleCount>194784</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
-      <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_096_tornado_move</Name>
-      <Intro>19_tornado.aif_Intro.adx</Intro>
-      <Loop />
-      <ChannelCount>2</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>44100</SampleRate>
-      <SampleCount>262262</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
-      <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_097_change</Name>
-      <Intro>22_change.aif_Intro.adx</Intro>
-      <Loop />
-      <ChannelCount>2</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>44100</SampleRate>
-      <SampleCount>34072</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
-      <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_098_mini</Name>
-      <Intro>24_mini.aif_Intro.adx</Intro>
-      <Loop />
-      <ChannelCount>2</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>44100</SampleRate>
-      <SampleCount>97948</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
-      <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_099_gundive_charge</Name>
-      <Intro>25_gundrive_charge.aif_Intro_0.adx</Intro>
-      <Loop>25_gundrive_charge.aif_Loop_0.adx</Loop>
-      <ChannelCount>2</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>44100</SampleRate>
-      <SampleCount>374044</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
-      <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_100_gundive_throw</Name>
-      <Intro>26_gundrive_throw.aif_Intro.adx</Intro>
-      <Loop />
-      <ChannelCount>2</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>44100</SampleRate>
-      <SampleCount>132042</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
-      <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_101_gundive_move</Name>
-      <Intro>27_gundrive_move.aif_Intro.adx</Intro>
-      <Loop />
-      <ChannelCount>1</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>44100</SampleRate>
-      <SampleCount>57265</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
-      <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_102_guard</Name>
-      <Intro>30_guard.aif_Intro.adx</Intro>
-      <Loop>30_guard.aif_Loop.adx</Loop>
-      <ChannelCount>1</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>44100</SampleRate>
-      <SampleCount>100524</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
-      <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_103_guard_on</Name>
-      <Intro>29_guard_on.aif_Intro.adx</Intro>
-      <Loop />
-      <ChannelCount>1</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>44100</SampleRate>
-      <SampleCount>46015</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
-      <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_104_gravity</Name>
-      <Intro>28_gravity.aif_Intro.adx</Intro>
-      <Loop />
-      <ChannelCount>2</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>44100</SampleRate>
-      <SampleCount>2</SampleCount>
     </BuilderSoundElementNode>
   </SoundElementNodes>
   <AisacNodes>
