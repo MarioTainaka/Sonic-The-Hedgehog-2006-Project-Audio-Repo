@@ -282,66 +282,6 @@
       <UserComment>Mario Tainaka @2021 STH 2006 Spindash Release Sound.</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
-    <BuilderCueNode>
-      <Name>2002_094_homing_charge</Name>
-      <Id>80041025</Id>
-      <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_094_homing_charge</SynthReference>
-      <Flags>0</Flags>
-    </BuilderCueNode>
-    <BuilderCueNode>
-      <Name>2002_095_homing_shoot</Name>
-      <Id>80041026</Id>
-      <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_095_homing_shoot</SynthReference>
-      <Flags>0</Flags>
-    </BuilderCueNode>
-    <BuilderCueNode>
-      <Name>2002_096_tornado_move</Name>
-      <Id>80041027</Id>
-      <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_096_tornado_move</SynthReference>
-      <Flags>0</Flags>
-    </BuilderCueNode>
-    <BuilderCueNode>
-      <Name>2002_097_change</Name>
-      <Id>80041028</Id>
-      <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_097_change</SynthReference>
-      <Flags>0</Flags>
-    </BuilderCueNode>
-    <BuilderCueNode>
-      <Name>2002_098_mini</Name>
-      <Id>80041029</Id>
-      <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_098_mini</SynthReference>
-      <Flags>0</Flags>
-    </BuilderCueNode>
-    <BuilderCueNode>
-      <Name>2002_099_gundive_charge</Name>
-      <Id>80041030</Id>
-      <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_099_gundive_charge</SynthReference>
-      <Flags>1</Flags>
-    </BuilderCueNode>
-    <BuilderCueNode>
-      <Name>2002_100_gundive_throw</Name>
-      <Id>80041031</Id>
-      <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_100_gundive_throw</SynthReference>
-      <Flags>0</Flags>
-    </BuilderCueNode>
-    <BuilderCueNode>
-      <Name>2002_101_gundive_move</Name>
-      <Id>80041032</Id>
-      <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_101_gundive_move</SynthReference>
-      <Flags>0</Flags>
-    </BuilderCueNode>
-    <BuilderCueNode>
-      <Name>2002_102_guard</Name>
-      <Id>80041033</Id>
-      <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_102_guard</SynthReference>
-      <Flags>1</Flags>
-    </BuilderCueNode>
-    <BuilderCueNode>
-      <Name>2002_104_gravity</Name>
-      <Id>80041035</Id>
-      <SynthReference>Synth/2000000_player/2002000_PLY_SNC_GE/2002_104_gravity</SynthReference>
-      <Flags>0</Flags>
-    </BuilderCueNode>
   </CueNodes>
   <SynthNodes>
     <BuilderSynthNode>
