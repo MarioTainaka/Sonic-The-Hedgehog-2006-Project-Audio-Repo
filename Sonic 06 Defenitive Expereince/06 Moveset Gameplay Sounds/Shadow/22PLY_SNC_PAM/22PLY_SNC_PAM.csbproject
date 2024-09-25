@@ -16718,7 +16718,7 @@
         <string>Synth/2000000_player/2002000_PLY_SD_GE/2002_110_jetboots_L/jetboots_L</string>
       </Children>
       <AisacReference>Globals/Aisac/rolloff_footstep</AisacReference>
-      <Volume>800</Volume>
+      <Volume>500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -16797,7 +16797,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/2000000_player/2002000_PLY_SD_GE/jetboots_L</SoundElementReference>
       <Children />
-      <Volume>800</Volume>
+      <Volume>500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -16878,7 +16878,7 @@
         <string>Synth/2000000_player/2002000_PLY_SD_GE/2002_111_jetboots_R/jetboots_R</string>
       </Children>
       <AisacReference>Globals/Aisac/rolloff_footstep</AisacReference>
-      <Volume>800</Volume>
+      <Volume>500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -16957,7 +16957,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/2000000_player/2002000_PLY_SD_GE/jetboots_R</SoundElementReference>
       <Children />
-      <Volume>800</Volume>
+      <Volume>500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
