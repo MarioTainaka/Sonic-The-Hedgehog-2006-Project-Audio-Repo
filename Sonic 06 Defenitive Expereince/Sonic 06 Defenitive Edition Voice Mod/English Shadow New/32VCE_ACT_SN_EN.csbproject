@@ -202,6 +202,7 @@
       <Name>all01_v05_sh_add_homing</Name>
       <Id>3002023</Id>
       <SynthReference>Synth/3000000_voice/3000000_voice_Add/all01_v05_sh_add_homing</SynthReference>
+      <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
@@ -229,12 +230,14 @@
       <Name>act01_p13_sd_en</Name>
       <Id>3002033</Id>
       <SynthReference>Synth/3000000_voice/3000000_voice_Add/act01_p13_sd_en</SynthReference>
+      <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>act01_p14_sd_en</Name>
       <Id>3002034</Id>
       <SynthReference>Synth/3000000_voice/3000000_voice_Add/act01_p14_sd_en</SynthReference>
+      <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
   </CueNodes>
@@ -6173,6 +6176,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -6181,6 +6186,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -6189,6 +6195,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -6237,7 +6251,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/3000000_voice/3000000_voice_Add/act01_p13_sd_en</SoundElementReference>
       <Children />
-      <Volume>1200</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -6252,6 +6266,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -6260,6 +6276,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -6268,6 +6285,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -6333,6 +6358,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -6341,6 +6368,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -6349,6 +6377,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -6412,6 +6448,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -6420,6 +6458,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -6428,6 +6467,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -6495,6 +6542,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -6503,6 +6552,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -6511,6 +6561,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -6574,6 +6632,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -6582,6 +6642,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -6590,6 +6651,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -6653,6 +6722,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -6661,6 +6732,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -6669,6 +6741,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -6732,6 +6812,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -6740,6 +6822,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -6748,6 +6831,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -6994,8 +7085,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Add/act01_p13_sd_en</Name>
-      <Intro>e0122_01_sh.adx</Intro>
-      <Loop />
+      <Intro>Synth_3000000_voice_3000000_voice_Add_act01_p13_sd_en_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
@@ -7011,8 +7101,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/3000000_voice/3000000_voice_Add/act01_p14_sd_en</Name>
-      <Intro>act01_p14_sd.adx</Intro>
-      <Loop />
+      <Intro>Synth_3000000_voice_3000000_voice_Add_act01_p14_sd_en_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>24000</SampleRate>
