@@ -322,7 +322,7 @@
       <Id>80041031</Id>
       <SynthReference>Synth/2000000_player/2002000_PLY_SD_GE/2002_100_spear_charge</SynthReference>
       <UserComment />
-      <Flags>0</Flags>
+      <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>2002_101_spear_shoot</Name>
