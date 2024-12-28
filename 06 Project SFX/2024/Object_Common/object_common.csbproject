@@ -86,81 +86,103 @@
       <SampleCount>22595</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/SFX_10</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/wind_lp3</Name>
+      <Intro>16_wind_lp3.aif_Loop.adx</Intro>
+      <Loop />
+      <ChannelCount>2</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>412030</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/SFX_11</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/esp_switch_m</Name>
+      <Intro>17_esp_switch_m.wav_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>67533</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/SFX_12</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/warpring_m</Name>
+      <Intro>19_warpring_m.wav_Intro.adx</Intro>
+      <Loop>19_warpring_m.wav_Loop.adx</Loop>
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>214818</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/SFX_13</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/chaosemerald_m_lp5</Name>
+      <Intro>20_chaosemerald_m_lp5.wav_Intro.adx</Intro>
+      <Loop>20_chaosemerald_m_lp5.wav_Loop.adx</Loop>
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>88190</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/SFX_14</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/laser_gateLP_m</Name>
+      <Intro>21_laser_gateLP_m.wav_Intro.adx</Intro>
+      <Loop>21_laser_gateLP_m.wav_Loop.adx</Loop>
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>47911</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/SFX_15</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/key_get_m</Name>
+      <Intro>23_key_get_m.wav_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>63112</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/SFX_16</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/switch_on_m</Name>
+      <Intro>24_switch_on_m.wav_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>28676</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/SFX_17</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/switch_off_m</Name>
+      <Intro>25_switch_off_m.wav_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>26639</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/SFX_18</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/switch_count_m</Name>
+      <Intro />
+      <Loop>26_switch_count_m.wav_Loop.adx</Loop>
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>76545</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/SFX_19</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/roal_stone</Name>
+      <Intro>28_roal_stone.aif_Intro.adx</Intro>
+      <Loop>28_roal_stone.aif_Loop.adx</Loop>
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>82978</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/SFX_20</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/roal_metal</Name>
+      <Intro>29_roal_metal.aif_Intro.adx</Intro>
+      <Loop>29_roal_metal.aif_Loop.adx</Loop>
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>78019</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/SFX_21</Name>
