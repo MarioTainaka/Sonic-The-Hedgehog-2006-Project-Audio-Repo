@@ -59,32 +59,31 @@
       <SampleCount>233126</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/SFX_6</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/updownreel_on</Name>
+      <Intro>09_updownreel_on.aif_Intro.adx</Intro>
+      <Loop>09_updownreel_on.aif_Loop.adx</Loop>
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>40093</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/SFX_7</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/updownreel_off</Name>
+      <Intro>10_updownreel_off.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>12665</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/SFX_8</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/hint</Name>
+      <Intro>11_hint.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
-      <Name>SFX/SFX_9</Name>
-      <ChannelCount>0</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>22595</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/SFX_10</Name>
