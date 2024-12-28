@@ -185,53 +185,67 @@
       <SampleCount>78019</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/SFX_21</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/contact_stone</Name>
+      <Intro>36_contact_stone.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>60758</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/SFX_22</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/contact_stone_B</Name>
+      <Intro>36_contact_stone_B.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>44877</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/SFX_23</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/contact_stone_C</Name>
+      <Intro>36_contact_stone_C.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>38184</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/SFX_24</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/contact_metal</Name>
+      <Intro>37_contact_metal.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>30317</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/SFX_25</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/contact_wood</Name>
+      <Intro>38_contact_wood.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>62381</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/SFX_26</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/contact_wood_B</Name>
+      <Intro>38_contact_wood_B.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>86021</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/SFX_27</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/contact_wood_C</Name>
+      <Intro>38_contact_wood_C.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>45997</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/SFX_28</Name>
