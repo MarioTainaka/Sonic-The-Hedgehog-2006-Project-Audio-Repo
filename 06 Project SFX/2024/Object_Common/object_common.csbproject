@@ -59,11 +59,13 @@
       <SampleCount>233126</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/SFX_5</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/pole</Name>
+      <Intro>08_pole.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>15889</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/SFX_6</Name>
