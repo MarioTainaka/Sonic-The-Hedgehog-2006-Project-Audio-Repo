@@ -5,15 +5,6 @@
   <SynthNodes />
   <SoundElementNodes>
     <BuilderSoundElementNode>
-      <Name>SFX/spring_G</Name>
-      <Intro>02_springG.aif_Intro.adx</Intro>
-      <Loop />
-      <ChannelCount>1</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>44100</SampleRate>
-      <SampleCount>64589</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
       <Name>SFX/woodbox_exp</Name>
       <Intro>04_woodbox_exp.aif_Intro.adx</Intro>
       <Loop />
