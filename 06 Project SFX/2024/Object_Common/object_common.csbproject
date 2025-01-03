@@ -248,32 +248,85 @@
       <SampleCount>45997</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/SFX_28</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/laser</Name>
+      <Intro>39_laser.aif_Intro.adx</Intro>
+      <Loop>39_laser.aif_Loop.adx</Loop>
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>79944</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/SFX_29</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/laser_off</Name>
+      <Intro>40_laser_off.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>62997</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/SFX_30</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/laser_move</Name>
+      <Intro />
+      <Loop>41_laser_move.aif_Loop.adx</Loop>
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>13736</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/SFX_31</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/brk_stone</Name>
+      <Intro>42_brk_stone.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>2</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>214016</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>SFX/brk_metal</Name>
+      <Intro>43_brk_metal.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>86682</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>SFX/brk_metal_B</Name>
+      <Intro>43_brk_metal_B.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>84478</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>SFX/brk_wood</Name>
+      <Intro>44_brk_wood.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>76252</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>SFX/brk_wood_B</Name>
+      <Intro>44_brk_wood_B.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>79304</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>SFX/item_appear</Name>
+      <Intro>48_item_appear.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>2</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>268042</SampleCount>
     </BuilderSoundElementNode>
   </SoundElementNodes>
   <AisacNodes />
