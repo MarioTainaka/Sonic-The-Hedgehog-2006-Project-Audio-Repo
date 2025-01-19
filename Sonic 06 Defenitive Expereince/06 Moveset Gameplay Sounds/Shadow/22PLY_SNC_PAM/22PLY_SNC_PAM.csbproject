@@ -18055,7 +18055,7 @@
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
-        <string>Synth/2000000_player/2002000_PLY_SD_GE/2002_112_chaoslance_max/2002_112_chaoslance_max</string>
+        <string>Synth/2000000_player/2002000_PLY_SD_GE/2002_112_chaoslance_max/chaoslance_max</string>
       </Children>
       <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
       <Volume>1000</Volume>
@@ -18132,9 +18132,10 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/2000000_player/2002000_PLY_SD_GE/2002_112_chaoslance_max/2002_112_chaoslance_max</Name>
+      <Name>Synth/2000000_player/2002000_PLY_SD_GE/2002_112_chaoslance_max/chaoslance_max</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
+      <SoundElementReference>Synth/2000000_player/2002000_PLY_SD_GE/chaoslance_max</SoundElementReference>
       <Children />
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
