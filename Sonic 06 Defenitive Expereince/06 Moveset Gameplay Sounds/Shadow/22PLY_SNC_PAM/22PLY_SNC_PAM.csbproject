@@ -18357,12 +18357,30 @@
       <SampleCount>13990</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
+      <Name>Synth/2000000_player/2002000_PLY_SD_GE/chaoslance_max</Name>
+      <Intro>08_chaoslance_max.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>2</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>48000</SampleRate>
+      <SampleCount>263106</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_008_fst_wlk_drt_1_aif</Name>
       <Intro>Synth_2000000_player_2002000_PLY_SNC_GE_2002_008_fst_wlk_drt_1_aif_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
       <SampleCount>17084</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth/2000000_player/2002000_PLY_SD_GE/chaoslance_hit</Name>
+      <Intro>09_chaoslance_hit.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>2</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>48000</SampleRate>
+      <SampleCount>324040</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/2000000_player/2002000_PLY_SNC_GE/2002_008_fst_wlk_drt_2_aif</Name>
