@@ -1048,7 +1048,7 @@
         <string>SFX/switch_on_m/switch_on_m</string>
       </Children>
       <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1127,7 +1127,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/switch_on_m</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1207,7 +1207,8 @@
       <Children>
         <string>SFX/switch_off_m/switch_off_m</string>
       </Children>
-      <Volume>1000</Volume>
+      <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1286,7 +1287,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/switch_off_m</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1366,7 +1367,8 @@
       <Children>
         <string>SFX/switch_count/switch_count_m</string>
       </Children>
-      <Volume>1000</Volume>
+      <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1445,7 +1447,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/switch_count_m</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1525,7 +1527,8 @@
       <Children>
         <string>SFX/roal_stone/roal_stone</string>
       </Children>
-      <Volume>1000</Volume>
+      <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1604,7 +1607,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/roal_stone</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1684,7 +1687,8 @@
       <Children>
         <string>SFX/roal_metal/roal_metal</string>
       </Children>
-      <Volume>1000</Volume>
+      <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1763,7 +1767,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/roal_metal</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1845,7 +1849,8 @@
         <string>SFX/contact_stone/contact_stone_B</string>
         <string>SFX/contact_stone/contact_stone_C</string>
       </Children>
-      <Volume>1000</Volume>
+      <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1924,7 +1929,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/contact_stone</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2003,7 +2008,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/contact_stone_B</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2082,7 +2087,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/contact_stone_C</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2162,7 +2167,8 @@
       <Children>
         <string>SFX/contact_metal/contact_metal</string>
       </Children>
-      <Volume>1000</Volume>
+      <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2241,7 +2247,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/contact_metal</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2323,7 +2329,8 @@
         <string>SFX/contact_wood/contact_wood_B</string>
         <string>SFX/contact_wood/contact_wood_C</string>
       </Children>
-      <Volume>1000</Volume>
+      <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2402,7 +2409,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/contact_wood</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2481,7 +2488,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/contact_wood_B</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2560,7 +2567,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/contact_wood_C</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2640,7 +2647,8 @@
       <Children>
         <string>SFX/laser/laser</string>
       </Children>
-      <Volume>1000</Volume>
+      <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
+      <Volume>400</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2719,7 +2727,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/laser</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>400</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2799,7 +2807,8 @@
       <Children>
         <string>SFX/laser_off/laser_off</string>
       </Children>
-      <Volume>1000</Volume>
+      <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
+      <Volume>400</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2878,7 +2887,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/laser_off</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>400</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2958,7 +2967,8 @@
       <Children>
         <string>SFX/laser_move/laser_move</string>
       </Children>
-      <Volume>1000</Volume>
+      <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
+      <Volume>400</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3037,7 +3047,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/laser_move</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>400</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3117,7 +3127,8 @@
       <Children>
         <string>SFX/brk_stone/brk_stone</string>
       </Children>
-      <Volume>1000</Volume>
+      <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3196,7 +3207,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/brk_stone</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3277,7 +3288,8 @@
         <string>SFX/brk_metal/brk_metal</string>
         <string>SFX/brk_metal/brk_metal_B</string>
       </Children>
-      <Volume>1000</Volume>
+      <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3356,7 +3368,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/brk_metal</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3435,7 +3447,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/brk_metal_B</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3516,6 +3528,7 @@
         <string>SFX/brk_wood/brk_wood</string>
         <string>SFX/brk_wood/brk_wood_B</string>
       </Children>
+      <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
       <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
@@ -3754,7 +3767,8 @@
       <Children>
         <string>SFX/item_appear/item_appear</string>
       </Children>
-      <Volume>1000</Volume>
+      <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3833,7 +3847,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/item_appear</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4465,6 +4479,99 @@
             </BuilderAisacPointNode>
             <BuilderAisacPointNode>
               <Name>Point2</Name>
+              <X>10000</X>
+              <Y>0</Y>
+            </BuilderAisacPointNode>
+          </Points>
+        </BuilderAisacGraphNode>
+      </Graphs>
+      <RandomRange>0</RandomRange>
+    </BuilderAisacNode>
+    <BuilderAisacNode>
+      <Name>Globals/Aisac/rolloff_000</Name>
+      <AisacName>distance</AisacName>
+      <Type>0</Type>
+      <Graphs>
+        <BuilderAisacGraphNode>
+          <Name>Graph0</Name>
+          <Type>0</Type>
+          <MaximumX>1</MaximumX>
+          <MinimumX>0</MinimumX>
+          <MaximumY>1</MaximumY>
+          <MinimumY>0</MinimumY>
+          <Points>
+            <BuilderAisacPointNode>
+              <Name>Point0</Name>
+              <X>0</X>
+              <Y>10000</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point1</Name>
+              <X>309</X>
+              <Y>9568</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point2</Name>
+              <X>900</X>
+              <Y>1550</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point3</Name>
+              <X>1669</X>
+              <Y>0</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point4</Name>
+              <X>10000</X>
+              <Y>0</Y>
+            </BuilderAisacPointNode>
+          </Points>
+        </BuilderAisacGraphNode>
+        <BuilderAisacGraphNode>
+          <Name>Graph1</Name>
+          <Type>4</Type>
+          <MaximumX>1</MaximumX>
+          <MinimumX>0</MinimumX>
+          <MaximumY>1</MaximumY>
+          <MinimumY>0</MinimumY>
+          <Points>
+            <BuilderAisacPointNode>
+              <Name>Point0</Name>
+              <X>0</X>
+              <Y>10000</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point1</Name>
+              <X>379</X>
+              <Y>7484</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point2</Name>
+              <X>1609</X>
+              <Y>15</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point3</Name>
+              <X>10000</X>
+              <Y>0</Y>
+            </BuilderAisacPointNode>
+          </Points>
+        </BuilderAisacGraphNode>
+        <BuilderAisacGraphNode>
+          <Name>Graph2</Name>
+          <Type>3</Type>
+          <MaximumX>1</MaximumX>
+          <MinimumX>0</MinimumX>
+          <MaximumY>0</MaximumY>
+          <MinimumY>0</MinimumY>
+          <Points>
+            <BuilderAisacPointNode>
+              <Name>Point0</Name>
+              <X>0</X>
+              <Y>0</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point1</Name>
               <X>10000</X>
               <Y>0</Y>
             </BuilderAisacPointNode>
