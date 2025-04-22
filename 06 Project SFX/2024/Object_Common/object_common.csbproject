@@ -3,48 +3,57 @@
   <Name>object_common</Name>
   <CueNodes>
     <BuilderCueNode>
-      <Name>Cue_0</Name>
+      <Name>woodbox_exp</Name>
       <Id>56710900</Id>
+      <SynthReference>SFX/woodbox_exp</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_1</Name>
+      <Name>jamppanel0_monoB</Name>
       <Id>56710901</Id>
+      <SynthReference>SFX/jamppanel0_monoB</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_2</Name>
+      <Name>hint</Name>
       <Id>56710902</Id>
+      <SynthReference>SFX/hint</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_3</Name>
+      <Name>wind_lp3</Name>
       <Id>56710903</Id>
+      <SynthReference>SFX/wind_lp3</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_4</Name>
+      <Name>laser_gateLP_m</Name>
       <Id>56710904</Id>
+      <SynthReference>SFX/laser_gateLP_m</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_5</Name>
+      <Name>key_get_m</Name>
       <Id>56710905</Id>
+      <SynthReference>SFX/key_get_m</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_6</Name>
+      <Name>switch_on_m</Name>
       <Id>56710906</Id>
+      <SynthReference>SFX/switch_on_m</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_7</Name>
+      <Name>switch_off_m</Name>
       <Id>56710907</Id>
+      <SynthReference>SFX/switch_off_m</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
-      <Name>Cue_8</Name>
+      <Name>switch_count</Name>
       <Id>56710908</Id>
+      <SynthReference>SFX/switch_count</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
