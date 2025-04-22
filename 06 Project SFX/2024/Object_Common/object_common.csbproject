@@ -36,7 +36,7 @@
       <Name>laser_gateLP_m</Name>
       <Id>56710904</Id>
       <SynthReference>SFX/laser_gateLP_m</SynthReference>
-      <Flags>0</Flags>
+      <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>key_get_m</Name>
