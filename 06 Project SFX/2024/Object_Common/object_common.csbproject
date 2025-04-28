@@ -5558,12 +5558,12 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/laser_gateLP_m</Name>
-      <Intro>21_laser_gateLP_m.wav_Intro.adx</Intro>
-      <Loop>21_laser_gateLP_m.wav_Loop.adx</Loop>
+      <Intro>Synth_02_object_01_obj_sonic_01_stage_new_07_sea_12_objes_sea_pierbreak_sign_aif.adx</Intro>
+      <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>44100</SampleRate>
-      <SampleCount>47911</SampleCount>
+      <SampleRate>28000</SampleRate>
+      <SampleCount>30831</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/key_get_m</Name>
