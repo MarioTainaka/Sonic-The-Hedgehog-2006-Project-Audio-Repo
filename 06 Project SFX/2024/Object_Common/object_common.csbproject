@@ -946,7 +946,7 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
-      <VoiceLimitGroupReference>laser_gateLP_m</VoiceLimitGroupReference>
+      <VoiceLimitGroupReference />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -1266,6 +1266,7 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <VoiceLimitGroupReference>switch_on</VoiceLimitGroupReference>
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -1426,6 +1427,7 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <VoiceLimitGroupReference>switch_off</VoiceLimitGroupReference>
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -6102,7 +6104,11 @@
   </AisacNodes>
   <VoiceLimitGroupNodes>
     <BuilderVoiceLimitGroupNode>
-      <Name>laser_gateLP_m</Name>
+      <Name>switch_on</Name>
+      <MaxAmountOfInstances>2</MaxAmountOfInstances>
+    </BuilderVoiceLimitGroupNode>
+    <BuilderVoiceLimitGroupNode>
+      <Name>switch_off</Name>
       <MaxAmountOfInstances>2</MaxAmountOfInstances>
     </BuilderVoiceLimitGroupNode>
   </VoiceLimitGroupNodes>
