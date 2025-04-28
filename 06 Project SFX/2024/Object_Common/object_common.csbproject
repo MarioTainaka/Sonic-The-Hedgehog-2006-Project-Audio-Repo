@@ -60,19 +60,19 @@
       <Name>200600_switch_count</Name>
       <Id>200600008</Id>
       <SynthReference>SFX/switch_count</SynthReference>
-      <Flags>0</Flags>
+      <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>200600_roal_stone</Name>
       <Id>200600009</Id>
       <SynthReference>SFX/roal_stone</SynthReference>
-      <Flags>0</Flags>
+      <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>200600_roal_metal</Name>
       <Id>200600010</Id>
       <SynthReference>SFX/roal_metal</SynthReference>
-      <Flags>0</Flags>
+      <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>200600_contact_stone</Name>
@@ -108,7 +108,7 @@
       <Name>200600_laser_move</Name>
       <Id>200600016</Id>
       <SynthReference>SFX/laser_move</SynthReference>
-      <Flags>0</Flags>
+      <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>200600_brk_stone</Name>
@@ -118,7 +118,7 @@
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>200600_brk_wood</Name>
-      <Id>200600018</Id>
+      <Id>200600020</Id>
       <SynthReference>SFX/brk_wood</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
@@ -174,7 +174,7 @@
       <Name>200600_updownreel_on</Name>
       <Id>200600028</Id>
       <SynthReference>SFX/updownreel_on</SynthReference>
-      <Flags>0</Flags>
+      <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>200600_updownreel_off</Name>
