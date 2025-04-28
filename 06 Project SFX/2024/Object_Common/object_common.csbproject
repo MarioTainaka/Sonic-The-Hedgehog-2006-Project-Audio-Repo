@@ -915,7 +915,7 @@
         <string>SFX/laser_gateLP_m/laser_gateLP_m</string>
       </Children>
       <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
-      <Volume>1000</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -946,6 +946,7 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <VoiceLimitGroupReference>laser_gateLP_m</VoiceLimitGroupReference>
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -994,7 +995,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/laser_gateLP_m</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -6099,5 +6100,10 @@
       <RandomRange>0</RandomRange>
     </BuilderAisacNode>
   </AisacNodes>
-  <VoiceLimitGroupNodes />
+  <VoiceLimitGroupNodes>
+    <BuilderVoiceLimitGroupNode>
+      <Name>laser_gateLP_m</Name>
+      <MaxAmountOfInstances>2</MaxAmountOfInstances>
+    </BuilderVoiceLimitGroupNode>
+  </VoiceLimitGroupNodes>
 </CsbProject>
