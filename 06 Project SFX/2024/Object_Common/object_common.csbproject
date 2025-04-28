@@ -4,184 +4,184 @@
   <CueNodes>
     <BuilderCueNode>
       <Name>brk_metal</Name>
-      <Id>56710918</Id>
+      <Id>200600018</Id>
       <SynthReference>SFX/brk_metal</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>woodbox_exp</Name>
-      <Id>56710900</Id>
+      <Id>200600000</Id>
       <SynthReference>SFX/woodbox_exp</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>jamppanel0_monoB</Name>
-      <Id>56710901</Id>
+      <Id>200600001</Id>
       <SynthReference>SFX/jamppanel0_monoB</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>hint</Name>
-      <Id>56710902</Id>
+      <Id>200600002</Id>
       <SynthReference>SFX/hint</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>wind_lp3</Name>
-      <Id>56710903</Id>
+      <Id>200600003</Id>
       <SynthReference>SFX/wind_lp3</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>laser_gateLP_m</Name>
-      <Id>56710904</Id>
+      <Id>200600004</Id>
       <SynthReference>SFX/laser_gateLP_m</SynthReference>
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>key_get_m</Name>
-      <Id>56710905</Id>
+      <Id>200600005</Id>
       <SynthReference>SFX/key_get_m</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>switch_on_m</Name>
-      <Id>56710906</Id>
+      <Id>200600006</Id>
       <SynthReference>SFX/switch_on_m</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>switch_off_m</Name>
-      <Id>56710907</Id>
+      <Id>200600007</Id>
       <SynthReference>SFX/switch_off_m</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>switch_count</Name>
-      <Id>56710908</Id>
+      <Id>200600008</Id>
       <SynthReference>SFX/switch_count</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>roal_stone</Name>
-      <Id>56710909</Id>
+      <Id>200600009</Id>
       <SynthReference>SFX/roal_stone</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>roal_metal</Name>
-      <Id>56710910</Id>
+      <Id>200600010</Id>
       <SynthReference>SFX/roal_metal</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>contact_stone</Name>
-      <Id>56710911</Id>
+      <Id>200600011</Id>
       <SynthReference>SFX/contact_stone</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>contact_metal</Name>
-      <Id>56710912</Id>
+      <Id>200600012</Id>
       <SynthReference>SFX/contact_metal</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>contact_wood</Name>
-      <Id>56710913</Id>
+      <Id>200600013</Id>
       <SynthReference>SFX/contact_wood</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>laser</Name>
-      <Id>56710914</Id>
+      <Id>200600014</Id>
       <SynthReference>SFX/laser</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>laser_off</Name>
-      <Id>56710915</Id>
+      <Id>200600015</Id>
       <SynthReference>SFX/laser_off</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>laser_move</Name>
-      <Id>56710916</Id>
+      <Id>200600016</Id>
       <SynthReference>SFX/laser_move</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>brk_stone</Name>
-      <Id>56710917</Id>
+      <Id>200600017</Id>
       <SynthReference>SFX/brk_stone</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>brk_wood</Name>
-      <Id>56710919</Id>
+      <Id>200600018</Id>
       <SynthReference>SFX/brk_wood</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>item_appear</Name>
-      <Id>56710920</Id>
+      <Id>200600019</Id>
       <SynthReference>SFX/item_appear</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>bombbox</Name>
-      <Id>56710921</Id>
+      <Id>200600021</Id>
       <SynthReference>SFX/8003_035_bombbox</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>itembox</Name>
-      <Id>56710922</Id>
+      <Id>200600022</Id>
       <SynthReference>SFX/tembox</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>pole</Name>
-      <Id>56710923</Id>
+      <Id>200600023</Id>
       <SynthReference>SFX/pole</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>chaosdrive</Name>
-      <Id>56710924</Id>
+      <Id>200600024</Id>
       <SynthReference>SFX/chaosdrive</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>lightcore_get</Name>
-      <Id>56710925</Id>
+      <Id>200600025</Id>
       <SynthReference>SFX/lightcore_get</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>lightcore_LP_m</Name>
-      <Id>56710926</Id>
+      <Id>200600026</Id>
       <SynthReference>SFX/lightcore_LP_m</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>Cue_27</Name>
-      <Id>56710927</Id>
+      <Id>200600027</Id>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>Cue_28</Name>
-      <Id>56710928</Id>
+      <Id>200600028</Id>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>Cue_29</Name>
-      <Id>56710929</Id>
+      <Id>200600029</Id>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>Cue_30</Name>
-      <Id>56710930</Id>
+      <Id>200600030</Id>
       <Flags>0</Flags>
     </BuilderCueNode>
   </CueNodes>
