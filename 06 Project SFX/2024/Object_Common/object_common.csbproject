@@ -96,7 +96,7 @@
       <Name>200600_laser</Name>
       <Id>200600014</Id>
       <SynthReference>SFX/laser</SynthReference>
-      <Flags>0</Flags>
+      <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>200600_laser_off</Name>
@@ -2838,7 +2838,7 @@
       <Children>
         <string>SFX/laser/laser</string>
       </Children>
-      <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
+      <AisacReference>Globals/Aisac/rolloff_laser</AisacReference>
       <Volume>400</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
@@ -2998,7 +2998,7 @@
       <Children>
         <string>SFX/laser_off/laser_off</string>
       </Children>
-      <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
+      <AisacReference>Globals/Aisac/rolloff_laser</AisacReference>
       <Volume>400</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
@@ -3158,7 +3158,7 @@
       <Children>
         <string>SFX/laser_move/laser_move</string>
       </Children>
-      <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
+      <AisacReference>Globals/Aisac/rolloff_laser</AisacReference>
       <Volume>400</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
@@ -6095,6 +6095,74 @@
             </BuilderAisacPointNode>
             <BuilderAisacPointNode>
               <Name>Point1</Name>
+              <X>10000</X>
+              <Y>0</Y>
+            </BuilderAisacPointNode>
+          </Points>
+        </BuilderAisacGraphNode>
+      </Graphs>
+      <RandomRange>0</RandomRange>
+    </BuilderAisacNode>
+    <BuilderAisacNode>
+      <Name>Globals/Aisac/rolloff_laser</Name>
+      <AisacName>distance</AisacName>
+      <Type>0</Type>
+      <Graphs>
+        <BuilderAisacGraphNode>
+          <Name>Graph0</Name>
+          <Type>0</Type>
+          <MaximumX>1</MaximumX>
+          <MinimumX>0</MinimumX>
+          <MaximumY>1</MaximumY>
+          <MinimumY>0</MinimumY>
+          <Points>
+            <BuilderAisacPointNode>
+              <Name>Point0</Name>
+              <X>0</X>
+              <Y>10000</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point1</Name>
+              <X>489</X>
+              <Y>9110</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point2</Name>
+              <X>1190</X>
+              <Y>1895</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point3</Name>
+              <X>2319</X>
+              <Y>0</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point4</Name>
+              <X>10000</X>
+              <Y>0</Y>
+            </BuilderAisacPointNode>
+          </Points>
+        </BuilderAisacGraphNode>
+        <BuilderAisacGraphNode>
+          <Name>Graph1</Name>
+          <Type>23</Type>
+          <MaximumX>1</MaximumX>
+          <MinimumX>0</MinimumX>
+          <MaximumY>1</MaximumY>
+          <MinimumY>0</MinimumY>
+          <Points>
+            <BuilderAisacPointNode>
+              <Name>Point0</Name>
+              <X>0</X>
+              <Y>10000</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point1</Name>
+              <X>3740</X>
+              <Y>0</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point2</Name>
               <X>10000</X>
               <Y>0</Y>
             </BuilderAisacPointNode>
