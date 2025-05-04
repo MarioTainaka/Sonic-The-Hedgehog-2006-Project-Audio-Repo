@@ -2998,7 +2998,7 @@
       <Children>
         <string>SFX/laser_off/laser_off</string>
       </Children>
-      <AisacReference>Globals/Aisac/rolloff_laser</AisacReference>
+      <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
       <Volume>400</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
