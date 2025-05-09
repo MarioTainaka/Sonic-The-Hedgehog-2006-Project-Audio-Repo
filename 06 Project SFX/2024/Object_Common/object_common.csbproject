@@ -2998,7 +2998,7 @@
       <Children>
         <string>SFX/laser_off/laser_off</string>
       </Children>
-      <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
+      <AisacReference>Globals/Aisac/rolloff_laser_off</AisacReference>
       <Volume>400</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
@@ -3158,7 +3158,7 @@
       <Children>
         <string>SFX/laser_move/laser_move</string>
       </Children>
-      <AisacReference>Globals/Aisac/rolloff_laser</AisacReference>
+      <AisacReference>Globals/Aisac/rolloff_laser_move</AisacReference>
       <Volume>400</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
@@ -6163,6 +6163,82 @@
             </BuilderAisacPointNode>
             <BuilderAisacPointNode>
               <Name>Point2</Name>
+              <X>10000</X>
+              <Y>0</Y>
+            </BuilderAisacPointNode>
+          </Points>
+        </BuilderAisacGraphNode>
+      </Graphs>
+      <RandomRange>0</RandomRange>
+    </BuilderAisacNode>
+    <BuilderAisacNode>
+      <Name>Globals/Aisac/rolloff_laser_off</Name>
+      <AisacName>distance</AisacName>
+      <Type>0</Type>
+      <Graphs>
+        <BuilderAisacGraphNode>
+          <Name>Graph0</Name>
+          <Type>0</Type>
+          <MaximumX>1</MaximumX>
+          <MinimumX>0</MinimumX>
+          <MaximumY>1</MaximumY>
+          <MinimumY>0</MinimumY>
+          <Points>
+            <BuilderAisacPointNode>
+              <Name>Point0</Name>
+              <X>0</X>
+              <Y>10000</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point1</Name>
+              <X>1199</X>
+              <Y>2732</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point2</Name>
+              <X>3389</X>
+              <Y>0</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point3</Name>
+              <X>10000</X>
+              <Y>0</Y>
+            </BuilderAisacPointNode>
+          </Points>
+        </BuilderAisacGraphNode>
+      </Graphs>
+      <RandomRange>0</RandomRange>
+    </BuilderAisacNode>
+    <BuilderAisacNode>
+      <Name>Globals/Aisac/rolloff_laser_move</Name>
+      <AisacName>distance</AisacName>
+      <Type>0</Type>
+      <Graphs>
+        <BuilderAisacGraphNode>
+          <Name>Graph0</Name>
+          <Type>0</Type>
+          <MaximumX>1</MaximumX>
+          <MinimumX>0</MinimumX>
+          <MaximumY>1</MaximumY>
+          <MinimumY>0</MinimumY>
+          <Points>
+            <BuilderAisacPointNode>
+              <Name>Point0</Name>
+              <X>0</X>
+              <Y>10000</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point1</Name>
+              <X>1199</X>
+              <Y>2732</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point2</Name>
+              <X>3389</X>
+              <Y>0</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point3</Name>
               <X>10000</X>
               <Y>0</Y>
             </BuilderAisacPointNode>
