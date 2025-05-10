@@ -4,85 +4,85 @@
   <CueNodes>
     <BuilderCueNode>
       <Name>all02_a00_sn</Name>
-      <Id>3006001</Id>
+      <Id>300600001</Id>
       <SynthReference>Synth/all02_a00_sn</SynthReference>
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>all02_a00ps_sn</Name>
-      <Id>3006002</Id>
+      <Id>300600002</Id>
       <SynthReference>Synth/all02_a00ps_sn</SynthReference>
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>all03_h00_so</Name>
-      <Id>3006003</Id>
+      <Id>300600003</Id>
       <SynthReference>Synth/all03_h00_so</SynthReference>
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>all03_h00ps_so</Name>
-      <Id>3006004</Id>
+      <Id>300600004</Id>
       <SynthReference>Synth/all03_h00ps_so</SynthReference>
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>all03_h06_so</Name>
-      <Id>3006005</Id>
+      <Id>300600005</Id>
       <SynthReference>Synth/all03_h06_so</SynthReference>
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>all03_h06ps_so</Name>
-      <Id>3006006</Id>
+      <Id>300600006</Id>
       <SynthReference>Synth/all03_h06ps_so</SynthReference>
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>all03_h08_so</Name>
-      <Id>3006007</Id>
+      <Id>300600007</Id>
       <SynthReference>Synth/all03_h08_so</SynthReference>
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>all03_h08ps_so</Name>
-      <Id>3006008</Id>
+      <Id>300600008</Id>
       <SynthReference>Synth/all03_h08ps_so</SynthReference>
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>all03_h21_so</Name>
-      <Id>3006009</Id>
+      <Id>300600009</Id>
       <SynthReference>Synth/all03_h21_so</SynthReference>
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>all03_h21ps_so</Name>
-      <Id>3006010</Id>
+      <Id>300600010</Id>
       <SynthReference>Synth/all03_h21ps_so</SynthReference>
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>all03_h26_so</Name>
-      <Id>3006011</Id>
+      <Id>300600011</Id>
       <SynthReference>Synth/all03_h26_so</SynthReference>
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>all03_h26ps_so</Name>
-      <Id>3006012</Id>
+      <Id>300600012</Id>
       <SynthReference>Synth/all03_h26ps_so</SynthReference>
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>all03_h30_so</Name>
-      <Id>3006013</Id>
+      <Id>300600013</Id>
       <SynthReference>Synth/all03_h30_so</SynthReference>
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>all03_h30ps_so</Name>
-      <Id>3006014</Id>
+      <Id>300600014</Id>
       <SynthReference>Synth/all03_h30ps_so</SynthReference>
       <Flags>1</Flags>
     </BuilderCueNode>
