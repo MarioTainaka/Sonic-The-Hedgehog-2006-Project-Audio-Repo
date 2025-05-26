@@ -1,7 +1,50 @@
 <?xml version="1.0"?>
 <CsbProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>vehicle_common</Name>
-  <CueNodes />
+  <CueNodes>
+    <BuilderCueNode>
+      <Name>200612_jetglider_take_off</Name>
+      <Id>200612000</Id>
+      <SynthReference>SFX/gadjet_jetglider/take_off</SynthReference>
+      <Flags>0</Flags>
+    </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>200612_jetglider_fly</Name>
+      <Id>200612001</Id>
+      <SynthReference>SFX/gadjet_jetglider/fly</SynthReference>
+      <Flags>1</Flags>
+    </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>200612_jetglider_curve</Name>
+      <Id>200612002</Id>
+      <SynthReference>SFX/gadjet_jetglider/curve</SynthReference>
+      <Flags>1</Flags>
+    </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>200612_jetglider_jet</Name>
+      <Id>200612003</Id>
+      <SynthReference>SFX/gadjet_jetglider/jet</SynthReference>
+      <Flags>0</Flags>
+    </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>200612_jetglider_crash</Name>
+      <Id>200612004</Id>
+      <SynthReference>SFX/gadjet_jetglider/crash</SynthReference>
+      <Flags>0</Flags>
+    </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>200612_jetglider_missile_reload</Name>
+      <Id>200612005</Id>
+      <SynthReference>SFX/gadjet_jetglider/missile_reload</SynthReference>
+      <Flags>0</Flags>
+    </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>200612_jetglider_missile_launch</Name>
+      <Id>200612006</Id>
+      <SynthReference>SFX/gadjet_jetglider/missile_launch</SynthReference>
+      <Flags>0</Flags>
+    </BuilderCueNode>
+  </CueNodes>
   <SynthNodes>
     <BuilderSynthNode>
       <Name>SFX/gadjet_jetglider/take_off</Name>
@@ -9,6 +52,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/gadjet_jetglider/take_off</SoundElementReference>
       <Children />
+      <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
       <Volume>500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
@@ -91,6 +135,7 @@
         <string>SFX/gadjet_jetglider/fly/fly02</string>
         <string>SFX/gadjet_jetglider/fly/fry00</string>
       </Children>
+      <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
       <Volume>1000</Volume>
       <Pitch>60</Pitch>
       <DelayTime>0</DelayTime>
@@ -407,6 +452,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/gadjet_jetglider/curve</SoundElementReference>
       <Children />
+      <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
       <Volume>550</Volume>
       <Pitch>330</Pitch>
       <DelayTime>0</DelayTime>
@@ -486,6 +532,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/gadjet_jetglider/jet</SoundElementReference>
       <Children />
+      <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
       <Volume>1000</Volume>
       <Pitch>270</Pitch>
       <DelayTime>0</DelayTime>
@@ -565,6 +612,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/gadjet_jetglider/crash</SoundElementReference>
       <Children />
+      <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
       <Volume>500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
@@ -644,6 +692,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/gadjet_jetglider/missile_reload</SoundElementReference>
       <Children />
+      <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
       <Volume>400</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
@@ -723,6 +772,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/gadjet_jetglider/missile_launch</SoundElementReference>
       <Children />
+      <AisacReference>Globals/Aisac/rolloff_dummy</AisacReference>
       <Volume>400</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
@@ -880,6 +930,35 @@
       <SampleCount>101077</SampleCount>
     </BuilderSoundElementNode>
   </SoundElementNodes>
-  <AisacNodes />
+  <AisacNodes>
+    <BuilderAisacNode>
+      <Name>Globals/Aisac/rolloff_dummy</Name>
+      <AisacName>distance</AisacName>
+      <Type>0</Type>
+      <Graphs>
+        <BuilderAisacGraphNode>
+          <Name>Graph0</Name>
+          <Type>0</Type>
+          <MaximumX>1</MaximumX>
+          <MinimumX>0</MinimumX>
+          <MaximumY>1</MaximumY>
+          <MinimumY>0.913973</MinimumY>
+          <Points>
+            <BuilderAisacPointNode>
+              <Name>Point0</Name>
+              <X>0</X>
+              <Y>10000</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point1</Name>
+              <X>10000</X>
+              <Y>0</Y>
+            </BuilderAisacPointNode>
+          </Points>
+        </BuilderAisacGraphNode>
+      </Graphs>
+      <RandomRange>0</RandomRange>
+    </BuilderAisacNode>
+  </AisacNodes>
   <VoiceLimitGroupNodes />
 </CsbProject>
