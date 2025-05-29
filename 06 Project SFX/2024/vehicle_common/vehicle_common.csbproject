@@ -613,7 +613,7 @@
       <SoundElementReference>SFX/gadjet_jetglider/crash</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/rolloff_glider</AisacReference>
-      <Volume>500</Volume>
+      <Volume>460</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -694,7 +694,7 @@
       <SoundElementReference>SFX/gadjet_jetglider/missile_reload</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/rolloff_glider</AisacReference>
-      <Volume>400</Volume>
+      <Volume>550</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -774,7 +774,7 @@
       <SoundElementReference>SFX/gadjet_jetglider/missile_launch</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/rolloff_glider</AisacReference>
-      <Volume>400</Volume>
+      <Volume>700</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
