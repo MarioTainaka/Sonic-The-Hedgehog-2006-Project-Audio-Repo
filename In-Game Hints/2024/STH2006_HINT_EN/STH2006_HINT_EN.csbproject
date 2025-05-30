@@ -4628,10 +4628,9 @@
       <SynthReference>Synth/all08_h02_so</SynthReference>
       <Flags>1</Flags>
     </BuilderCueNode>
-
   </CueNodes>
   <SynthNodes>
-       <BuilderSynthNode>
+    <BuilderSynthNode>
       <Name>Synth/all01_a00_am</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
@@ -65541,7 +65540,6 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
   </SynthNodes>
-  
   <SoundElementNodes>
     <BuilderSoundElementNode>
       <Name>VO_EN/all02_a00_sn</Name>
