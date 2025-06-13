@@ -954,6 +954,13 @@
       <SampleCount>228890</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
+      <Name>SFX/gadjet_hover/gadjet_hover_0</Name>
+      <ChannelCount>0</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>0</SampleRate>
+      <SampleCount>0</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
       <Name>SFX/gadjet_jetglider/fly01</Name>
       <Intro />
       <Loop>01_fly01.aif_Loop.adx</Loop>
@@ -961,6 +968,13 @@
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
       <SampleCount>226160</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>SFX/gadjet_hover/gadjet_hover_1</Name>
+      <ChannelCount>0</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>0</SampleRate>
+      <SampleCount>0</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/gadjet_jetglider/fly02</Name>
@@ -972,6 +986,13 @@
       <SampleCount>813304</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
+      <Name>SFX/gadjet_hover/gadjet_hover_2</Name>
+      <ChannelCount>0</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>0</SampleRate>
+      <SampleCount>0</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
       <Name>SFX/gadjet_jetglider/fry00</Name>
       <Intro>01_fry00.aif_Intro.adx</Intro>
       <Loop>01_fry00.aif_Loop.adx</Loop>
@@ -979,6 +1000,13 @@
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
       <SampleCount>238104</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>SFX/gadjet_hover/gadjet_hover_3</Name>
+      <ChannelCount>0</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>0</SampleRate>
+      <SampleCount>0</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/gadjet_jetglider/curve</Name>
@@ -990,6 +1018,13 @@
       <SampleCount>191838</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
+      <Name>SFX/gadjet_hover/gadjet_hover_4</Name>
+      <ChannelCount>0</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>0</SampleRate>
+      <SampleCount>0</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
       <Name>SFX/gadjet_jetglider/jet</Name>
       <Intro>03_jet.aif_Intro.adx</Intro>
       <Loop />
@@ -997,6 +1032,13 @@
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
       <SampleCount>201254</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>SFX/gadjet_hover/gadjet_hover_5</Name>
+      <ChannelCount>0</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>0</SampleRate>
+      <SampleCount>0</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/gadjet_jetglider/crash</Name>
@@ -1008,6 +1050,13 @@
       <SampleCount>58616</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
+      <Name>SFX/gadjet_hover/gadjet_hover_6</Name>
+      <ChannelCount>0</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>0</SampleRate>
+      <SampleCount>0</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
       <Name>SFX/gadjet_jetglider/missile_reload</Name>
       <Intro>05_missile_reload.aif_Intro.adx</Intro>
       <Loop />
@@ -1017,6 +1066,13 @@
       <SampleCount>25260</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
+      <Name>SFX/gadjet_hover/gadjet_hover_7</Name>
+      <ChannelCount>0</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>0</SampleRate>
+      <SampleCount>0</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
       <Name>SFX/gadjet_jetglider/missile_launch</Name>
       <Intro>06_missile_launch.aif_Intro.adx</Intro>
       <Loop />
@@ -1024,6 +1080,20 @@
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
       <SampleCount>101077</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>SFX/gadjet_hover/gadjet_hover_8</Name>
+      <ChannelCount>0</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>0</SampleRate>
+      <SampleCount>0</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>SFX/gadjet_hover/gadjet_hover_9</Name>
+      <ChannelCount>0</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>0</SampleRate>
+      <SampleCount>0</SampleCount>
     </BuilderSoundElementNode>
   </SoundElementNodes>
   <AisacNodes>
