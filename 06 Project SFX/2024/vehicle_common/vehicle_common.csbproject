@@ -954,11 +954,13 @@
       <SampleCount>228890</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/gadjet_hover/gadjet_hover_0</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/gadjet_hover/accel</Name>
+      <Intro>00_accel.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>100744</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/gadjet_jetglider/fly01</Name>
@@ -970,11 +972,13 @@
       <SampleCount>226160</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/gadjet_hover/gadjet_hover_1</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/gadjet_hover/float00</Name>
+      <Intro />
+      <Loop>01_float00.aif_Loop.adx</Loop>
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>126792</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/gadjet_jetglider/fly02</Name>
@@ -986,11 +990,13 @@
       <SampleCount>813304</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/gadjet_hover/gadjet_hover_2</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/gadjet_hover/hover01</Name>
+      <Intro />
+      <Loop>02_hover01.aif_Loop.adx</Loop>
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>36720</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/gadjet_jetglider/fry00</Name>
@@ -1002,11 +1008,13 @@
       <SampleCount>238104</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/gadjet_hover/gadjet_hover_3</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/gadjet_hover/jump</Name>
+      <Intro>03_jump.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>217540</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/gadjet_jetglider/curve</Name>
@@ -1018,11 +1026,13 @@
       <SampleCount>191838</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/gadjet_hover/gadjet_hover_4</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/gadjet_hover/brake</Name>
+      <Intro>04_brake.aif_Intro.adx</Intro>
+      <Loop>04_brake.aif_Loop.adx</Loop>
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>135460</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/gadjet_jetglider/jet</Name>
@@ -1034,11 +1044,13 @@
       <SampleCount>201254</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/gadjet_hover/gadjet_hover_5</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/gadjet_hover/back</Name>
+      <Intro>05_back.aif_Loop.adx</Intro>
+      <Loop />
+      <ChannelCount>2</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>570860</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/gadjet_jetglider/crash</Name>
@@ -1050,11 +1062,13 @@
       <SampleCount>58616</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/gadjet_hover/gadjet_hover_6</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/gadjet_hover/crash</Name>
+      <Intro>06_crash.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>2</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>58616</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/gadjet_jetglider/missile_reload</Name>
@@ -1066,11 +1080,13 @@
       <SampleCount>25260</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/gadjet_hover/gadjet_hover_7</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/gadjet_hover/land</Name>
+      <Intro>07_land.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>77055</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/gadjet_jetglider/missile_launch</Name>
@@ -1082,18 +1098,13 @@
       <SampleCount>101077</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/gadjet_hover/gadjet_hover_8</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/gadjet_hover/vulcan_reload</Name>
+      <Intro>08_vulcan_reload.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
-      <Name>SFX/gadjet_hover/gadjet_hover_9</Name>
-      <ChannelCount>0</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>33456</SampleCount>
     </BuilderSoundElementNode>
   </SoundElementNodes>
   <AisacNodes>
