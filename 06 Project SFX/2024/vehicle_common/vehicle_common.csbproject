@@ -748,7 +748,7 @@
       <SoundElementReference>SFX/gadjet_jetglider/missile_reload</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/rolloff_glider</AisacReference>
-      <Volume>400</Volume>
+      <Volume>500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1794,7 +1794,7 @@
         <string>SFX/gadjet_gattling/gadjet_gattling/gadjet_gatling_3</string>
       </Children>
       <AisacReference>Globals/Aisac/rolloff_hover</AisacReference>
-      <Volume>800</Volume>
+      <Volume>700</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1873,7 +1873,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/gadjet_gatling/gadjet_gatling_1</SoundElementReference>
       <Children />
-      <Volume>800</Volume>
+      <Volume>700</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1952,7 +1952,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/gadjet_gatling/gadjet_gatling_2</SoundElementReference>
       <Children />
-      <Volume>800</Volume>
+      <Volume>700</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2031,7 +2031,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/gadjet_gatling/gadjet_gatling_3</SoundElementReference>
       <Children />
-      <Volume>800</Volume>
+      <Volume>700</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
