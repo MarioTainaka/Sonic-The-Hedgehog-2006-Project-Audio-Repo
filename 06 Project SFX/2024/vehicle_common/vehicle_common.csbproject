@@ -2143,11 +2143,13 @@
       <SampleCount>44335</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/gadjet_bike/gadjet_bike_0</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/gadjet_bike/accel</Name>
+      <Intro>00_accel.aif_Intro_0.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>41420</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/gadjet_jetglider/fly01</Name>
@@ -2177,11 +2179,13 @@
       <SampleCount>45130</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/gadjet_bike/gadjet_bike_1</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/gadjet_bike/run1</Name>
+      <Intro>01_run1.aif_Intro.adx</Intro>
+      <Loop>01_run1.aif_Loop.adx</Loop>
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>73143</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/gadjet_jetglider/fly02</Name>
@@ -2211,11 +2215,13 @@
       <SampleCount>44062</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/gadjet_bike/gadjet_bike_2</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/gadjet_bike/run2</Name>
+      <Intro>02_run2.aif_Intro.adx</Intro>
+      <Loop>02_run2.aif_Loop.adx</Loop>
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>32306</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/gadjet_jetglider/fry00</Name>
@@ -2236,11 +2242,13 @@
       <SampleCount>217540</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/gadjet_bike/gadjet_bike_3</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/gadjet_bike/run2_eng</Name>
+      <Intro>02_run2_eng.aif_intro.adx</Intro>
+      <Loop>02_run2_eng.aif_Loop.adx</Loop>
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>38135</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/gadjet_jetglider/curve</Name>
@@ -2261,11 +2269,13 @@
       <SampleCount>135460</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/gadjet_bike/gadjet_bike_4</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/gadjet_bike/willy</Name>
+      <Intro>03_willy.aif_Intro.adx</Intro>
+      <Loop>03_willy.aif_Loop.adx</Loop>
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>143104</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/gadjet_jetglider/jet</Name>
@@ -2286,11 +2296,13 @@
       <SampleCount>570860</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/gadjet_bike/gadjet_bike_5</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/gadjet_bike/jump</Name>
+      <Intro>04_jump.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>46441</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/gadjet_jetglider/crash</Name>
@@ -2311,11 +2323,13 @@
       <SampleCount>58616</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/gadjet_bike/gadjet_bike_6</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/gadjet_bike/brake</Name>
+      <Intro>05_brake.aif_Intro.adx</Intro>
+      <Loop>05_brake.aif_Loop.adx</Loop>
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>99334</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/gadjet_jetglider/missile_reload</Name>
@@ -2336,11 +2350,13 @@
       <SampleCount>77055</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/gadjet_bike/gadjet_bike_7</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/gadjet_bike/back</Name>
+      <Intro>06_back.aif_Intro.adx</Intro>
+      <Loop>06_back.aif_Loop.adx</Loop>
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>95570</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/gadjet_jetglider/missile_launch</Name>
@@ -2361,39 +2377,31 @@
       <SampleCount>33456</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/gadjet_bike/gadjet_bike_8</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/gadjet_bike/clash</Name>
+      <Intro>07_clash.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>57456</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/gadjet_bike/gadjet_bike_9</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/gadjet_bike/land</Name>
+      <Intro>08_land.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>33497</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/gadjet_bike/gadjet_bike_10</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/gadjet_bike/vulcan_reload</Name>
+      <Intro>09_vulcan_reload.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
-      <Name>SFX/gadjet_bike/gadjet_bike_11</Name>
-      <ChannelCount>0</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
-      <Name>SFX/gadjet_bike/gadjet_bike_12</Name>
-      <ChannelCount>0</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>33456</SampleCount>
     </BuilderSoundElementNode>
   </SoundElementNodes>
   <AisacNodes>
