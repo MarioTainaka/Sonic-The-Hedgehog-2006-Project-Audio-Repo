@@ -149,7 +149,7 @@
       <SoundElementReference>SFX/monster_damage</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
-      <Volume>600</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -230,7 +230,7 @@
       <SoundElementReference>SFX/monster_smash</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
-      <Volume>600</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -310,7 +310,7 @@
       <SoundElementReference>SFX/monster_guard</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
-      <Volume>600</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -471,7 +471,7 @@
       <SoundElementReference>SFX/monster_collision</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
-      <Volume>600</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -551,7 +551,7 @@
       <SoundElementReference>SFX/monster_crash</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
-      <Volume>600</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -631,7 +631,7 @@
       <SoundElementReference>SFX/monster_guardbreak</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
-      <Volume>600</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -711,7 +711,7 @@
       <SoundElementReference>SFX/fire_bress</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
-      <Volume>600</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -791,7 +791,7 @@
       <SoundElementReference>SFX/fire_ball</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
-      <Volume>600</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -871,7 +871,7 @@
       <SoundElementReference>SFX/fire_explosion</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
-      <Volume>600</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -951,7 +951,7 @@
       <SoundElementReference>SFX/creep</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
-      <Volume>600</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1031,7 +1031,7 @@
       <SoundElementReference>SFX/spit</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
-      <Volume>600</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1111,7 +1111,7 @@
       <SoundElementReference>SFX/throw</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
-      <Volume>600</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1191,7 +1191,7 @@
       <SoundElementReference>SFX/darkexplosionS</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
-      <Volume>400</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1271,7 +1271,7 @@
       <SoundElementReference>SFX/darkexplosionL</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
-      <Volume>400</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1351,7 +1351,7 @@
       <SoundElementReference>SFX/darklaser_beam</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
-      <Volume>400</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1431,7 +1431,7 @@
       <SoundElementReference>SFX/chaos_ImpactS</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
-      <Volume>400</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1511,7 +1511,7 @@
       <SoundElementReference>SFX/chaos_ImpactM</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
-      <Volume>400</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1591,7 +1591,7 @@
       <SoundElementReference>SFX/chaos_ImpactL</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
-      <Volume>400</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1671,7 +1671,7 @@
       <SoundElementReference>SFX/explode_small</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
-      <Volume>400</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1751,7 +1751,7 @@
       <SoundElementReference>SFX/explode</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
-      <Volume>400</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1911,7 +1911,7 @@
       <SoundElementReference>SFX/explode_large</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
-      <Volume>400</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
