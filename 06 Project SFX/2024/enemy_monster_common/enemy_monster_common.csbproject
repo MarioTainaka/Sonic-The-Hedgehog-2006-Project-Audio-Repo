@@ -24,7 +24,7 @@
       <Name>monster_paralysis</Name>
       <Id>200614003</Id>
       <SynthReference />
-      <Flags>0</Flags>
+      <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>monster_transfer</Name>
@@ -54,7 +54,7 @@
       <Name>fire_bress</Name>
       <Id>200614008</Id>
       <SynthReference>SFX/fire_bress</SynthReference>
-      <Flags>0</Flags>
+      <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>fire_ball</Name>
