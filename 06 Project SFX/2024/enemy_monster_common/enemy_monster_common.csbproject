@@ -180,6 +180,7 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <VoiceLimitGroupReference>monster_damage</VoiceLimitGroupReference>
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -340,6 +341,7 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <VoiceLimitGroupReference>monster_guard</VoiceLimitGroupReference>
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -2227,5 +2229,14 @@
       <RandomRange>0</RandomRange>
     </BuilderAisacNode>
   </AisacNodes>
-  <VoiceLimitGroupNodes />
+  <VoiceLimitGroupNodes>
+    <BuilderVoiceLimitGroupNode>
+      <Name>monster_damage</Name>
+      <MaxAmountOfInstances>1</MaxAmountOfInstances>
+    </BuilderVoiceLimitGroupNode>
+    <BuilderVoiceLimitGroupNode>
+      <Name>monster_guard</Name>
+      <MaxAmountOfInstances>1</MaxAmountOfInstances>
+    </BuilderVoiceLimitGroupNode>
+  </VoiceLimitGroupNodes>
 </CsbProject>
