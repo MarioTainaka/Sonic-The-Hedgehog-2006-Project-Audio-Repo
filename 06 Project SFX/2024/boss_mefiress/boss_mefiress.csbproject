@@ -104,18 +104,103 @@
       <SampleCount>1049418</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/SFX_11</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/darkzone_erase</Name>
+      <Intro>11_darkzone_erase.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>2</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>337346</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
-      <Name>SFX/SFX_12</Name>
-      <ChannelCount>0</ChannelCount>
+      <Name>SFX/shadowdive</Name>
+      <Intro>12_shadowdive.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>0</SampleRate>
-      <SampleCount>0</SampleCount>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>24990</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>SFX/shadowcreep</Name>
+      <Intro>13_shadowcreep.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>2</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>115536</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>SFX/kyozoress_appear</Name>
+      <Intro />
+      <Loop>14_kyozoress_appear.aif_Loop.adx</Loop>
+      <ChannelCount>2</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>277942</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>SFX/kyozoress_cry</Name>
+      <Intro>15_kyozoress_cry.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>2</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>222836</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>SFX/kyozoress_dead</Name>
+      <Intro>16_kyozoress_dead.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>2</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>432252</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>SFX/kyozoress_roar</Name>
+      <Intro>17_kyozoress_roar.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>2</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>191722</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>SFX/kyozoress_wince</Name>
+      <Intro>18_kyozoress_wince.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>2</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>105424</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>SFX/kyozoress_aim</Name>
+      <Intro>19_kyozoress_aim.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>2</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>108984</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>SFX/kyozoress_airmdown</Name>
+      <Intro>20_kyozoress_airmdown.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>2</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>117354</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>SFX/omen_laser</Name>
+      <Intro>21_omen_laser.aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>2</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>338268</SampleCount>
     </BuilderSoundElementNode>
   </SoundElementNodes>
   <AisacNodes />
