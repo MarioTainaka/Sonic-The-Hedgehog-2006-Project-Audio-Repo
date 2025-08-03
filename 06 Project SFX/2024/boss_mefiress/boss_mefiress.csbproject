@@ -629,7 +629,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/dark_vulcan</SoundElementReference>
       <Children />
-      <AisacReference>Globals/Aisac/rolloff_000</AisacReference>
+      <AisacReference>Globals/Aisac/rolloff_001</AisacReference>
       <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
@@ -709,7 +709,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/darkball_ready</SoundElementReference>
       <Children />
-      <AisacReference>Globals/Aisac/rolloff_000</AisacReference>
+      <AisacReference>Globals/Aisac/rolloff_001</AisacReference>
       <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
@@ -789,7 +789,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/darkball_chase</SoundElementReference>
       <Children />
-      <AisacReference>Globals/Aisac/rolloff_000</AisacReference>
+      <AisacReference>Globals/Aisac/rolloff_001</AisacReference>
       <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
