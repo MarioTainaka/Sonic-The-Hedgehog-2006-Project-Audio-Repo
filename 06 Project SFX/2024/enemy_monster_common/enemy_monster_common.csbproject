@@ -6,138 +6,161 @@
       <Name>monster_damage</Name>
       <Id>200614000</Id>
       <SynthReference>SFX/monster_damage</SynthReference>
+      <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>monster_smash</Name>
       <Id>200614001</Id>
       <SynthReference>SFX/monster_smash</SynthReference>
+      <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>monster_guard</Name>
       <Id>200614002</Id>
       <SynthReference>SFX/monster_guard</SynthReference>
+      <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>monster_paralysis</Name>
       <Id>200614003</Id>
       <SynthReference>SFX/monster_paralysis</SynthReference>
+      <UserComment />
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>monster_transfer</Name>
       <Id>200614004</Id>
       <SynthReference>SFX/monster_transfer</SynthReference>
+      <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>monster_collision</Name>
       <Id>200614005</Id>
       <SynthReference>SFX/monster_collision</SynthReference>
+      <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>monster_crash</Name>
       <Id>200614006</Id>
       <SynthReference>SFX/monster_crash</SynthReference>
+      <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>monster_guardbreak</Name>
       <Id>200614007</Id>
       <SynthReference>SFX/monster_guardbreak</SynthReference>
+      <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>fire_bress</Name>
       <Id>200614008</Id>
       <SynthReference>SFX/fire_bress</SynthReference>
+      <UserComment />
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>fire_ball</Name>
       <Id>200614009</Id>
       <SynthReference>SFX/fire_ball</SynthReference>
+      <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>fire_explosion</Name>
       <Id>200614010</Id>
       <SynthReference>SFX/fire_explosion</SynthReference>
+      <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>creep</Name>
       <Id>200614011</Id>
       <SynthReference>SFX/creep</SynthReference>
+      <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>spit</Name>
       <Id>200614012</Id>
       <SynthReference>SFX/spit</SynthReference>
+      <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>throw</Name>
       <Id>200614013</Id>
       <SynthReference>SFX/throw</SynthReference>
+      <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>darkexplosionS</Name>
       <Id>200614014</Id>
       <SynthReference>SFX/darkexplosionS</SynthReference>
+      <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>darkexplosionL</Name>
       <Id>200614015</Id>
       <SynthReference>SFX/darkexplosionL</SynthReference>
+      <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>darklaser_beam</Name>
       <Id>200614016</Id>
       <SynthReference>SFX/darklaser_beam</SynthReference>
+      <UserComment />
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>chaos_ImpactS</Name>
       <Id>200614017</Id>
       <SynthReference>SFX/chaos_ImpactS</SynthReference>
+      <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>chaos_ImpactM</Name>
       <Id>200614018</Id>
       <SynthReference>SFX/chaos_ImpactM</SynthReference>
+      <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>chaos_ImpactL</Name>
       <Id>200614019</Id>
       <SynthReference>SFX/chaos_ImpactL</SynthReference>
+      <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>explode_small</Name>
       <Id>200614020</Id>
       <SynthReference>SFX/explode_small</SynthReference>
+      <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>explode</Name>
       <Id>200614021</Id>
       <SynthReference>SFX/explode</SynthReference>
+      <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>explode_large</Name>
       <Id>200614022</Id>
       <SynthReference>SFX/explode_large</SynthReference>
+      <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
   </CueNodes>
@@ -164,6 +187,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -172,6 +197,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -180,6 +206,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -244,6 +278,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -252,6 +288,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -260,6 +297,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -324,6 +369,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -332,6 +379,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -340,6 +388,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -404,6 +460,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -412,6 +470,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -420,6 +479,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -484,6 +551,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -492,6 +561,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -500,6 +570,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -564,6 +642,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -572,6 +652,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -580,6 +661,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -644,6 +733,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -652,6 +743,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -660,6 +752,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -724,6 +824,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -732,6 +834,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -740,6 +843,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -804,6 +915,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -812,6 +925,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -820,6 +934,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -884,6 +1006,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -892,6 +1016,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -900,6 +1025,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -964,6 +1097,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -972,6 +1107,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -980,6 +1116,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -1029,7 +1173,7 @@
       <SoundElementReference>SFX/darkexplosionS</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/dark_explosion_S</AisacReference>
-      <Volume>800</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1044,6 +1188,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -1052,6 +1198,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -1060,6 +1207,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -1109,7 +1264,7 @@
       <SoundElementReference>SFX/darkexplosionL</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/dark_explosion_L</AisacReference>
-      <Volume>800</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1124,6 +1279,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -1132,6 +1289,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -1140,6 +1298,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -1204,6 +1370,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -1212,6 +1380,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -1220,6 +1389,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -1269,7 +1446,7 @@
       <SoundElementReference>SFX/chaos_ImpactS</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
-      <Volume>800</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1284,6 +1461,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -1292,6 +1471,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -1300,6 +1480,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -1349,7 +1537,7 @@
       <SoundElementReference>SFX/chaos_ImpactM</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
-      <Volume>800</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1364,6 +1552,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -1372,6 +1562,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -1380,6 +1571,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -1429,7 +1628,7 @@
       <SoundElementReference>SFX/chaos_ImpactL</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
-      <Volume>800</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1444,6 +1643,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -1452,6 +1653,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -1460,6 +1662,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -1509,7 +1719,7 @@
       <SoundElementReference>SFX/explode_small</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
-      <Volume>800</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1524,6 +1734,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -1532,6 +1744,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -1540,6 +1753,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -1589,7 +1810,7 @@
       <SoundElementReference>SFX/explode</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
-      <Volume>800</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1604,6 +1825,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -1612,6 +1835,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -1620,6 +1844,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -1669,7 +1901,7 @@
       <SoundElementReference>SFX/explode_large</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/rolloff_000</AisacReference>
-      <Volume>800</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1684,6 +1916,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -1692,6 +1926,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -1700,6 +1935,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -1764,6 +2007,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -1772,6 +2017,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -1780,6 +2026,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -1844,6 +2098,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -1852,6 +2108,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -1860,6 +2117,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -1924,6 +2189,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -1932,6 +2199,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -1940,6 +2208,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitGroupReference>monster_guard</VoiceLimitGroupReference>
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
@@ -2005,6 +2281,8 @@
       <FilterCutoff2>0</FilterCutoff2>
       <FilterReso>0</FilterReso>
       <FilterReleaseOffset>0</FilterReleaseOffset>
+      <DryOName />
+      <Mtxrtr />
       <Dry0>0</Dry0>
       <Dry1>0</Dry1>
       <Dry2>0</Dry2>
@@ -2013,6 +2291,7 @@
       <Dry5>0</Dry5>
       <Dry6>0</Dry6>
       <Dry7>0</Dry7>
+      <WetOName />
       <Wet0>0</Wet0>
       <Wet1>0</Wet1>
       <Wet2>0</Wet2>
@@ -2021,6 +2300,14 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
+      <Wcnct0 />
+      <Wcnct1 />
+      <Wcnct2 />
+      <Wcnct3 />
+      <Wcnct4 />
+      <Wcnct5 />
+      <Wcnct6 />
+      <Wcnct7 />
       <VoiceLimitGroupReference>monster_guard</VoiceLimitGroupReference>
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
@@ -2068,8 +2355,7 @@
   <SoundElementNodes>
     <BuilderSoundElementNode>
       <Name>SFX/monster_damage</Name>
-      <Intro>00_monster_damage.aif_Intro.adx</Intro>
-      <Loop />
+      <Intro>SFX_monster_damage_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
@@ -2077,8 +2363,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/monster_smash</Name>
-      <Intro>01_monster_smash.aif_Intro.adx</Intro>
-      <Loop />
+      <Intro>SFX_monster_smash_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
@@ -2086,8 +2371,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/monster_guard</Name>
-      <Intro>02_monster_guard.aif_Intro.adx</Intro>
-      <Loop />
+      <Intro>SFX_monster_guard_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
@@ -2095,8 +2379,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/monster_paralysis</Name>
-      <Intro />
-      <Loop>03_monster_paralysis.aif_Loop.adx</Loop>
+      <Loop>SFX_monster_paralysis_Loop.adx</Loop>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
@@ -2104,8 +2387,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/monster_transfer</Name>
-      <Intro>04_monster_transfer.aif_Intro.adx</Intro>
-      <Loop />
+      <Intro>SFX_monster_transfer_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
@@ -2113,8 +2395,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/monster_collision</Name>
-      <Intro>05_monster_collision.aif_Intro.adx</Intro>
-      <Loop />
+      <Intro>SFX_monster_collision_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
@@ -2122,8 +2403,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/monster_crash</Name>
-      <Intro>06_monster_crash.aif_Intro.adx</Intro>
-      <Loop />
+      <Intro>SFX_monster_crash_Intro.adx</Intro>
       <ChannelCount>2</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
@@ -2131,8 +2411,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/monster_guardbreak</Name>
-      <Intro>07_monster_guardbreak.aif_Intro.adx</Intro>
-      <Loop />
+      <Intro>SFX_monster_guardbreak_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
@@ -2140,8 +2419,8 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/fire_bress</Name>
-      <Intro>08_fire_bress.aif_Intro.adx</Intro>
-      <Loop>08_fire_bress.aif_Loop.adx</Loop>
+      <Intro>SFX_fire_bress_Intro.adx</Intro>
+      <Loop>SFX_fire_bress_Loop.adx</Loop>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
@@ -2149,8 +2428,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/fire_ball</Name>
-      <Intro>09_fire_ball.aif_Intro.adx</Intro>
-      <Loop />
+      <Intro>SFX_fire_ball_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
@@ -2158,8 +2436,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/fire_explosion</Name>
-      <Intro>10_fire_expolosion.aif_Intro.adx</Intro>
-      <Loop />
+      <Intro>SFX_fire_explosion_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
@@ -2167,8 +2444,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/creep</Name>
-      <Intro>11_creep.aif_Intro.adx</Intro>
-      <Loop />
+      <Intro>SFX_creep_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
@@ -2176,8 +2452,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/spit</Name>
-      <Intro>12_spit.aif_Intro.adx</Intro>
-      <Loop />
+      <Intro>SFX_spit_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
@@ -2185,8 +2460,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/throw</Name>
-      <Intro>13_throw.aif_Intro.adx</Intro>
-      <Loop />
+      <Intro>SFX_throw_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>22050</SampleRate>
@@ -2194,8 +2468,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/darkexplosionS</Name>
-      <Intro>14_darkexplosionS.aif_Intro.adx</Intro>
-      <Loop />
+      <Intro>SFX_darkexplosionS_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
@@ -2203,8 +2476,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/darkexplosionL</Name>
-      <Intro>15_darkexplosionL.aif_Intro.adx</Intro>
-      <Loop />
+      <Intro>SFX_darkexplosionL_Intro.adx</Intro>
       <ChannelCount>2</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
@@ -2212,8 +2484,8 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/darklaser_beam</Name>
-      <Intro>16_darkLaser_beam.aif_Intro.adx</Intro>
-      <Loop>16_darkLaser_beam.aif_Loop.adx</Loop>
+      <Intro>SFX_darklaser_beam_Intro.adx</Intro>
+      <Loop>SFX_darklaser_beam_Loop.adx</Loop>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
@@ -2221,8 +2493,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/chaos_ImpactS</Name>
-      <Intro>17_chaos_ImpactS.aif_Intro.adx</Intro>
-      <Loop />
+      <Intro>SFX_chaos_ImpactS_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
@@ -2230,8 +2501,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/chaos_ImpactM</Name>
-      <Intro>18_chaos_ImpactM.aif_Intro.adx</Intro>
-      <Loop />
+      <Intro>SFX_chaos_ImpactM_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
@@ -2239,8 +2509,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/chaos_ImpactL</Name>
-      <Intro>19_chaos_ImpactL.aif_Intro.adx</Intro>
-      <Loop />
+      <Intro>SFX_chaos_ImpactL_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
@@ -2248,8 +2517,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/explode_small</Name>
-      <Intro>20_explode_small.aif_Intro.adx</Intro>
-      <Loop />
+      <Intro>SFX_explode_small_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
@@ -2257,8 +2525,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/explode</Name>
-      <Intro>21_explode.aif_Intro.adx</Intro>
-      <Loop />
+      <Intro>SFX_explode_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
@@ -2266,8 +2533,7 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/explode_large</Name>
-      <Intro>22_explode_large.aif_Intro.adx</Intro>
-      <Loop />
+      <Intro>SFX_explode_large_Intro.adx</Intro>
       <ChannelCount>2</ChannelCount>
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
@@ -2328,22 +2594,22 @@
             </BuilderAisacPointNode>
             <BuilderAisacPointNode>
               <Name>Point1</Name>
-              <X>740</X>
-              <Y>17944</Y>
+              <X>370</X>
+              <Y>8922</Y>
             </BuilderAisacPointNode>
             <BuilderAisacPointNode>
               <Name>Point2</Name>
-              <X>2338</X>
-              <Y>6078</Y>
+              <X>1169</X>
+              <Y>3039</Y>
             </BuilderAisacPointNode>
             <BuilderAisacPointNode>
               <Name>Point3</Name>
-              <X>6498</X>
+              <X>3249</X>
               <Y>0</Y>
             </BuilderAisacPointNode>
             <BuilderAisacPointNode>
               <Name>Point4</Name>
-              <X>20000</X>
+              <X>10000</X>
               <Y>0</Y>
             </BuilderAisacPointNode>
           </Points>
@@ -2363,356 +2629,16 @@
             </BuilderAisacPointNode>
             <BuilderAisacPointNode>
               <Name>Point1</Name>
-              <X>2850</X>
-              <Y>20000</Y>
+              <X>1425</X>
+              <Y>10000</Y>
             </BuilderAisacPointNode>
             <BuilderAisacPointNode>
               <Name>Point2</Name>
-              <X>9564</X>
-              <Y>8948</Y>
+              <X>4782</X>
+              <Y>4474</Y>
             </BuilderAisacPointNode>
             <BuilderAisacPointNode>
               <Name>Point3</Name>
-              <X>20000</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-          </Points>
-        </BuilderAisacGraphNode>
-        <BuilderAisacGraphNode>
-          <Name>Graph2</Name>
-          <Type>3</Type>
-          <MaximumX>1</MaximumX>
-          <MinimumX>0</MinimumX>
-          <MaximumY>0</MaximumY>
-          <MinimumY>0</MinimumY>
-          <Points>
-            <BuilderAisacPointNode>
-              <Name>Point0</Name>
-              <X>0</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point1</Name>
-              <X>20000</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-          </Points>
-        </BuilderAisacGraphNode>
-      </Graphs>
-      <RandomRange>0</RandomRange>
-    </BuilderAisacNode>
-    <BuilderAisacNode>
-      <Name>Globals/Aisac/rolloff_000</Name>
-      <AisacName>distance</AisacName>
-      <Type>0</Type>
-      <Graphs>
-        <BuilderAisacGraphNode>
-          <Name>Graph0</Name>
-          <Type>0</Type>
-          <MaximumX>1</MaximumX>
-          <MinimumX>0</MinimumX>
-          <MaximumY>1</MaximumY>
-          <MinimumY>0</MinimumY>
-          <Points>
-            <BuilderAisacPointNode>
-              <Name>Point0</Name>
-              <X>0</X>
-              <Y>10000</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point1</Name>
-              <X>309</X>
-              <Y>9568</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point2</Name>
-              <X>900</X>
-              <Y>1550</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point3</Name>
-              <X>1669</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point4</Name>
-              <X>10000</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-          </Points>
-        </BuilderAisacGraphNode>
-        <BuilderAisacGraphNode>
-          <Name>Graph1</Name>
-          <Type>4</Type>
-          <MaximumX>1</MaximumX>
-          <MinimumX>0</MinimumX>
-          <MaximumY>1</MaximumY>
-          <MinimumY>0</MinimumY>
-          <Points>
-            <BuilderAisacPointNode>
-              <Name>Point0</Name>
-              <X>0</X>
-              <Y>10000</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point1</Name>
-              <X>379</X>
-              <Y>7484</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point2</Name>
-              <X>1609</X>
-              <Y>15</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point3</Name>
-              <X>10000</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-          </Points>
-        </BuilderAisacGraphNode>
-        <BuilderAisacGraphNode>
-          <Name>Graph2</Name>
-          <Type>3</Type>
-          <MaximumX>1</MaximumX>
-          <MinimumX>0</MinimumX>
-          <MaximumY>0</MaximumY>
-          <MinimumY>0</MinimumY>
-          <Points>
-            <BuilderAisacPointNode>
-              <Name>Point0</Name>
-              <X>0</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point1</Name>
-              <X>10000</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-          </Points>
-        </BuilderAisacGraphNode>
-      </Graphs>
-      <RandomRange>0</RandomRange>
-    </BuilderAisacNode>
-    <BuilderAisacNode>
-      <Name>Globals/Aisac/rolloff_002</Name>
-      <AisacName>distance</AisacName>
-      <Type>0</Type>
-      <Graphs>
-        <BuilderAisacGraphNode>
-          <Name>Graph0</Name>
-          <Type>0</Type>
-          <MaximumX>1</MaximumX>
-          <MinimumX>0</MinimumX>
-          <MaximumY>1</MaximumY>
-          <MinimumY>0</MinimumY>
-          <Points>
-            <BuilderAisacPointNode>
-              <Name>Point0</Name>
-              <X>0</X>
-              <Y>10000</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point1</Name>
-              <X>480</X>
-              <Y>9061</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point2</Name>
-              <X>1030</X>
-              <Y>2176</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point3</Name>
-              <X>1650</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point4</Name>
-              <X>10000</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-          </Points>
-        </BuilderAisacGraphNode>
-      </Graphs>
-      <RandomRange>0</RandomRange>
-    </BuilderAisacNode>
-    <BuilderAisacNode>
-      <Name>Globals/Aisac/rolloff_005</Name>
-      <AisacName>distance</AisacName>
-      <Type>0</Type>
-      <Graphs>
-        <BuilderAisacGraphNode>
-          <Name>Graph0</Name>
-          <Type>0</Type>
-          <MaximumX>1</MaximumX>
-          <MinimumX>0</MinimumX>
-          <MaximumY>1</MaximumY>
-          <MinimumY>0</MinimumY>
-          <Points>
-            <BuilderAisacPointNode>
-              <Name>Point0</Name>
-              <X>0</X>
-              <Y>10000</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point1</Name>
-              <X>10000</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-          </Points>
-        </BuilderAisacGraphNode>
-      </Graphs>
-      <RandomRange>0</RandomRange>
-    </BuilderAisacNode>
-    <BuilderAisacNode>
-      <Name>Globals/Aisac/dark_explosion</Name>
-      <AisacName>distance</AisacName>
-      <Type>0</Type>
-      <Graphs>
-        <BuilderAisacGraphNode>
-          <Name>Graph0</Name>
-          <Type>0</Type>
-          <MaximumX>1</MaximumX>
-          <MinimumX>0</MinimumX>
-          <MaximumY>1</MaximumY>
-          <MinimumY>0</MinimumY>
-          <Points>
-            <BuilderAisacPointNode>
-              <Name>Point0</Name>
-              <X>0</X>
-              <Y>10000</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point1</Name>
-              <X>740</X>
-              <Y>17944</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point2</Name>
-              <X>2338</X>
-              <Y>6078</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point3</Name>
-              <X>6498</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point4</Name>
-              <X>20000</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-          </Points>
-        </BuilderAisacGraphNode>
-        <BuilderAisacGraphNode>
-          <Name>Graph1</Name>
-          <Type>4</Type>
-          <MaximumX>0.414</MaximumX>
-          <MinimumX>0</MinimumX>
-          <MaximumY>1</MaximumY>
-          <MinimumY>0</MinimumY>
-          <Points>
-            <BuilderAisacPointNode>
-              <Name>Point0</Name>
-              <X>0</X>
-              <Y>10000</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point1</Name>
-              <X>2850</X>
-              <Y>20000</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point2</Name>
-              <X>9564</X>
-              <Y>8948</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point3</Name>
-              <X>20000</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-          </Points>
-        </BuilderAisacGraphNode>
-        <BuilderAisacGraphNode>
-          <Name>Graph2</Name>
-          <Type>3</Type>
-          <MaximumX>1</MaximumX>
-          <MinimumX>0</MinimumX>
-          <MaximumY>0</MaximumY>
-          <MinimumY>0</MinimumY>
-          <Points>
-            <BuilderAisacPointNode>
-              <Name>Point0</Name>
-              <X>0</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point1</Name>
-              <X>20000</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-          </Points>
-        </BuilderAisacGraphNode>
-      </Graphs>
-      <RandomRange>0</RandomRange>
-    </BuilderAisacNode>
-    <BuilderAisacNode>
-      <Name>Globals/Aisac/rolloff_003</Name>
-      <AisacName>distance</AisacName>
-      <Type>0</Type>
-      <Graphs>
-        <BuilderAisacGraphNode>
-          <Name>Graph0</Name>
-          <Type>0</Type>
-          <MaximumX>1</MaximumX>
-          <MinimumX>0</MinimumX>
-          <MaximumY>1</MaximumY>
-          <MinimumY>0</MinimumY>
-          <Points>
-            <BuilderAisacPointNode>
-              <Name>Point0</Name>
-              <X>0</X>
-              <Y>10000</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point1</Name>
-              <X>680</X>
-              <Y>10000</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point2</Name>
-              <X>5049</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point3</Name>
-              <X>10000</X>
-              <Y>0</Y>
-            </BuilderAisacPointNode>
-          </Points>
-        </BuilderAisacGraphNode>
-        <BuilderAisacGraphNode>
-          <Name>Graph1</Name>
-          <Type>4</Type>
-          <MaximumX>0.223</MaximumX>
-          <MinimumX>0</MinimumX>
-          <MaximumY>1</MaximumY>
-          <MinimumY>0.865345</MinimumY>
-          <Points>
-            <BuilderAisacPointNode>
-              <Name>Point0</Name>
-              <X>0</X>
-              <Y>10000</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point1</Name>
-              <X>1569</X>
-              <Y>10000</Y>
-            </BuilderAisacPointNode>
-            <BuilderAisacPointNode>
-              <Name>Point2</Name>
               <X>10000</X>
               <Y>0</Y>
             </BuilderAisacPointNode>
@@ -2869,6 +2795,99 @@
             </BuilderAisacPointNode>
             <BuilderAisacPointNode>
               <Name>Point4</Name>
+              <X>10000</X>
+              <Y>0</Y>
+            </BuilderAisacPointNode>
+          </Points>
+        </BuilderAisacGraphNode>
+      </Graphs>
+      <RandomRange>0</RandomRange>
+    </BuilderAisacNode>
+    <BuilderAisacNode>
+      <Name>Globals/Aisac/rolloff_000</Name>
+      <AisacName>distance</AisacName>
+      <Type>0</Type>
+      <Graphs>
+        <BuilderAisacGraphNode>
+          <Name>Graph0</Name>
+          <Type>0</Type>
+          <MaximumX>1</MaximumX>
+          <MinimumX>0</MinimumX>
+          <MaximumY>1</MaximumY>
+          <MinimumY>0</MinimumY>
+          <Points>
+            <BuilderAisacPointNode>
+              <Name>Point0</Name>
+              <X>0</X>
+              <Y>10000</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point1</Name>
+              <X>309</X>
+              <Y>9568</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point2</Name>
+              <X>900</X>
+              <Y>1550</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point3</Name>
+              <X>1669</X>
+              <Y>0</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point4</Name>
+              <X>10000</X>
+              <Y>0</Y>
+            </BuilderAisacPointNode>
+          </Points>
+        </BuilderAisacGraphNode>
+        <BuilderAisacGraphNode>
+          <Name>Graph1</Name>
+          <Type>4</Type>
+          <MaximumX>1</MaximumX>
+          <MinimumX>0</MinimumX>
+          <MaximumY>1</MaximumY>
+          <MinimumY>0</MinimumY>
+          <Points>
+            <BuilderAisacPointNode>
+              <Name>Point0</Name>
+              <X>0</X>
+              <Y>10000</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point1</Name>
+              <X>379</X>
+              <Y>7484</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point2</Name>
+              <X>1609</X>
+              <Y>15</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point3</Name>
+              <X>10000</X>
+              <Y>0</Y>
+            </BuilderAisacPointNode>
+          </Points>
+        </BuilderAisacGraphNode>
+        <BuilderAisacGraphNode>
+          <Name>Graph2</Name>
+          <Type>3</Type>
+          <MaximumX>1</MaximumX>
+          <MinimumX>0</MinimumX>
+          <MaximumY>0</MaximumY>
+          <MinimumY>0</MinimumY>
+          <Points>
+            <BuilderAisacPointNode>
+              <Name>Point0</Name>
+              <X>0</X>
+              <Y>0</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point1</Name>
               <X>10000</X>
               <Y>0</Y>
             </BuilderAisacPointNode>
