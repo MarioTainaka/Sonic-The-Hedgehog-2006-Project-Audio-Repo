@@ -390,7 +390,7 @@
       <SoundElementReference>SFX/zakoress_fly</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/dark_ball</AisacReference>
-      <Volume>600</Volume>
+      <Volume>250</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -421,7 +421,7 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
-      <VoiceLimitGroupReference>zakoress_fly</VoiceLimitGroupReference>
+      <VoiceLimitGroupReference />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
