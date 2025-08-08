@@ -479,7 +479,7 @@
       <SoundElementReference>SFX/peel</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/rolloff_000</AisacReference>
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -559,7 +559,7 @@
       <SoundElementReference>SFX/warp</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/rolloff_000</AisacReference>
-      <Volume>800</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>

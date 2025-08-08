@@ -1445,8 +1445,8 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/chaos_ImpactS</SoundElementReference>
       <Children />
-      <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
-      <Volume>600</Volume>
+      <AisacReference>Globals/Aisac/dark_explosion_L</AisacReference>
+      <Volume>1300</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1536,8 +1536,8 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/chaos_ImpactM</SoundElementReference>
       <Children />
-      <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
-      <Volume>600</Volume>
+      <AisacReference>Globals/Aisac/dark_explosion_L</AisacReference>
+      <Volume>1300</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1627,8 +1627,8 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/chaos_ImpactL</SoundElementReference>
       <Children />
-      <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
-      <Volume>600</Volume>
+      <AisacReference>Globals/Aisac/dark_explosion_L</AisacReference>
+      <Volume>1300</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
