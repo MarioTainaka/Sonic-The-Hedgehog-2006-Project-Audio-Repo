@@ -2897,14 +2897,5 @@
       <RandomRange>0</RandomRange>
     </BuilderAisacNode>
   </AisacNodes>
-  <VoiceLimitGroupNodes>
-    <BuilderVoiceLimitGroupNode>
-      <Name>monster_damage</Name>
-      <MaxAmountOfInstances>5</MaxAmountOfInstances>
-    </BuilderVoiceLimitGroupNode>
-    <BuilderVoiceLimitGroupNode>
-      <Name>monster_guard</Name>
-      <MaxAmountOfInstances>5</MaxAmountOfInstances>
-    </BuilderVoiceLimitGroupNode>
-  </VoiceLimitGroupNodes>
+  <VoiceLimitGroupNodes />
 </CsbProject>
