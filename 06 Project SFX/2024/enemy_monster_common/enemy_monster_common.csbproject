@@ -6,7 +6,7 @@
       <Name>monster_damage</Name>
       <Id>200614000</Id>
       <SynthReference>SFX/monster_damage</SynthReference>
-      <UserComment />
+      <UserComment>P0050</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
@@ -20,14 +20,14 @@
       <Name>monster_guard</Name>
       <Id>200614002</Id>
       <SynthReference>SFX/monster_guard</SynthReference>
-      <UserComment />
+      <UserComment>P0050</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>monster_paralysis</Name>
       <Id>200614003</Id>
       <SynthReference>SFX/monster_paralysis</SynthReference>
-      <UserComment />
+      <UserComment>P0050</UserComment>
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
@@ -118,7 +118,7 @@
       <Name>darklaser_beam</Name>
       <Id>200614016</Id>
       <SynthReference>SFX/darklaser_beam</SynthReference>
-      <UserComment />
+      <UserComment>P0050</UserComment>
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
@@ -1354,7 +1354,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/darklaser_beam</SoundElementReference>
       <Children />
-      <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
+      <AisacReference>Globals/Aisac/dark_explosion_S</AisacReference>
       <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
@@ -2083,7 +2083,7 @@
       <SoundElementReference>SFX/monster_paralysis</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/monster_paralysis</AisacReference>
-      <Volume>400</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -2216,7 +2216,7 @@
       <Wcnct5 />
       <Wcnct6 />
       <Wcnct7 />
-      <VoiceLimitGroupReference>monster_guard</VoiceLimitGroupReference>
+      <VoiceLimitGroupReference />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -2308,7 +2308,7 @@
       <Wcnct5 />
       <Wcnct6 />
       <Wcnct7 />
-      <VoiceLimitGroupReference>monster_guard</VoiceLimitGroupReference>
+      <VoiceLimitGroupReference />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
