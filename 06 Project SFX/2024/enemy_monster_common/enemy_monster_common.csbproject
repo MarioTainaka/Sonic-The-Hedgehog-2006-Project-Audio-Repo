@@ -1446,7 +1446,7 @@
       <SoundElementReference>SFX/chaos_ImpactS</SoundElementReference>
       <Children />
       <AisacReference>Globals/Aisac/dark_explosion_L</AisacReference>
-      <Volume>1300</Volume>
+      <Volume>1500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
