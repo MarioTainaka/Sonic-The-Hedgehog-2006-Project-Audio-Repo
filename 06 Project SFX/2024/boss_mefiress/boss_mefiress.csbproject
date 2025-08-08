@@ -2572,14 +2572,5 @@
       <RandomRange>0</RandomRange>
     </BuilderAisacNode>
   </AisacNodes>
-  <VoiceLimitGroupNodes>
-    <BuilderVoiceLimitGroupNode>
-      <Name>zakoress_dead</Name>
-      <MaxAmountOfInstances>3</MaxAmountOfInstances>
-    </BuilderVoiceLimitGroupNode>
-    <BuilderVoiceLimitGroupNode>
-      <Name>zakoress_fly</Name>
-      <MaxAmountOfInstances>4</MaxAmountOfInstances>
-    </BuilderVoiceLimitGroupNode>
-  </VoiceLimitGroupNodes>
+  <VoiceLimitGroupNodes />
 </CsbProject>
