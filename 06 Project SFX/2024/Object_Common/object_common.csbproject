@@ -113,6 +113,7 @@
       <Name>200600_laser_move</Name>
       <Id>200600016</Id>
       <SynthReference>SFX/laser_move</SynthReference>
+      <UserComment>P0050</UserComment>
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
