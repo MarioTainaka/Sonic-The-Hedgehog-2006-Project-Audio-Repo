@@ -12,6 +12,7 @@
       <Name>200600_woodbox_exp</Name>
       <Id>200600000</Id>
       <SynthReference>SFX/woodbox_exp</SynthReference>
+      <UserComment>P0050</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
@@ -48,12 +49,14 @@
       <Name>200600_switch_on_m</Name>
       <Id>200600006</Id>
       <SynthReference>SFX/switch_on_m</SynthReference>
+      <UserComment>P0050</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>200600_switch_off_m</Name>
       <Id>200600007</Id>
       <SynthReference>SFX/switch_off_m</SynthReference>
+      <UserComment>P0050</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
@@ -96,12 +99,14 @@
       <Name>200600_laser</Name>
       <Id>200600014</Id>
       <SynthReference>SFX/laser</SynthReference>
+      <UserComment>P0050</UserComment>
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>200600_laser_off</Name>
       <Id>200600015</Id>
       <SynthReference>SFX/laser_off</SynthReference>
+      <UserComment>P0050</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
@@ -132,6 +137,7 @@
       <Name>200600_bombbox</Name>
       <Id>200600021</Id>
       <SynthReference>SFX/8003_035_bombbox</SynthReference>
+      <UserComment>P0050</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
@@ -1365,7 +1371,7 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
-      <VoiceLimitGroupReference>switch_on</VoiceLimitGroupReference>
+      <VoiceLimitGroupReference />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -1527,7 +1533,7 @@
       <Wet5>0</Wet5>
       <Wet6>0</Wet6>
       <Wet7>0</Wet7>
-      <VoiceLimitGroupReference>switch_off</VoiceLimitGroupReference>
+      <VoiceLimitGroupReference />
       <VoiceLimitType>0</VoiceLimitType>
       <VoiceLimitPriority>0</VoiceLimitPriority>
       <VoiceLimitProhibitionTime>0</VoiceLimitProhibitionTime>
@@ -6942,14 +6948,5 @@
       <RandomRange>0</RandomRange>
     </BuilderAisacNode>
   </AisacNodes>
-  <VoiceLimitGroupNodes>
-    <BuilderVoiceLimitGroupNode>
-      <Name>switch_on</Name>
-      <MaxAmountOfInstances>2</MaxAmountOfInstances>
-    </BuilderVoiceLimitGroupNode>
-    <BuilderVoiceLimitGroupNode>
-      <Name>switch_off</Name>
-      <MaxAmountOfInstances>2</MaxAmountOfInstances>
-    </BuilderVoiceLimitGroupNode>
-  </VoiceLimitGroupNodes>
+  <VoiceLimitGroupNodes />
 </CsbProject>
