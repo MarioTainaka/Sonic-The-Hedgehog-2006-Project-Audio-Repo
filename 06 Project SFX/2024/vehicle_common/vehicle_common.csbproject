@@ -2998,6 +2998,15 @@
       <SampleCount>41420</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
+      <Name>SFX/gadjet_jeep/accel</Name>
+      <Intro>00_accel.aif_Intro_1.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>50741</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
       <Name>SFX/gadjet_jetglider/fly01</Name>
       <Intro />
       <Loop>01_fly01.aif_Loop.adx</Loop>
@@ -3032,6 +3041,15 @@
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
       <SampleCount>73143</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>SFX/gadjet_jeep/run1_hi2</Name>
+      <Intro />
+      <Loop>01_run1_hi2.aif_Loop.adx</Loop>
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>79614</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/gadjet_jetglider/fly02</Name>
@@ -3070,6 +3088,15 @@
       <SampleCount>32306</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
+      <Name>SFX/gadjet_jeep/run1_hummer_idol</Name>
+      <Intro />
+      <Loop>01_run1_hummer_idol.aif_Loop.adx</Loop>
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>147901</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
       <Name>SFX/gadjet_jetglider/fry00</Name>
       <Intro>01_fry00.aif_Intro.adx</Intro>
       <Loop>01_fry00.aif_Loop.adx</Loop>
@@ -3095,6 +3122,15 @@
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
       <SampleCount>38135</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>SFX/gadjet_jeep/run2_roadnoise</Name>
+      <Intro>02_run2_roadnoise.aif_Loop.adx</Intro>
+      <Loop />
+      <ChannelCount>2</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>291208</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/gadjet_jetglider/curve</Name>
@@ -3124,6 +3160,15 @@
       <SampleCount>143104</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
+      <Name>SFX/gadjet_jeep/crash</Name>
+      <Intro>06_crash.aif_Intro_0.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>61022</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
       <Name>SFX/gadjet_jetglider/jet</Name>
       <Intro>03_jet.aif_Intro.adx</Intro>
       <Loop />
@@ -3149,6 +3194,15 @@
       <Streaming>false</Streaming>
       <SampleRate>44100</SampleRate>
       <SampleCount>46441</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>SFX/gadjet_jeep/land</Name>
+      <Intro>07_land.aif_Intro_0.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>55933</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>SFX/gadjet_jetglider/crash</Name>
