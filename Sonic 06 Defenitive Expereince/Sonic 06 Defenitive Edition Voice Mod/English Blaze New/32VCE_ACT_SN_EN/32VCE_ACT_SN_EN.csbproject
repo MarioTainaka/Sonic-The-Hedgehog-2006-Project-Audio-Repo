@@ -5320,7 +5320,7 @@
       <Type>WithChildren</Type>
       <PlaybackType>Polyphonic</PlaybackType>
       <Children>
-        <string>Synth/3000000_voice/3000000_voice_Add/bos01_a07_action_suc_bz_en/bos01_a07_action_suc_bz_en</string>
+        <string>Synth/3000000_voice/3000000_voice_Add/bos01_a07_action_suc_bz_en/all01_v12_bz_en</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
       <Volume>800</Volume>
@@ -5397,10 +5397,10 @@
       <ComboLoopBack>0</ComboLoopBack>
     </BuilderSynthNode>
     <BuilderSynthNode>
-      <Name>Synth/3000000_voice/3000000_voice_Add/bos01_a07_action_suc_bz_en/bos01_a07_action_suc_bz_en</Name>
+      <Name>Synth/3000000_voice/3000000_voice_Add/bos01_a07_action_suc_bz_en/all01_v12_bz_en</Name>
       <Type>Single</Type>
       <PlaybackType>Normal</PlaybackType>
-      <SoundElementReference>Synth/3000000_voice/3000000_voice_Add/bos01_a07_action_suc_bz_en</SoundElementReference>
+      <SoundElementReference>Synth/3000000_voice/3000000_voice_Rank/all01_v12_bz_en</SoundElementReference>
       <Children />
       <Volume>800</Volume>
       <Pitch>0</Pitch>
