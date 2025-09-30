@@ -44,6 +44,30 @@
       <UserComment />
       <Flags>1</Flags>
     </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>fire_ball</Name>
+      <Id>200614009</Id>
+      <SynthReference>Synth/5000000_enemy/5162000_ENM_TAK_ADD/5162_add_fireball</SynthReference>
+      <Flags>0</Flags>
+    </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>fire_explosion</Name>
+      <Id>200614010</Id>
+      <SynthReference>Synth/5000000_enemy/5162000_ENM_TAK_ADD/5162_add_fire_explosion</SynthReference>
+      <Flags>0</Flags>
+    </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>spit</Name>
+      <Id>200614012</Id>
+      <SynthReference>Synth/5000000_enemy/5162000_ENM_TAK_ADD/5162_add_spit</SynthReference>
+      <Flags>0</Flags>
+    </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>darkexplosionS</Name>
+      <Id>200614014</Id>
+      <SynthReference>Synth/5000000_enemy/5162000_ENM_TAK_ADD/5162_add_darkexplosionS</SynthReference>
+      <Flags>0</Flags>
+    </BuilderCueNode>
   </CueNodes>
   <SynthNodes>
     <BuilderSynthNode>
@@ -1143,6 +1167,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/5000000_enemy/5162000_ENM_TAK_ADD/5162_add_fireball</SoundElementReference>
       <Children />
+      <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
       <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
@@ -1222,6 +1247,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/5000000_enemy/5162000_ENM_TAK_ADD/5162_add_fire_explosion</SoundElementReference>
       <Children />
+      <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
       <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
@@ -1301,6 +1327,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/5000000_enemy/5162000_ENM_TAK_ADD/5162_add_spit</SoundElementReference>
       <Children />
+      <AisacReference>Globals/Aisac/rolloff_2010_03</AisacReference>
       <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
@@ -1380,6 +1407,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/5000000_enemy/5162000_ENM_TAK_ADD/5162_add_darkexplosionS</SoundElementReference>
       <Children />
+      <AisacReference>Globals/Aisac/dark_explosion_S</AisacReference>
       <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
@@ -1710,6 +1738,82 @@
             </BuilderAisacPointNode>
             <BuilderAisacPointNode>
               <Name>Point1</Name>
+              <X>10000</X>
+              <Y>0</Y>
+            </BuilderAisacPointNode>
+          </Points>
+        </BuilderAisacGraphNode>
+      </Graphs>
+      <RandomRange>0</RandomRange>
+    </BuilderAisacNode>
+    <BuilderAisacNode>
+      <Name>Globals/Aisac/rolloff_2010_03</Name>
+      <AisacName>distance</AisacName>
+      <Type>0</Type>
+      <Graphs>
+        <BuilderAisacGraphNode>
+          <Name>Graph0</Name>
+          <Type>0</Type>
+          <MaximumX>1</MaximumX>
+          <MinimumX>0</MinimumX>
+          <MaximumY>1</MaximumY>
+          <MinimumY>0</MinimumY>
+          <Points>
+            <BuilderAisacPointNode>
+              <Name>Point0</Name>
+              <X>0</X>
+              <Y>10000</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point1</Name>
+              <X>5000</X>
+              <Y>6800</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point2</Name>
+              <X>10000</X>
+              <Y>0</Y>
+            </BuilderAisacPointNode>
+          </Points>
+        </BuilderAisacGraphNode>
+      </Graphs>
+      <RandomRange>0</RandomRange>
+    </BuilderAisacNode>
+    <BuilderAisacNode>
+      <Name>Globals/Aisac/dark_explosion_S</Name>
+      <AisacName>distance</AisacName>
+      <Type>0</Type>
+      <Graphs>
+        <BuilderAisacGraphNode>
+          <Name>Graph0</Name>
+          <Type>0</Type>
+          <MaximumX>1</MaximumX>
+          <MinimumX>0</MinimumX>
+          <MaximumY>1</MaximumY>
+          <MinimumY>0</MinimumY>
+          <Points>
+            <BuilderAisacPointNode>
+              <Name>Point0</Name>
+              <X>0</X>
+              <Y>10000</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point1</Name>
+              <X>480</X>
+              <Y>9061</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point2</Name>
+              <X>1030</X>
+              <Y>2176</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point3</Name>
+              <X>1650</X>
+              <Y>0</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point4</Name>
               <X>10000</X>
               <Y>0</Y>
             </BuilderAisacPointNode>
