@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <CsbProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>52ENM_TAK</Name>
+  <Name>52ENM_TAK_ADD</Name>
   <CueNodes>
     <BuilderCueNode>
       <Name>5162_flap</Name>
@@ -46,25 +46,25 @@
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>fire_ball</Name>
-      <Id>200614009</Id>
+      <Id>5162006</Id>
       <SynthReference>Synth/5000000_enemy/5162000_ENM_TAK_ADD/5162_add_fireball</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>fire_explosion</Name>
-      <Id>200614010</Id>
+      <Id>5162007</Id>
       <SynthReference>Synth/5000000_enemy/5162000_ENM_TAK_ADD/5162_add_fire_explosion</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>spit</Name>
-      <Id>200614012</Id>
+      <Id>5162008</Id>
       <SynthReference>Synth/5000000_enemy/5162000_ENM_TAK_ADD/5162_add_spit</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>darkexplosionS</Name>
-      <Id>200614014</Id>
+      <Id>5162009</Id>
       <SynthReference>Synth/5000000_enemy/5162000_ENM_TAK_ADD/5162_add_darkexplosionS</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
