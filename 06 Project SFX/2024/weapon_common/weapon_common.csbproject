@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<CsbProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>weapon_common</Name>
+  <CueNodes />
+  <SynthNodes />
+  <SoundElementNodes>
+    <BuilderSoundElementNode>
+      <Name>SFX/eggpawn_shoot</Name>
+      <Intro>eggpawn_shoot.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>16000</SampleRate>
+      <SampleCount>15467</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>SFX/eggpawn_bullet</Name>
+      <Intro>eggpawn_bullet.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>63557</SampleCount>
+    </BuilderSoundElementNode>
+  </SoundElementNodes>
+  <AisacNodes />
+  <VoiceLimitGroupNodes />
+</CsbProject>
