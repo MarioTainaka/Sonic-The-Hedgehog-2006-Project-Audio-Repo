@@ -22,6 +22,24 @@
       <SampleRate>44100</SampleRate>
       <SampleCount>63557</SampleCount>
     </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>SFX/weapon_no_ammo</Name>
+      <Intro>weapon_no_ammo.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>22050</SampleRate>
+      <SampleCount>9648</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>SFX/weapon_reload</Name>
+      <Intro>weapon_reload.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>15591</SampleRate>
+      <SampleCount>6169</SampleCount>
+    </BuilderSoundElementNode>
   </SoundElementNodes>
   <AisacNodes />
   <VoiceLimitGroupNodes />
