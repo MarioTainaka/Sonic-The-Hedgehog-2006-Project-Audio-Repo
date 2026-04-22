@@ -37,7 +37,7 @@
         <string>SFX/eggpawn_shoot/eggpawn_shoot</string>
       </Children>
       <AisacReference>Globals/Aisacs/rolloff_dummy</AisacReference>
-      <Volume>500</Volume>
+      <Volume>700</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -116,7 +116,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/eggpawn_shoot</SoundElementReference>
       <Children />
-      <Volume>500</Volume>
+      <Volume>700</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -197,7 +197,7 @@
         <string>SFX/eggpawn_bullet/eggpawn_bullet</string>
       </Children>
       <AisacReference>Globals/Aisacs/rolloff_001</AisacReference>
-      <Volume>500</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -276,7 +276,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/eggpawn_bullet</SoundElementReference>
       <Children />
-      <Volume>500</Volume>
+      <Volume>600</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -357,7 +357,7 @@
         <string>SFX/weapon_no_ammo/weapon_no_ammo</string>
       </Children>
       <AisacReference>Globals/Aisacs/rolloff_dummy</AisacReference>
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -436,7 +436,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/weapon_no_ammo</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
