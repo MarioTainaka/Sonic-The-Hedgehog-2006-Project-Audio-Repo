@@ -12,6 +12,7 @@
       <Name>eggpawn_bullet</Name>
       <Id>200616001</Id>
       <SynthReference>SFX/eggpawn_bullet</SynthReference>
+      <UserComment>P0050</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
@@ -36,7 +37,7 @@
         <string>SFX/eggpawn_shoot/eggpawn_shoot</string>
       </Children>
       <AisacReference>Globals/Aisacs/rolloff_dummy</AisacReference>
-      <Volume>1000</Volume>
+      <Volume>500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -115,7 +116,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/eggpawn_shoot</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -195,8 +196,8 @@
       <Children>
         <string>SFX/eggpawn_bullet/eggpawn_bullet</string>
       </Children>
-      <AisacReference>Globals/Aisacs/rolloff_dummy</AisacReference>
-      <Volume>1000</Volume>
+      <AisacReference>Globals/Aisacs/rolloff_001</AisacReference>
+      <Volume>500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -275,7 +276,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>SFX/eggpawn_bullet</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -725,6 +726,99 @@
               <Name>Point0</Name>
               <X>0</X>
               <Y>10000</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point1</Name>
+              <X>10000</X>
+              <Y>0</Y>
+            </BuilderAisacPointNode>
+          </Points>
+        </BuilderAisacGraphNode>
+      </Graphs>
+      <RandomRange>0</RandomRange>
+    </BuilderAisacNode>
+    <BuilderAisacNode>
+      <Name>Globals/Aisacs/rolloff_001</Name>
+      <AisacName>distance</AisacName>
+      <Type>0</Type>
+      <Graphs>
+        <BuilderAisacGraphNode>
+          <Name>Graph0</Name>
+          <Type>0</Type>
+          <MaximumX>1</MaximumX>
+          <MinimumX>0</MinimumX>
+          <MaximumY>1</MaximumY>
+          <MinimumY>0</MinimumY>
+          <Points>
+            <BuilderAisacPointNode>
+              <Name>Point0</Name>
+              <X>0</X>
+              <Y>10000</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point1</Name>
+              <X>370</X>
+              <Y>8922</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point2</Name>
+              <X>1169</X>
+              <Y>3039</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point3</Name>
+              <X>3249</X>
+              <Y>0</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point4</Name>
+              <X>10000</X>
+              <Y>0</Y>
+            </BuilderAisacPointNode>
+          </Points>
+        </BuilderAisacGraphNode>
+        <BuilderAisacGraphNode>
+          <Name>Graph1</Name>
+          <Type>4</Type>
+          <MaximumX>0.414</MaximumX>
+          <MinimumX>0</MinimumX>
+          <MaximumY>1</MaximumY>
+          <MinimumY>0</MinimumY>
+          <Points>
+            <BuilderAisacPointNode>
+              <Name>Point0</Name>
+              <X>0</X>
+              <Y>10000</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point1</Name>
+              <X>1425</X>
+              <Y>10000</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point2</Name>
+              <X>4782</X>
+              <Y>4474</Y>
+            </BuilderAisacPointNode>
+            <BuilderAisacPointNode>
+              <Name>Point3</Name>
+              <X>10000</X>
+              <Y>0</Y>
+            </BuilderAisacPointNode>
+          </Points>
+        </BuilderAisacGraphNode>
+        <BuilderAisacGraphNode>
+          <Name>Graph2</Name>
+          <Type>3</Type>
+          <MaximumX>1</MaximumX>
+          <MinimumX>0</MinimumX>
+          <MaximumY>0</MaximumY>
+          <MinimumY>0</MinimumY>
+          <Points>
+            <BuilderAisacPointNode>
+              <Name>Point0</Name>
+              <X>0</X>
+              <Y>0</Y>
             </BuilderAisacPointNode>
             <BuilderAisacPointNode>
               <Name>Point1</Name>
