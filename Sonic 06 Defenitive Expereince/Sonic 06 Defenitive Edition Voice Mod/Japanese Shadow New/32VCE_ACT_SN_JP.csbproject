@@ -6907,7 +6907,7 @@
         <string>Synth/3000000_voice/3000000_voice_Add/act01_p15_sd_jp/act01_p15_sd_jp</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>800</Volume>
+      <Volume>850</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -6986,7 +6986,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/3000000_voice/3000000_voice_Add/act01_p15_sd_jp</SoundElementReference>
       <Children />
-      <Volume>800</Volume>
+      <Volume>850</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -7067,7 +7067,7 @@
         <string>Synth/3000000_voice/3000000_voice_Add/act01_p16_sd_jp/act01_p16_sd_jp</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>800</Volume>
+      <Volume>850</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -7146,7 +7146,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/3000000_voice/3000000_voice_Add/act01_p16_sd_jp</SoundElementReference>
       <Children />
-      <Volume>800</Volume>
+      <Volume>850</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -7227,7 +7227,7 @@
         <string>Synth/3000000_voice/3000000_voice_Add/act01_p15_sd_jp_edit/act01_p15_sd_jp_edit</string>
       </Children>
       <AisacReference>Globals/Aisac/uw_switch1</AisacReference>
-      <Volume>800</Volume>
+      <Volume>850</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -7306,7 +7306,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/3000000_voice/3000000_voice_Add/act01_p15_sd_jp_edit</SoundElementReference>
       <Children />
-      <Volume>800</Volume>
+      <Volume>850</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
