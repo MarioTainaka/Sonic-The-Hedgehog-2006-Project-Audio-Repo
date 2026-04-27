@@ -225,7 +225,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/1000000_system/1000000_SYS_CMN/1000_000_sw_open_aif</SoundElementReference>
       <Children />
-      <Volume>750</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -406,7 +406,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/1000000_system/1000000_SYS_CMN/1000_001_sw_close_aif</SoundElementReference>
       <Children />
-      <Volume>800</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -949,7 +949,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/1000000_system/1000000_SYS_CMN/1000_004_cursor_aif</SoundElementReference>
       <Children />
-      <Volume>699</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3214,7 +3214,7 @@
       <Children>
         <string>Synth/1000000_system/1000000_SYS_CMN/1000_008_pressstart/1000_008_pressstart_aif</string>
       </Children>
-      <Volume>800</Volume>
+      <Volume>1000</Volume>
       <Pitch>-130</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3293,7 +3293,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/1000000_system/1000000_SYS_CMN/1000_008_pressstart_aif</SoundElementReference>
       <Children />
-      <Volume>800</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3373,7 +3373,7 @@
       <Children>
         <string>Synth/1000000_system/1000000_SYS_CMN/1000_016_cursor2/1000_016_cursor2</string>
       </Children>
-      <Volume>800</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3533,7 +3533,7 @@
       <Children>
         <string>Synth/1000000_system/1000000_SYS_CMN/1000_008_pressstart_Xbla/1000_008_pressstart_aif</string>
       </Children>
-      <Volume>800</Volume>
+      <Volume>1000</Volume>
       <Pitch>-50</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3612,7 +3612,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/1000000_system/1000000_SYS_CMN/1000_008_pressstart_aif</SoundElementReference>
       <Children />
-      <Volume>800</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3834,12 +3834,12 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/1000000_system/1000000_SYS_CMN/1000_016_cursor2_wav</Name>
-      <Intro>03_cursor2.aif_Intro_0.adx</Intro>
+      <Intro>b0_system_2_2_0.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>44100</SampleRate>
-      <SampleCount>27621</SampleCount>
+      <SampleRate>22050</SampleRate>
+      <SampleCount>9648</SampleCount>
     </BuilderSoundElementNode>
   </SoundElementNodes>
   <AisacNodes />
