@@ -135,7 +135,7 @@
       <Children>
         <string>Synth/1000000_system/1000000_SYS_CMN/1000_000_sw_open/1000_000_sw_open</string>
       </Children>
-      <Volume>1000</Volume>
+      <Volume>1200</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -225,7 +225,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/1000000_system/1000000_SYS_CMN/1000_000_sw_open_aif</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1200</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -316,7 +316,7 @@
       <Children>
         <string>Synth/1000000_system/1000000_SYS_CMN/1000_001_sw_close/1000_001_sw_close</string>
       </Children>
-      <Volume>1000</Volume>
+      <Volume>1200</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -406,7 +406,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/1000000_system/1000000_SYS_CMN/1000_001_sw_close_aif</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1200</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -497,7 +497,7 @@
       <Children>
         <string>Synth/1000000_system/1000000_SYS_CMN/1000_002_fw_open/1000_002_fw_open</string>
       </Children>
-      <Volume>1000</Volume>
+      <Volume>1200</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -587,7 +587,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/1000000_system/1000000_SYS_CMN/1000_002_fw_open_aif</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1200</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -678,7 +678,7 @@
       <Children>
         <string>Synth/1000000_system/1000000_SYS_CMN/1000_003_fw_close/1000_003_fw_close</string>
       </Children>
-      <Volume>1000</Volume>
+      <Volume>1200</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -768,7 +768,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/1000000_system/1000000_SYS_CMN/1000_003_fw_close_aif</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1200</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -859,7 +859,7 @@
       <Children>
         <string>Synth/1000000_system/1000000_SYS_CMN/1000_004_cursor/1000_004_cursor</string>
       </Children>
-      <Volume>1000</Volume>
+      <Volume>1200</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -949,7 +949,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/1000000_system/1000000_SYS_CMN/1000_004_cursor_aif</SoundElementReference>
       <Children />
-      <Volume>800</Volume>
+      <Volume>1200</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1040,7 +1040,7 @@
       <Children>
         <string>Synth/1000000_system/1000000_SYS_CMN/1000_005_button/1000_005_button</string>
       </Children>
-      <Volume>1000</Volume>
+      <Volume>1200</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1130,7 +1130,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/1000000_system/1000000_SYS_CMN/1000_005_button_aif</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1200</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1402,7 +1402,7 @@
       <Children>
         <string>Synth/1000000_system/1000000_SYS_CMN/1000_007_select_ng/1000_007_select_ng</string>
       </Children>
-      <Volume>1000</Volume>
+      <Volume>1200</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -1492,7 +1492,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/1000000_system/1000000_SYS_CMN/1000_007_select_ng_aif</SoundElementReference>
       <Children />
-      <Volume>1000</Volume>
+      <Volume>1200</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3373,7 +3373,7 @@
       <Children>
         <string>Synth/1000000_system/1000000_SYS_CMN/1000_016_cursor2/1000_016_cursor2</string>
       </Children>
-      <Volume>1000</Volume>
+      <Volume>1200</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3453,7 +3453,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/1000000_system/1000000_SYS_CMN/1000_016_cursor2_wav</SoundElementReference>
       <Children />
-      <Volume>800</Volume>
+      <Volume>1200</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
