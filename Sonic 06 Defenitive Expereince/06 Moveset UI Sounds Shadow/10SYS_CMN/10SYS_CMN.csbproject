@@ -3689,55 +3689,57 @@
   <SoundElementNodes>
     <BuilderSoundElementNode>
       <Name>Synth/1000000_system/1000000_SYS_CMN/1000_000_sw_open_aif</Name>
-      <Intro>Synth_1000000_system_1000000_SYS_CMN_1000_000_sw_open_aif_Intro.adx</Intro>
-      <ChannelCount>2</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>32000</SampleRate>
-      <SampleCount>12849</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
-      <Name>Synth/1000000_system/1000000_SYS_CMN/1000_001_sw_close_aif</Name>
-      <Intro>Synth_1000000_system_1000000_SYS_CMN_1000_001_sw_close_aif_Intro.adx</Intro>
-      <ChannelCount>2</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>28000</SampleRate>
-      <SampleCount>9733</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
-      <Name>Synth/1000000_system/1000000_SYS_CMN/1000_002_fw_open_aif</Name>
-      <Intro>01_window_open.aif_Intro.adx</Intro>
-      <Loop />
-      <ChannelCount>2</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>44100</SampleRate>
-      <SampleCount>51544</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
-      <Name>Synth/1000000_system/1000000_SYS_CMN/1000_003_fw_close_aif</Name>
-      <Intro>02_window_close.aif_Intro.adx</Intro>
-      <Loop />
-      <ChannelCount>2</ChannelCount>
-      <Streaming>false</Streaming>
-      <SampleRate>44100</SampleRate>
-      <SampleCount>51274</SampleCount>
-    </BuilderSoundElementNode>
-    <BuilderSoundElementNode>
-      <Name>Synth/1000000_system/1000000_SYS_CMN/1000_004_cursor_aif</Name>
-      <Intro>12_move.aif_Intro.adx</Intro>
+      <Intro>b0_system_0.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>44100</SampleRate>
-      <SampleCount>10164</SampleCount>
+      <SampleRate>22050</SampleRate>
+      <SampleCount>20513</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth/1000000_system/1000000_SYS_CMN/1000_001_sw_close_aif</Name>
+      <Intro>b0_system_1.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>22050</SampleRate>
+      <SampleCount>13094</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth/1000000_system/1000000_SYS_CMN/1000_002_fw_open_aif</Name>
+      <Intro>b0_system_0_0.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>22050</SampleRate>
+      <SampleCount>20513</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth/1000000_system/1000000_SYS_CMN/1000_003_fw_close_aif</Name>
+      <Intro>b0_system_1_0.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>22050</SampleRate>
+      <SampleCount>13094</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth/1000000_system/1000000_SYS_CMN/1000_004_cursor_aif</Name>
+      <Intro>b0_system_2_2.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>22050</SampleRate>
+      <SampleCount>9648</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/1000000_system/1000000_SYS_CMN/1000_005_button_aif</Name>
-      <Intro>14_main_deside.aif_Intro.adx</Intro>
+      <Intro>b0_system_3.adx</Intro>
       <Loop />
-      <ChannelCount>2</ChannelCount>
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>44100</SampleRate>
-      <SampleCount>59238</SampleCount>
+      <SampleRate>22050</SampleRate>
+      <SampleCount>34003</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/1000000_system/1000000_SYS_CMN/1000_006_lr_slide_aif</Name>
@@ -3749,21 +3751,21 @@
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/1000000_system/1000000_SYS_CMN/1000_007_select_ng_aif</Name>
-      <Intro>13_cannot_deside.aif_Intro.adx</Intro>
+      <Intro>b0_system_6.adx</Intro>
       <Loop />
       <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>44100</SampleRate>
-      <SampleCount>12215</SampleCount>
+      <SampleRate>16519</SampleRate>
+      <SampleCount>5556</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/1000000_system/1000000_SYS_CMN/1000_008_pressstart_aif</Name>
-      <Intro>00_pressstart.aif_Intro.adx</Intro>
+      <Intro>b0_system_4.adx</Intro>
       <Loop />
-      <ChannelCount>2</ChannelCount>
+      <ChannelCount>1</ChannelCount>
       <Streaming>false</Streaming>
-      <SampleRate>44100</SampleRate>
-      <SampleCount>448176</SampleCount>
+      <SampleRate>22050</SampleRate>
+      <SampleCount>34003</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/1000000_system/1000000_SYS_CMN/1000_009_load01_00_wav</Name>
