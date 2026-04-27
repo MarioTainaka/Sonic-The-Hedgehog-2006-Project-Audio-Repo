@@ -3373,7 +3373,7 @@
       <Children>
         <string>Synth/1000000_system/1000000_SYS_CMN/1000_016_cursor2/1000_016_cursor2</string>
       </Children>
-      <Volume>1200</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -3453,7 +3453,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/1000000_system/1000000_SYS_CMN/1000_016_cursor2_wav</SoundElementReference>
       <Children />
-      <Volume>1200</Volume>
+      <Volume>1000</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
